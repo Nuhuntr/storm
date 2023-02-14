@@ -132,6 +132,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-ESBC1400002MN" tvg-id="ESBC1400002MN" tvg-chno="4411" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400002MN_20220412T141122SQUARE.png_20220412141124.png" group-title="Estilo de Vida",Entrena Virtual by Vikika
 https://d1b3ih5h5mvhe9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xzw42c0gbtlyw-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="Deportes",Fitness
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KGlWnyx.jpg" group-title="Estilo de vida",TV Salud (latino)
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 group-title="Estilo de vida",¡Hola! Play (e-Amazon)
@@ -388,10 +390,22 @@ acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (HD) (ACE)
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones (FHD) (ACE)
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones (HD) (ACE)
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga Smartbank (HD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones 2 (FHD) (ACE)
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones 2 (FHD) (ACE)
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones 2 (HD) (ACE)
+acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga Smartbank 1 (FHD) (ACE)
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga Smartbank 1 (HD) (ACE)
+acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga Smartbank 2 (FHD) (ACE)
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): #Vamos (FHD) (ACE)
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): #Vamos (HD) (ACE)
@@ -404,6 +418,10 @@ acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ Deportes 2 (FHD) (ACE)
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): ESPN EXTRA (FHD) (ACE)
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): ESPN STAR+ (FHD) (ACE)
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN 1 (FHD) (ACE)
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN 2 (FHD) (ACE)
@@ -414,11 +432,19 @@ acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN 4 (FHD) (ACE)
 acestream://149a38e333de920753f1388c43247283bdb05f5b
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): EUROSPORT 1 (FHD) (ACE)
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): EUROSPORT 2 (FHD) (ACE)
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): TELEDEPORTE (FHD) (ACE)
+acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/fcb.png" group-title="Deportes Acestream",(🇪🇸): BARÇA TV (cat) (SD) (ACE)
 acestream://a7968ae40764bf3d4498c72328fcbaecbe0a3450
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ Golf (FHD) (ACE)
-4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
- de nuevo el amor
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): #0 (HD) (ACE)
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/fcb.png" group-title="Deportes",(🇪🇸): BARÇA TV (cat)➾(SD)⚽
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
 #EXTINF:0 group-title="Deportes",(🇪🇸): E3 (Esport 3) (cat) (FHD)
@@ -459,14 +485,12 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",Action Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=575de5f7-e1e3-4e8a-badb-28d74da20e1d&deviceVersion=103.0.0&appVersion=6.4.0-3bcdc583b1e5a19f7836864e7ebe5e04d5e576c9&deviceType=web&deviceMake=chrome&sid=b4954091-110c-11ed-882b-0242ac110003&advertisingId=&deviceLat=38.342&deviceLon=-0.4825&deviceDNT=0&deviceModel=web&userId=&appName=web&gdpr=1&gdprConsent=CPZtJ0bPZtJ1WAcABBENCaCgAAAAAAAAACiQAAAAAAIhADYABoAGAAbABcAGAASAAtABeADoAH4ARgAnQBaAFuAMIAxQBlAGyAQIBBACMgEeASAAogBSAC5AHEAQkAkoBTQFQAL_AYoA8wKALAAUACoAHoARwApACtAHAAQgAlcBXQFfAYyGAYgAGgAWABoAFYALgAwACAAEgAKgAZAA9AB_AEMARIAjACOAEyAJwAngBSgC0ALcAXwBiADLAGgAbAA5wCBAIIAQgAhgBEgCMAEdAKIApQBWgC3AFzAOAA4gBzwEIAQkAjABKwCmwFdAV8AuoBgQDeAH6ASIAvMBf4DFAGMgMkAacA8wQAGAAMACQAJ4AWwBSAG8EQAwBDAEYASIKgCgBDACYAI4A3gC8xQAEAUgyAKAEMAJgAjgDeALzGAAQBSDgDgABoAGAAaABgAEgALQAXgA6ACMAE6ALQAtgBhADKAGwAN0AgQCCAEIAIyAR4BIACiAFIALkAcQBCQCSgH6AX-AxQB5g8AYAAoAFQAPQAjgBSAFaAOAAlYBOICugK-AfwBjJAAYAA0AMIAgQBHgCkAFuALkAcQBCQCSgH6AYoRADgAqAFaAOAAlYBOICugK-AfwkATAAMAA0ADAAJAAtABhADKAGwAN0AgQCCAEIAKIAUgA4gCSgGBAP0Av8BihMAQAEcAKQArQCVgFNgK6Ar4B_AGMlADQABgAGgAYABIAC0AHQARgAtABhADKAGyAQIBBACEAEZAI8AkABRACkAHEAQgAkoBTQDAgH6AX-AxQB5hUAOACoAI4ArQCVwFdAV8BjIDTgAAA.YAAAAAAAAAAA&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjMyNjAyN2I0LTlmZGEtNDMzOC05NTRkLWQ5MzBlZmIzOWQ5YiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNDk1NDA5MS0xMTBjLTExZWQtODgyYi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6Ijk1LjIzLjIzOC44NCIsImNpdHkiOiJBbGljYW50ZSIsInBvc3RhbENvZGUiOiIwMzAxNSIsImNvdW50cnkiOiJFUyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiRVMiLCJkZXZpY2VMYXQiOjM4LjM0MiwiZGV2aWNlTG9uIjotMC40ODI1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjQuMC0zYmNkYzU4M2IxZTVhMTlmNzgzNjg2NGU3ZWJlNWUwNGQ1ZTU3NmM5IiwiY2xpZW50SUQiOiI1NzVkZTVmNy1lMWUzLTRlOGEtYmFkYi0yOGQ3NGRhMjBlMWQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NTkzMjY5NzgsImp0aSI6IjdiZDY3MGI3LWM4YzMtNDNmNS05NzZhLTg3YWNkNzQ4YzgwNSIsImlhdCI6MTY1OTI5ODE3OCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5UYzFaR1UxWmpjdFpURmxNeTAwWlRoaExXSmhaR0l0TWpoa056UmtZVEl3WlRGayJ9.ALBDa0Pc5CG9xgNe8h6jf_bu63b0MLqTVgZZ1a_4soM
-#EXTINF:-1 group-title="Deportes",Fitness
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Deportes",Fuel TV (sub)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f1673d0e4370000784dc61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-name="deluxe-lounge-hd" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg" group-title="Música Videoclips",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4222&ads%3Astreaming_id=ea7930b8-dbeb-4630-beb3-43839053df8d&ads%3Atcf=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
-#EXTINF:-1 group-title="Musica Videoclips",The Retro Channel
+#EXTINF:-1 group-title="Música Videoclips",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Retro Plus 
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -4209,7 +4233,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n644
 https://cdn02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png",Bon Dia (cat)
 https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
-#EXTINF:-1 group-title="TV LOCAL",teve.cat (cat)
+#EXTINF:-1 group-title="TV LOCAL",canal4 (cat)
 https://www.tdtchannels.com/stream/tevecat.m3u8
 #EXTINF:-1 group-title="TV LOCAL",8 TV (cat)
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
