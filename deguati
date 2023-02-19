@@ -1,241 +1,201 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE", LA 1 
+#EXTINF:-1 tvg-id="La 1 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE", LA 1 
 http://51.158.36.81:18000/LA_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2", LA 2 
+#EXTINF:-1 tvg-id="La 2" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2", LA 2 
 http://51.158.36.81:18000/LA_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3", Antena 3 
+#EXTINF:-1 tvg-id="Antena 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3", Antena 3 
 http://51.158.36.81:18000/Antena_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4", Cuatro 
+#EXTINF:-1 tvg-id="Cuatro HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4", Cuatro 
 http://51.158.36.81:18000/Cuatro/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5", Telecinco 
+#EXTINF:-1 tvg-id="Telecinco HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5", Telecinco 
 http://51.158.36.81:18000/Telecinco/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA", La Sexta 
+#EXTINF:-1 tvg-id="La Sexta HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA", La Sexta 
 http://51.158.36.81:18000/La_Sexta/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3", M+ #0 
+#EXTINF:-1 tvg-id="M+ #0 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3", M+ #0 
 http://51.158.36.81:18000/M_0/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD", M+ #Vamos 
+#EXTINF:-1 tvg-id="M+ #Vamos HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD", M+ #Vamos 
 http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CANSUR", Canal Sur 
+#EXTINF:-1 tvg-id="Canal Sur HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CANSUR", Canal Sur 
 http://51.158.36.81:18000/Canal_Sur/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TV3CAT", TV3 
+#EXTINF:-1 tvg-id="TV3" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TV3CAT", TV3 
 http://51.158.36.81:18000/TV3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL", TVG -TV Galicia 
+#EXTINF:-1 tvg-id="TVG - TV Galicia" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL", TVG -TV Galicia 
 http://51.158.36.81:18000/TVG_-TV_Galicia/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid 
+#EXTINF:-1 tvg-id="Telemadrid" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD", Telemadrid 
 http://51.158.36.81:18000/Telemadrid/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB1", ETB 1 
+#EXTINF:-1 tvg-id="ETB 1" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB1", ETB 1 
 http://51.158.36.81:18000/ETB_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV2", M+ Series 
+#EXTINF:-1 tvg-id="M+ Series HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV2", M+ Series 
 http://51.158.36.81:18000/M_Series/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPSER", M+ Series 2 
+#EXTINF:-1 tvg-id="M+ Series 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPSER", M+ Series 2 
 http://51.158.36.81:18000/M_Series_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FOXGE", Fox 
+#EXTINF:-1 tvg-id="FOX HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FOXGE", Fox 
 http://51.158.36.81:18000/Fox/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN", AXN 
+#EXTINF:-1 tvg-id="AXN HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN", AXN 
 http://51.158.36.81:18000/AXN/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TNT", TNT 
+#EXTINF:-1 tvg-id="TNT HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TNT", TNT 
 http://51.158.36.81:18000/TNT/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PCM", Comedy Central 
+#EXTINF:-1 tvg-id="Comedy Central HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PCM", Comedy Central 
 http://51.158.36.81:18000/Comedy_Central/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13", Calle 13 
+#EXTINF:-1 tvg-id="Calle 13 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13", Calle 13 
 http://51.158.36.81:18000/Calle_13/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/COSMO", COSMO 
+#EXTINF:-1 tvg-id="Cosmo HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/COSMO", COSMO 
 http://51.158.36.81:18000/COSMO/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC", AMC 
+#EXTINF:-1 tvg-id="AMC HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC", AMC 
 http://51.158.36.81:18000/AMC/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/XTRM", XTRM 
-http://51.158.36.81:18000/XTRM/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET", AXN White 
+#EXTINF:-1 tvg-id="AXN White HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET", AXN White 
 http://51.158.36.81:18000/AXN_White/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SCI-FI", SYFY 
+#EXTINF:-1 tvg-id="SyFy HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SCI-FI", SYFY 
 http://51.158.36.81:18000/SYFY/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ENERGY", Energy 
+#EXTINF:-1 tvg-id="Energy" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ENERGY", Energy 
 http://51.158.36.81:18000/Energy/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST", La Resistencia 
+#EXTINF:-1 tvg-id="La Resistencia 24H" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST", La Resistencia 
 http://51.158.36.81:18000/La_Resistencia/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FDFIC", Factoría de Ficción 
+#EXTINF:-1 tvg-id="Factoría de Ficción" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FDFIC", Factoría de Ficción 
 http://51.158.36.81:18000/Factoría_de_Ficción/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX", Neox 
+#EXTINF:-1 tvg-id="Neox" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX", Neox 
 http://51.158.36.81:18000/Neox/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS", Atreseries 
+#EXTINF:-1 tvg-id="Atreseries" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS", Atreseries 
 http://51.158.36.81:18000/Atreseries/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA", M+ Sagas 
+#EXTINF:-1 tvg-id="M+ Sagas HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA", M+ Sagas 
 http://51.158.36.81:18000/M_Sagas/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1", M+ Estrenos 
+#EXTINF:-1 tvg-id="M+ Estrenos HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1", M+ Estrenos 
 http://51.158.36.81:18000/M_Estrenos/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEST2", M+ Estrenos 2 
+#EXTINF:-1 tvg-id="M+ Estrenos 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEST2", M+ Estrenos 2 
 http://51.158.36.81:18000/M_Estrenos_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS", M+ Clásicos 
+#EXTINF:-1 tvg-id="M+ Clásicos HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS", M+ Clásicos 
 http://51.158.36.81:18000/M_Clásicos/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPACCI", M+ Acción 
+#EXTINF:-1 tvg-id="M+ Acción HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPACCI", M+ Acción 
 http://51.158.36.81:18000/M_Acción/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME", M+ Comedia 
+#EXTINF:-1 tvg-id="M+ Comedia HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME", M+ Comedia 
 http://51.158.36.81:18000/M_Comedia/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE", M+ Drama 
+#EXTINF:-1 tvg-id="M+ Drama HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE", M+ Drama 
 http://51.158.36.81:18000/M_Drama/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP", M+ Cine Español 
+#EXTINF:-1 tvg-id="M+ Cine Español" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP", M+ Cine Español 
 http://51.158.36.81:18000/M_Cine_Español/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MONFIR", M+ Fest 
+#EXTINF:-1 tvg-id="M+ Fest HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MONFIR", M+ Fest 
 http://51.158.36.81:18000/M_Fest/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TCM", TCM 
+#EXTINF:-1 tvg-id="TCM HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TCM", TCM 
 http://51.158.36.81:18000/TCM/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HOLLYW", Hollywood 
+#EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HOLLYW", Hollywood 
 http://51.158.36.81:18000/Hollywood/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SUNDAN", Sundance 
+#EXTINF:-1 tvg-id="Sundance TV" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SUNDAN", Sundance 
 http://51.158.36.81:18000/Sundance/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DARK", DARK 
+#EXTINF:-1 tvg-id="DARK" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DARK", DARK 
 http://51.158.36.81:18000/DARK/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PARCH", Paramount Channel 
+#EXTINF:-1 tvg-id="Paramount Network" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PARCH", Paramount Channel 
 http://51.158.36.81:18000/Paramount_Channel/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA", M+ LaLiga 
+#EXTINF:-1 tvg-id="M+ LaLigaTV HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA", M+ LaLiga 
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG1", M+ LaLiga 1 
-http://51.158.36.81:18000/M_LaLiga_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG2", M+ LaLiga 2 
+#EXTINF:-1 tvg-id="M+ LaLigaTV 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG2", M+ LaLiga 2 
 http://51.158.36.81:18000/M_LaLiga_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG3", M+ LaLiga 3 
+#EXTINF:-1 tvg-id="M+ LaLigaTV 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG3", M+ LaLiga 3 
 http://51.158.36.81:18000/M_LaLiga_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO", M+ Liga de Campeones 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO", M+ Liga de Campeones 
 http://51.158.36.81:18000/M_Liga_de_Campeones/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP1", M+ Liga de Campeones 1 
-http://51.158.36.81:18000/M_Liga_de_Campeones_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP2", M+ Liga de Campeones 2 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP2", M+ Liga de Campeones 2 
 http://51.158.36.81:18000/M_Liga_de_Campeones_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP", M+ Deportes 
+#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP", M+ Deportes 
 http://51.158.36.81:18000/M_Deportes/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARTHUR", M+ Deportes 1 
-http://51.158.36.81:18000/M_Deportes_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP2", M+ Deportes 2 
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP2", M+ Deportes 2 
 http://51.158.36.81:18000/M_Deportes_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP3", M+ Deportes 3 
-http://51.158.36.81:18000/M_Deportes_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF%2B", M+ Golf 
+#EXTINF:-1 tvg-id="M+ Golf HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF%2B", M+ Golf 
 http://51.158.36.81:18000/M_Golf/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVF1", DAZN F1 
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVF1", DAZN F1 
 http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD", DAZN 1 
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD", DAZN 1 
 http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD", DAZN 2 
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD", DAZN 2 
 http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP", Eurosport 1 
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP", Eurosport 1 
 http://51.158.36.81:18000/Eurosport_1/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2", Eurosport 2 
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2", Eurosport 2 
 http://51.158.36.81:18000/Eurosport_2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOL", GOL 
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOL", GOL 
 http://51.158.36.81:18000/GOL/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TDEP", Teledeporte 
+#EXTINF:-1 tvg-id="Teledeporte" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TDEP", Teledeporte 
 http://51.158.36.81:18000/Teledeporte/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO", National Geographic 
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO", National Geographic 
 http://51.158.36.81:18000/National_Geographic/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGW", Nat Geo Wild 
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGW", Nat Geo Wild 
 http://51.158.36.81:18000/Nat_Geo_Wild/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST", Historia 
+#EXTINF:-1 tvg-id="Historia" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST", Historia 
 http://51.158.36.81:18000/Historia/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR", Discovery 
+#EXTINF:-1 tvg-id="Discovery" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR", Discovery 
 http://51.158.36.81:18000/Discovery/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA", Odisea 
+#EXTINF:-1 tvg-id="Odisea" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA", Odisea 
 http://51.158.36.81:18000/Odisea/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM", Crimen + Investigación 
-http://51.158.36.81:18000/Crimen_+_Investigación/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa 
+#EXTINF:-1 tvg-id="Decasa" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa 
 http://51.158.36.81:18000/Canal_Decasa/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina 
+#EXTINF:-1 tvg-id="Canal Cocina" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina 
 http://51.158.36.81:18000/Canal_Cocina/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DIVINI", Divinity 
+#EXTINF:-1 tvg-id="Divinity" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DIVINI", Divinity 
 http://51.158.36.81:18000/Divinity/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA", Nova 
+#EXTINF:-1 tvg-id="Nova" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA", Nova 
 http://51.158.36.81:18000/Nova/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEGA", Mega 
+#EXTINF:-1 tvg-id="Mega" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEGA", Mega 
 http://51.158.36.81:18000/Mega/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD", BE MAD 
+#EXTINF:-1 tvg-id="Be Mad" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD", BE MAD 
 http://51.158.36.81:18000/BE_MAD/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BOMCIN", BOM Cine 
+#EXTINF:-1 tvg-id="BOM Cine">" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BOMCIN", BOM Cine 
 http://51.158.36.81:18000/BOM_Cine/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HORSE", Horse TV 
+#EXTINF:-1 tvg-id="Horse TV" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HORSE", Horse TV 
 http://51.158.36.81:18000/Horse_TV/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NAUTIC", Nautical Channel 
+#EXTINF:-1 tvg-id="Nautical Channel" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NAUTIC", Nautical Channel 
 http://51.158.36.81:18000/Nautical_Channel/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UBEAT", Ubeat 
+#EXTINF:-1 tvg-id="UBEAT" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UBEAT", Ubeat 
 http://51.158.36.81:18000/Ubeat/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BABY", Baby TV 
+#EXTINF:-1 tvg-id="Baby TV" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BABY", Baby TV 
 http://51.158.36.81:18000/Baby_TV/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PLAYDC", Disney Junior 
+#EXTINF:-1 tvg-id="Disney Junior" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PLAYDC", Disney Junior 
 http://51.158.36.81:18000/Disney_Junior/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA", Canal Panda 
+#EXTINF:-1 tvg-id="Enfamilia" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA", Enfamilia 
 http://51.158.36.81:18000/Canal_Panda/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR", NICK JR 
+#EXTINF:-1 tvg-id="Nick JR" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR", NICK JR 
 http://51.158.36.81:18000/NICK_JR/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICK", Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICK", Nickelodeon 
 http://51.158.36.81:18000/Nickelodeon/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP", Dreamworks 
+#EXTINF:-1 tvg-id="Dreamworks HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP", Dreamworks 
 http://51.158.36.81:18000/Dreamworks/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCH", Disney Channel 
+#EXTINF:-1 tvg-id="Disney Channel HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCH", Disney Channel 
 http://51.158.36.81:18000/Disney_Channel/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BOING", Boing 
+#EXTINF:-1 tvg-id="Boing" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BOING", Boing 
 http://51.158.36.81:18000/Boing/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLANTV", Clan TVE 
+#EXTINF:-1 tvg-id="Clan" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLANTV", Clan TVE 
 http://51.158.36.81:18000/Clan_TVE/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOMOS", Somos 
+#EXTINF:-1 tvg-id="Somos" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOMOS", Somos 
 http://51.158.36.81:18000/Somos/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s 
+#EXTINF:-1 tvg-id="MTV 00s" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1", MTV 00s 
 http://51.158.36.81:18000/MTV_00s/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MTV", MTV 
+#EXTINF:-1 tvg-id="MTV España" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MTV", MTV 
 http://51.158.36.81:18000/MTV/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOLMUS", Sol Música 
+#EXTINF:-1 tvg-id="Sol Música" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOLMUS", Sol Música 
 http://51.158.36.81:18000/Sol_Música/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/24H", 24 Horas 
+#EXTINF:-1 tvg-id="24 Horas" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/24H", 24 Horas 
 http://51.158.36.81:18000/24_Horas/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/INTECO", El Toro TV 
+#EXTINF:-1 tvg-id="El Toro TV" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/INTECO", El Toro TV 
 http://51.158.36.81:18000/El_Toro_TV/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEGOTV", Negocios TV 
+#EXTINF:-1 tvg-id="Negocios TV" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEGOTV", Negocios TV 
 http://51.158.36.81:18000/Negocios_TV/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV", Canal Sur Andalucía 
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV", Canal Sur Andalucía 
 http://51.158.36.81:18000/Canal_Sur_Andalucía/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVG", TVG Europa 
+#EXTINF:-1 tvg-id="TVGA Europa HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVG", TVG Europa 
 http://51.158.36.81:18000/TVG_Europa/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM", Canal Extremadura Sat 
+#EXTINF:-1 tvg-id="Canal Extremadura Sat" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM", Canal Extremadura Sat 
 http://51.158.36.81:18000/Canal_Extremadura_Sat/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVC", TV3 Cat 
+#EXTINF:-1 tvg-id="TV3 Cat." group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVC", TV3 Cat 
 http://51.158.36.81:18000/TV3_Cat/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB", EITB Basque 
+#EXTINF:-1 tvg-id="ETB Sat" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB", EITB Basque 
 http://51.158.36.81:18000/EITB_Basque/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON", Aragón TV Int 
+#EXTINF:-1 tvg-id="Aragón TV Internacional" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON", Aragón TV Int 
 http://51.158.36.81:18000/Aragón_TV_Int/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4", M+ LaLiga 4 
-http://51.158.36.81:18000/M_LaLiga_4/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG5", M+ LaLiga 5 
-http://51.158.36.81:18000/M_LaLiga_5/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3", DAZN 3 
+#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3", DAZN 3 
 http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4", DAZN 4 
+#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4", DAZN 4 
 http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3", M+ Liga de Campeones 3 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3", M+ Liga de Campeones 3 
 http://51.158.36.81:18000/M_Liga_de_Campeones_3/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP4", M+ Liga de Campeones 4 
-http://51.158.36.81:18000/M_Liga_de_Campeones_4/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP5", M+ Liga de Campeones 5 
-http://51.158.36.81:18000/M_Liga_de_Campeones_5/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP6", M+ Liga de Campeones 6 
-http://51.158.36.81:18000/M_Liga_de_Campeones_6/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP7", M+ Liga de Campeones 7 
-http://51.158.36.81:18000/M_Liga_de_Campeones_7/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP8", M+ Liga de Campeones 8 
-http://51.158.36.81:18000/M_Liga_de_Campeones_8/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP9", M+ Liga de Campeones 9 
-http://51.158.36.81:18000/M_Liga_de_Campeones_9/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP10", M+ Liga de Campeones 10 
-http://51.158.36.81:18000/M_Liga_de_Campeones_10/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP11", M+ Liga de Campeones 11 
-http://51.158.36.81:18000/M_Liga_de_Campeones_11/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP12", M+ Liga de Campeones 12 
-http://51.158.36.81:18000/M_Liga_de_Campeones_12/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP11", M+ Deportes 4 
-http://51.158.36.81:18000/M_Deportes_4/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI8", M+ Deportes 5 
-http://51.158.36.81:18000/M_Deportes_5/hls/playlist.m3u8
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI6", M+ Deportes 6 
-http://51.158.36.81:18000/M_Deportes_6/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="RELAX",Puestas de Sol (Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
@@ -397,7 +357,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636442f69aab
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-chno="420" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Entretenimiento", Motor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/282-2821163_0-tvg-logo-https-el-garage-tv-hd.png" group-title="Entretenimiento",El Garage TV (motor) (e)
+#EXTINF:-1 channel-id="El Garage TV" tvg-logo="https://www.nicepng.com/png/full/282-2821163_0-tvg-logo-https-el-garage-tv-hd.png" group-title="Entretenimiento",El Garage TV (motor) (e)
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1745974693_b1296000_sleng.m3u8
 #EXTINF:-1 channel-id="samsung-ESBA1500002B5" tvg-id="ESBA1500002B5" tvg-chno="4485" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500002B5_20221026T004453SQUARE.png_20221026004454.png" group-title="Entretenimiento",Motorvision
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/be2e393a-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
@@ -4404,7 +4364,7 @@ http://179.1.77.222:8000/play/a00v
 #EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png" group-title="Noticias",7 Noticias
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 
-https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL",Alacanti TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 group-title="TV LOCAL",La Marina TV
