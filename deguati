@@ -197,6 +197,178 @@ http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3", M+ Liga de Campeones 3 
 http://51.158.36.81:18000/M_Liga_de_Campeones_3/hls/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="La 1 HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve1.jpg" group-title="Movistar 07-09-2023",La 1 HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/182
+#EXTINF:-1 tvg-id="" tvg-name="La 2 HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve2.jpg" group-title="Movistar 07-09-2023",La 2 HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/184
+#EXTINF:-1 tvg-id="" tvg-name="antena3 HD" tvg-logo="" group-title="Movistar 07-09-2023",antena3 HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/216
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="Movistar 07-09-2023",Cuatro HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/163
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/telecinco.jpg" group-title="Movistar 07-09-2023",Telecinco HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/213
+#EXTINF:-1 tvg-id="" tvg-name="laSexta HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/la_sexta.jpg" group-title="Movistar 07-09-2023",laSexta HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/223
+#EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve_canal_24horas.jpg" group-title="Movistar 07-09-2023",24H
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/144
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2022/07/dazn-laliga.jpg?x=480&y=375&quality=40" group-title="Movistar 07-09-2023",DAZN LA LIGA
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/2063
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/dazn_laliga.jpg" group-title="Movistar 07-09-2023",DAZN LA LIGA 2
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/2065
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank" tvg-logo="" group-title="Movistar 07-09-2023",Liga SmartBank
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/2067
+#EXTINF:-1 tvg-id="" tvg-name="|VIP| FUTBOL CHANNEL 2 24/7" tvg-logo="" group-title="Movistar 07-09-2023",|VIP| FUTBOL CHANNEL 2 24/7
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/507
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="" group-title="Movistar 07-09-2023",M+ LaLiga
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/78
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2" tvg-logo="" group-title="Movistar 07-09-2023",M. LaLiga 2
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/124
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES" tvg-logo="" group-title="Movistar 07-09-2023",M.LCAMPEONES
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/118
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="" group-title="Movistar 07-09-2023",DAZN 1
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/71
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="" group-title="Movistar 07-09-2023",DAZN 2
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/72
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="" group-title="Movistar 07-09-2023",DAZN F1
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/21
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOSHD" tvg-logo="" group-title="Movistar 07-09-2023",M+ DEPORTE PLUS
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/77
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES" tvg-logo="" group-title="Movistar 07-09-2023",M. DEPORTES
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/12
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1" tvg-logo="" group-title="Movistar 07-09-2023",EUROSPORT1
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/11
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF" tvg-logo="" group-title="Movistar 07-09-2023",M. GOLF
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/116
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="Movistar 07-09-2023",GOL
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/174
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="Movistar 07-09-2023",Realmadrid TV HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/201
+#EXTINF:-1 tvg-id="" tvg-name="BarĿa TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/640px-FC_Barcelona_%28crest%29.svg.png" group-title="Movistar 07-09-2023",Barça TV HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/151
+#EXTINF:-1 tvg-id="" tvg-name="tdp HD" tvg-logo="https://banner2.cleanpng.com/20180529/bpw/kisspng-teledeporte-televisin-espaola-high-definition-tdp-5b0d7079ca0716.1115847515276074178275.jpg" group-title="Movistar 07-09-2023",tdp HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/228
+#EXTINF:-1 tvg-id="" tvg-name="atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="Movistar 07-09-2023",atreseries HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/217
+#EXTINF:-1 tvg-id="" tvg-name="Clan HD" tvg-logo="" group-title="Movistar 07-09-2023",Clan HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/161
+#EXTINF:-1 tvg-id="" tvg-name="BeMad tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="Movistar 07-09-2023",BeMad tv HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/152
+#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="" group-title="Movistar 07-09-2023",#0
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/102
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="" group-title="Movistar 07-09-2023",DreamWorks
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/80
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA" tvg-logo="" group-title="Movistar 07-09-2023",M.COMEDIA
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/74
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCI©N" tvg-logo="" group-title="Movistar 07-09-2023",M. ACCI©N
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/83
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA" tvg-logo="" group-title="Movistar 07-09-2023",M. DRAMA
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/84
+#EXTINF:-1 tvg-id="" tvg-name="M+ Fest" tvg-logo="" group-title="Movistar 07-09-2023",M+ Fest
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/85
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS" tvg-logo="" group-title="Movistar 07-09-2023",M.ESTRENOS
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/91
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2" tvg-logo="" group-title="Movistar 07-09-2023",M+ ESTRENOS 2
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/128
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="Movistar 07-09-2023",HOLLYWOOD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/49
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Movistar 07-09-2023",AMC
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/86
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="Movistar 07-09-2023",FOX
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/81
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="Movistar 07-09-2023",CALLE 13
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/94
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="Movistar 07-09-2023",SYFY
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/16
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="Movistar 07-09-2023",TCM
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/108
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Movistar 07-09-2023",TNT
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/109
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="Movistar 07-09-2023",FOX
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/48
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Movistar 07-09-2023",AXN
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/69
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="" group-title="Movistar 07-09-2023",AXN WHITE
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/111
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES" tvg-logo="" group-title="Movistar 07-09-2023",M. SERIES
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/105
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2" tvg-logo="" group-title="Movistar 07-09-2023",M+ SERIES 2
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/106
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE" tvg-logo="" group-title="Movistar 07-09-2023",MEZZO LIVE
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/97
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYCENTRAL" tvg-logo="" group-title="Movistar 07-09-2023",COMEDYCENTRAL
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/112
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="" group-title="Movistar 07-09-2023",COSMO
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/113
+#EXTINF:-1 tvg-id="" tvg-name="M+ CL.SICOS" tvg-logo="" group-title="Movistar 07-09-2023",M+ CL.SICOS
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/120
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title="Movistar 07-09-2023",NAT GEO
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/98
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title="Movistar 07-09-2023",NAT GEO
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/14
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD" tvg-logo="" group-title="Movistar 07-09-2023",NG WILD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/107
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD" tvg-logo="" group-title="Movistar 07-09-2023",NG WILD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/32
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="Movistar 07-09-2023",NICKELODEON
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/99
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH" tvg-logo="" group-title="Movistar 07-09-2023",DISNEY CH
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/104
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE" tvg-logo="" group-title="Movistar 07-09-2023",MEZZO LIVE
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/13
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="Movistar 07-09-2023",NICKELODEON
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/15
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA" tvg-logo="" group-title="Movistar 07-09-2023",CAZAyPESCA
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/103
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA" tvg-logo="" group-title="Movistar 07-09-2023",CAZAyPESCA
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/28
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH" tvg-logo="" group-title="Movistar 07-09-2023",DISNEY CH
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/29
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-logo="" group-title="Movistar 07-09-2023",CLASSICA SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/2070
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/8tv.png" group-title="Movistar 07-09-2023",8TV
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/147
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="" group-title="Movistar 07-09-2023",Boing SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/153
+#EXTINF:-1 tvg-id="" tvg-name="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="Movistar 07-09-2023",DKISS SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/164
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Movistar 07-09-2023",DMAX SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/165
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="Movistar 07-09-2023",Disney Channel SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/166
+#EXTINF:-1 tvg-id="" tvg-name="Divinity" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/divinity_tv_es.jpg" group-title="Movistar 07-09-2023",Divinity SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/167
+#EXTINF:-1 tvg-id="" tvg-name="EL PUNT AVUI" tvg-logo="https://www.elpuntavui.cat/templates/d2015/images/logo-elpuntavui-4.png" group-title="Movistar 07-09-2023",EL PUNT AVUI
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/168
+#EXTINF:-1 tvg-id="" tvg-name="Energy" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/energy_tv_es.jpg" group-title="Movistar 07-09-2023",Energy SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/170
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/factoria_de_ficcion.jpg" group-title="Movistar 07-09-2023",FDF SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/172
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="Movistar 07-09-2023",PARAMOUNT NETWORK SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/187
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Network-Ten-Logo.svg/1200px-Network-Ten-Logo.svg.png" group-title="Movistar 07-09-2023",TEN SD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/205
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="Movistar 07-09-2023",TRECE
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/208
+#EXTINF:-1 tvg-id="" tvg-name="betevé" tvg-logo="" group-title="Movistar 07-09-2023",betevé
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/218
+#EXTINF:-1 tvg-id="" tvg-name="mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/01_mega_logo.svg/1200px-01_mega_logo.svg.png" group-title="Movistar 07-09-2023",mega
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/224
+#EXTINF:-1 tvg-id="" tvg-name="neox" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/antena_neox.jpg" group-title="Movistar 07-09-2023",neox
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/225
+#EXTINF:-1 tvg-id="" tvg-name="nova" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/antena_nova.jpg" group-title="Movistar 07-09-2023",nova
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/226
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="Movistar 07-09-2023",BOM CINE HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/149
+#EXTINF:-1 tvg-id="" tvg-name="TEVE.CAT HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/05/Teve.cat-en-directo-Online.png" group-title="Movistar 07-09-2023",TEVE.CAT HD
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/207
+#EXTINF:-1 tvg-id="" tvg-name="FIBRACAT.TV" tvg-logo="https://stemwomen.eu/wp-content/uploads/2020/07/fibracat.jpg" group-title="Movistar 07-09-2023",FIBRACAT.TV
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/173
+#EXTINF:-1 tvg-id="" tvg-name="Sophia TV" tvg-logo="" group-title="Movistar 07-09-2023",Sophia TV
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/2150
+#EXTINF:-1 tvg-id="" tvg-name="teve.cat (1080p)" tvg-logo="" group-title="Movistar 07-09-2023",teve.cat (1080p)
+http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/2158
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="RELAX",Puestas de Sol (Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-0 group-title="RELAX",Naturaleza (FHD)
