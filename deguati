@@ -197,7 +197,6 @@ http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3", M+ Liga de Campeones 3 
 http://51.158.36.81:18000/M_Liga_de_Campeones_3/hls/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="La 1 HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve1.jpg" group-title="Movistar 07-09-2023",La 1 HD
 http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/182
 #EXTINF:-1 tvg-id="" tvg-name="La 2 HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve2.jpg" group-title="Movistar 07-09-2023",La 2 HD
