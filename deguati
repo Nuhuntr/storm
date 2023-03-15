@@ -88,6 +88,10 @@ http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 http://51.158.36.81:18000/M_LaLiga_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="M+ LaLigaTV 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG3", M+ LaLiga 3 
 http://51.158.36.81:18000/M_LaLiga_3/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn Laliga 1 FHD" tvg-logo="" group-title="Movistar",SP: ES: Dazn Laliga 1 FHD
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/329933.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn Laliga 2 FHD" tvg-logo="" group-title="Movistar",SP: ES: Dazn Laliga 2 FHD
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/329936.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO", M+ Liga de Campeones 
 http://51.158.36.81:18000/M_Liga_de_Campeones/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP2", M+ Liga de Campeones 2 
@@ -102,6 +106,12 @@ http://51.158.36.81:18000/M_Golf/hls/playlist.m3u8
 http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD", DAZN 2 
 http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3", DAZN 3 
+http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4", DAZN 4 
+http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3", M+ Liga de Campeones 3 
+http://51.158.36.81:18000/M_Liga_de_Campeones_3/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP", Eurosport 1 
 http://51.158.36.81:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2", Eurosport 2 
@@ -182,12 +192,6 @@ http://51.158.36.81:18000/TV3_Cat/hls/playlist.m3u8
 http://51.158.36.81:18000/EITB_Basque/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Aragón TV Internacional" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON", Aragón TV Int 
 http://51.158.36.81:18000/Aragón_TV_Int/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3", DAZN 3 
-http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4", DAZN 4 
-http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3", M+ Liga de Campeones 3 
-http://51.158.36.81:18000/M_Liga_de_Campeones_3/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="La 1 HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve1.jpg" group-title="Movistar 07-09-2023",La 1 HD
 http://portal.magictvsuper.asia:80/MyV5Yg1DOY/qgEEaBhLbk/182
@@ -690,6 +694,23 @@ https://samsunguk-sofy-samsung-es-ibtvr.amagi.tv/playlist/samsunguk-sofy-samsung
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 channel-id="samsung-ESBA3300039ZX" tvg-id="ESBA3300039ZX" tvg-chno="4163" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas",Tu Cine (latino)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGiver (2016) Temp 1" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 MacGiver (2016) Temp 1
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/26620.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baywatch" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Baywatch
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/40812.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Walker Texas Ranger" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Walker Texas Ranger
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/40855.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 MacGyver
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/272417.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Jackie Chan" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Movies Jackie Chan
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/272419.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Jim Carrey " tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Movies Jim Carrey 
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/272420.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Steven Seagal " tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Movies Steven Seagal 
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/272421.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Tom Cruise " tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Movies Tom Cruise 
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/272422.ts
+
 
 #EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="615" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="MTV",MTV Tuning
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2992,7 +3013,7 @@ http://5.39.94.171/Descargas/El%20Jovencito%20Frankenstein%20%5b1971%5d%5bBDRip%
 https://drive.google.com/uc?export=download&id=1ww7Hm43kjTBoQmyKPdfjV7qAUmMmQwWY1A
 #EXTINF:-1 group-title="PELÍS archive.org",DINOSAUR WORLD [2020]
 http://5.39.94.171/Descargas/Dinosaur%20World%20(2020)%20%5bBluRay%20Rip%5d%5bAC3%205.1%20Castellano%5d%5bwww.nucleohd.com%5d/Dinosaur%20World%20(2020)%20%5bBluRay%20Rip%5d%5bAC3%205.1%20Castellano%5d%5bwww.nucleohd.com%5d.avi
-#EXTINF:-1 group-title="PELÍS archive.org",AHÍ ESTÁ EL DETALLE
+#EXTINF:-1 group-title="PELÍS archive.org",CANTINFLAS AHÍ ESTÁ EL DETALLE
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/AHI%20ESTA%20EL%20DETALLE.mkv
 #EXTINF:-1 group-title="PELÍS archive.org",ARRIBA EL NORTE
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/ARRIBA%20EL%20NORTE.mp4
@@ -3032,7 +3053,7 @@ http://74.208.251.230/Contenido/Peliculas/Mexicanas/ESCUELA%20DE%20VALIENTES.mp4
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/El%20Analfabeto.mkv	 
 #EXTINF:-1 group-title="PELÍS archive.org",EL GAVILÁN POLLERO [1951]
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/El%20Gavilan%20Pollero.mkv
-#EXTINF:-1 group-title="PELÍS archive.org",EL BOMBERO ATOMICO
+#EXTINF:-1 group-title="PELÍS archive.org",CANTINFLAS EL BOMBERO ATOMICO
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/El%20bombero%20atomico.mkv	
 #EXTINF:-1 group-title="PELÍS archive.org",ENTRE MONJAS ANDA EL DIABLO
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/Entre%20Monjas%20Anda%20El%20Diablo.mkv	 
@@ -3078,7 +3099,7 @@ http://74.208.251.230/Contenido/Peliculas/Mexicanas/PULGARCITO.mp4
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/ROMEO%20Y%20JULIETA.mkv 
 #EXTINF:-1 group-title="PELÍS archive.org",SI YO FUERA DIPUTADO
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/SI%20YO%20FUERA%20DIPUTADO.mkv 
-#EXTINF:-1 group-title="PELÍS archive.org",SUBE Y BAJA.MKV
+#EXTINF:-1 group-title="PELÍS archive.org",CANTINFLAS SUBE Y BAJA
 http://74.208.251.230/Contenido/Peliculas/Mexicanas/SUBE%20Y%20BAJA.mkv
 #EXTINF:-1 group-title="PELÍS archive.org",SOUTH PARK_ESPECIAL DE PANDEMIA
 http://74.208.251.230/Contenido/Peliculas/Estrenos/South%20Park_%20Especial%20de%20Pandemia.mp4
@@ -4468,12 +4489,22 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f46370f9dd795001ab50cf2.m3u
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español (FHD)
 https://cdn.odysee.live/live/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VE: Rusia today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="Noticias",VE: Rusia today
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/102397.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",Actualidad RT (HD)
 https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",Actualidad RT (SD)
 https://cdn.odysee.live/480/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/telesur.png" group-title="Noticias",Telesur (FHD)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="VE: Venezolana de Television (MOVIL)" tvg-logo="http://swedtv.vip/logos/Venezuela/Venezolana_de_Televisi%c3%b3n.png" group-title="Noticias",VE: Venezolana de Television (MOVIL)
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/65772.ts
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="VE: Venezolana de Television" tvg-logo="http://swedtv.vip/logos/Venezuela/Venezolana_de_Televisi%c3%b3n.png" group-title="Noticias",VE: Venezolana de Television
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/389.ts
+#EXTINF:-1 tvg-id="" tvg-name="VE: Vive HD" tvg-logo="http://swedtv.vip/logos/Venezuela/Vive.png" group-title="Noticias",VE: Vive HD
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/390.ts
+#EXTINF:-1 tvg-id="" tvg-name="VE: TVES" tvg-logo="http://swedtv.vip/logos/Venezuela/TVES_10.png" group-title="Noticias",VE: TVES
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/102400.ts
 #EXTINF:-1 tvg-logo="http://rndserv.xyz/img/vtv.png" group-title="Noticias",VTV (HD)
 https://stream-01.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgmWkZaNRBfGcUuBP7d094Vuu_CVNujSrXha27kYoRjw)/dm/3/x828i6j/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="Noticias",HispanTV (HD)
@@ -4519,7 +4550,8 @@ http://179.1.77.222:8000/play/a00v
 #EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png" group-title="Noticias",7 Noticias
 https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ES: Star TVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="EU - España Entretenimiento",ES: Star TVE FHD
+http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/25146.ts
 #EXTINF:-1 group-title="TV LOCAL",Alacanti TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 group-title="TV LOCAL",La Marina TV
@@ -4592,8 +4624,10 @@ https://www.tdtchannels.com/stream/tevecat.m3u8
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:-1 group-title="TV LOCAL",TAC 12 (cat)
 https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8
-#EXTINF:-1 group-title="TV LOCAL",TV de Girona (cat)
+#EXTINF:-1 group-title="TV LOCAL",TV de Girona FHD (cat)
 http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 10 Empordá SD (cat)
+http://ventdelnord.tv:8080/escala/directe.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="VentdelnordTV.es" tvg-logo="https://i.imgur.com/pdHYWPp.png" group-title="TV LOCAL",Ventdelnord TV (404p)
 http://ventdelnord.tv:8080/hls/directe.m3u8
 #EXTINF:-1 tvg-id="VivaTV.es" tvg-logo="https://i.imgur.com/QLJgDDw.png" group-title="TV LOCAL",Viva TV
@@ -4872,6 +4906,8 @@ https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+Sophia TV
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN DEPORTES (FHD)
 http://38.143.137.221:8000/LA81/index.m3u8
@@ -6086,74 +6122,6 @@ http://212.18.115.177:3549/play/a04s/index.m3u8
 #EXTINF:-1 group-title="TV ALEMANIA",Super RTL
 http://212.18.115.177:3549/play/a05w/index.m3u8
 #EXTINF:-1 group-title="TV ALEMANIA",Syfy HD
-http://212.18.115.177:3549/play/a038/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",TELE 5
-http://212.18.115.177:3549/play/a00v/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",TELE 5 FHD
-http://212.18.115.177:3549/play/a00w/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",TLC
-http://212.18.115.177:3549/play/a03p/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",TLC FHD
-http://212.18.115.177:3549/play/a03q/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",TNT Film HD
-http://212.18.115.177:3549/play/a035/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",Tagesschau 24 FHD
-http://212.18.115.177:3549/play/a021/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",Toggo +
-http://212.18.115.177:3549/play/a061/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",Universal TV FHD
-http://212.18.115.177:3549/play/a01h/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",VOX
-http://212.18.115.177:3549/play/a00k/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",VOX FHD
-http://212.18.115.177:3549/play/a00l/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",VOXup
-http://212.18.115.177:3549/play/a00n/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",WDR Bonn
-http://212.18.115.177:3549/play/a03k/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",WDR Dortmund
-http://212.18.115.177:3549/play/a00u/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",WELT FHD
-http://212.18.115.177:3549/play/a01v/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",Waidwerk HD
-http://212.18.115.177:3549/play/a03z/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",Warner TV Serie FHD
-http://212.18.115.177:3549/play/a02u/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",Welt
-http://212.18.115.177:3549/play/a028/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",ZDF
-http://212.18.115.177:3549/play/a003/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",ZDF FHD
-http://212.18.115.177:3549/play/a004/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",ZDF Info
-http://212.18.115.177:3549/play/a005/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",ZDF Info FHD
-http://212.18.115.177:3549/play/a006/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",ZDF neo FHD
-http://212.18.115.177:3549/play/a007/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",hr-Fernsehen
-http://212.18.115.177:3549/play/a03d/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",kabel eins Doku
-http://212.18.115.177:3549/play/a03m/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",rbb Berlin
-http://212.18.115.177:3549/play/a03f/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",rbb Berlin FHD
-http://212.18.115.177:3549/play/a03g/index.m3u8
-#EXTINF:-1 group-title="TV ALEMANIA",rbb Brandenburg FHD
-http://212.18.115.177:3549/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-id="InfoWars.us" tvg-logo="https://i.imgur.com/a7h9epj.png" group-title="EEUU",InfoWars (HD)
-http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="EEUU",FIGHT SPORTS (FHD)
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac" tvg-id="5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bac46b1a-270d-435a-9914-2418298c8c44/unexplained-logo.png" group-title="EEUU",Unexplained
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=KcVyhaJt2MYDCTJYd5-U
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44" tvg-id="5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png" group-title="EEUU",Unidentified
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=KcVyhaJt2MYDCTJYd5-U
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" group-title="EEUU",WeatherSpy
-https://4bcfcc1294004089a615518bf70294e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=KcVyhaJt2MYDCTJYd5-U&ads.plex_id=5f170d66b898490041b493ad&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="EEUU",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8#EXTINF:-1 group-title="TV ALEMANIA",Syfy HD
 http://212.18.115.177:3549/play/a038/index.m3u8
 #EXTINF:-1 group-title="TV ALEMANIA",TELE 5
 http://212.18.115.177:3549/play/a00v/index.m3u8
