@@ -82,6 +82,14 @@ http://51.158.36.81:18000/Sundance/hls/playlist.m3u8
 http://51.158.36.81:18000/DARK/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount Network" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PARCH", Paramount Channel 
 http://51.158.36.81:18000/Paramount_Channel/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES]_ALQUILER 1 HD" tvg-logo="http://live.maxcimo.com:8000/images/d5be8a96d7d5f15eb5ee3bbf564e096e.png" group-title="SPAIN TV",[ES]_ALQUILER 1 HD
+http://live.maxcimo.com:8000/tariq101nl/kuhpol264583/3543
+#EXTINF:-1 tvg-id="" tvg-name="[ES]_ALQUILER 2 HD" tvg-logo="http://live.maxcimo.com:8000/images/d5be8a96d7d5f15eb5ee3bbf564e096e.png" group-title="SPAIN TV",[ES]_ALQUILER 2 HD
+http://live.maxcimo.com:8000/tariq101nl/kuhpol264583/3544
+#EXTINF:-1 tvg-id="" tvg-name="[ES]_ALQUILER 3 HD" tvg-logo="http://live.maxcimo.com:8000/images/d5be8a96d7d5f15eb5ee3bbf564e096e.png" group-title="SPAIN TV",[ES]_ALQUILER 3 HD
+http://live.maxcimo.com:8000/tariq101nl/kuhpol264583/3545
+#EXTINF:-1 tvg-id="" tvg-name="[ES]_ALQUILER 4 HD" tvg-logo="http://live.maxcimo.com:8000/images/d5be8a96d7d5f15eb5ee3bbf564e096e.png" group-title="SPAIN TV",[ES]_ALQUILER 4 HD
+http://live.maxcimo.com:8000/tariq101nl/kuhpol264583/3546
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA", M+ LaLiga 
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="M+ LaLigaTV 2 HD" group-title="Movistar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG2", M+ LaLiga 2 
@@ -694,12 +702,10 @@ https://samsunguk-sofy-samsung-es-ibtvr.amagi.tv/playlist/samsunguk-sofy-samsung
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 channel-id="samsung-ESBA3300039ZX" tvg-id="ESBA3300039ZX" tvg-chno="4163" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas",Tu Cine (latino)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El equipo A" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 El equipo A
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Equipo A" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 El equipo A
 http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/26620.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Baywatch" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Baywatch
 http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/40812.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Walker Texas Ranger" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Walker Texas Ranger
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/40855.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 MacGyver
 http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/272417.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Jackie Chan" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H",24/7 Movies Jackie Chan
