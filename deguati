@@ -779,47 +779,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 channel-id="samsung-ESBA2200005D6" tvg-id="ESBA2200005D6" tvg-chno="4002" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200005D6_20221109T010655SQUARE.png_20221109010655.png" group-title="Entretenimiento",Todo Crimen
 https://uksono2-samsung-tsv2-hzn2u.amagi.tv/playlist/samsunguk-uksono-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/fcb.png" group-title="Deportes",(🇪🇸): BARÇA TV (cat)➾(SD)⚽
-http://154.62.74.29:1935/live/barza/chunklist.m3u8
-#EXTINF:0 group-title="Deportes",(🇪🇸): E3 (Esport 3) (cat) (FHD)
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): M+ LaLiga I (a) (FHD)⚽
-http://45.135.194.113:8001/play/a025
-#EXTINF:-1 group-title="Deportes",(🇪🇸): M+ LaLiga I (b) (FHD)⚽
-http://154.54.220.247:51323/play/a032/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): DAZN LaLiga (a) (FHD)⚽
-http://45.135.194.113:8003/play/a024
-#EXTINF:-1 group-title="Deportes",(🇪🇸): DAZN LaLiga (b) (FHD)⚽
-http://154.54.220.247:51323/play/a030/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): DAZN LaLiga2 (FHD)⚽
-http://154.54.220.247:51323/play/a034/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): DAZN 1 (a) (HD)
-http://38.143.137.221:8000/LA33/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): DAZN 1 (b) (FHD)
-http://154.54.220.247:51323/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): DAZN 2 (FHD)
-http://154.54.220.247:51323/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): DAZN F1 (FHD)
-http://154.54.220.247:51323/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): M+ LCAMPEONES (a) (FHD)⚽
-http://45.135.194.113:8004/play/a024
-#EXTINF:-1 group-title="Deportes",(🇪🇸): M+LCAMPEONES (b) (FHD)⚽
-http://154.54.220.247:51323/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): LigaSmartBank (a) (FHD)⚽
-http://45.135.194.113:8005/play/a024
-#EXTINF:-1 group-title="Deportes",(🇪🇸): LigaSmartBank (b) (FHD)⚽
-http://154.54.220.247:51323/play/a036/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): LigaSmartBank2 (a) (FHD)⚽
-http://45.135.194.113:8005/play/a025
-#EXTINF:-1 group-title="Deportes",(🇪🇸): LigaSmartBank2 (b) (FHD)⚽
-http://154.54.220.247:51323/play/a037/index.m3u8
-#EXTINF:-1 group-title="Deportes",(🇪🇸): TVE Teledeporte (FHD)
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Antena Seis TV (F1) (e-inliveserver)
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",Action Sports
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=575de5f7-e1e3-4e8a-badb-28d74da20e1d&deviceVersion=103.0.0&appVersion=6.4.0-3bcdc583b1e5a19f7836864e7ebe5e04d5e576c9&deviceType=web&deviceMake=chrome&sid=b4954091-110c-11ed-882b-0242ac110003&advertisingId=&deviceLat=38.342&deviceLon=-0.4825&deviceDNT=0&deviceModel=web&userId=&appName=web&gdpr=1&gdprConsent=CPZtJ0bPZtJ1WAcABBENCaCgAAAAAAAAACiQAAAAAAIhADYABoAGAAbABcAGAASAAtABeADoAH4ARgAnQBaAFuAMIAxQBlAGyAQIBBACMgEeASAAogBSAC5AHEAQkAkoBTQFQAL_AYoA8wKALAAUACoAHoARwApACtAHAAQgAlcBXQFfAYyGAYgAGgAWABoAFYALgAwACAAEgAKgAZAA9AB_AEMARIAjACOAEyAJwAngBSgC0ALcAXwBiADLAGgAbAA5wCBAIIAQgAhgBEgCMAEdAKIApQBWgC3AFzAOAA4gBzwEIAQkAjABKwCmwFdAV8AuoBgQDeAH6ASIAvMBf4DFAGMgMkAacA8wQAGAAMACQAJ4AWwBSAG8EQAwBDAEYASIKgCgBDACYAI4A3gC8xQAEAUgyAKAEMAJgAjgDeALzGAAQBSDgDgABoAGAAaABgAEgALQAXgA6ACMAE6ALQAtgBhADKAGwAN0AgQCCAEIAIyAR4BIACiAFIALkAcQBCQCSgH6AX-AxQB5g8AYAAoAFQAPQAjgBSAFaAOAAlYBOICugK-AfwBjJAAYAA0AMIAgQBHgCkAFuALkAcQBCQCSgH6AYoRADgAqAFaAOAAlYBOICugK-AfwkATAAMAA0ADAAJAAtABhADKAGwAN0AgQCCAEIAKIAUgA4gCSgGBAP0Av8BihMAQAEcAKQArQCVgFNgK6Ar4B_AGMlADQABgAGgAYABIAC0AHQARgAtABhADKAGyAQIBBACEAEZAI8AkABRACkAHEAQgAkoBTQDAgH6AX-AxQB5hUAOACoAI4ArQCVwFdAV8BjIDTgAAA.YAAAAAAAAAAA&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjMyNjAyN2I0LTlmZGEtNDMzOC05NTRkLWQ5MzBlZmIzOWQ5YiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNDk1NDA5MS0xMTBjLTExZWQtODgyYi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6Ijk1LjIzLjIzOC44NCIsImNpdHkiOiJBbGljYW50ZSIsInBvc3RhbENvZGUiOiIwMzAxNSIsImNvdW50cnkiOiJFUyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiRVMiLCJkZXZpY2VMYXQiOjM4LjM0MiwiZGV2aWNlTG9uIjotMC40ODI1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjQuMC0zYmNkYzU4M2IxZTVhMTlmNzgzNjg2NGU3ZWJlNWUwNGQ1ZTU3NmM5IiwiY2xpZW50SUQiOiI1NzVkZTVmNy1lMWUzLTRlOGEtYmFkYi0yOGQ3NGRhMjBlMWQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NTkzMjY5NzgsImp0aSI6IjdiZDY3MGI3LWM4YzMtNDNmNS05NzZhLTg3YWNkNzQ4YzgwNSIsImlhdCI6MTY1OTI5ODE3OCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5UYzFaR1UxWmpjdFpURmxNeTAwWlRoaExXSmhaR0l0TWpoa056UmtZVEl3WlRGayJ9.ALBDa0Pc5CG9xgNe8h6jf_bu63b0MLqTVgZZ1a_4soM
-
 #EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-name="deluxe-lounge-hd" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg" group-title="Música Videoclips",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4222&ads%3Astreaming_id=ea7930b8-dbeb-4630-beb3-43839053df8d&ads%3Atcf=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
 #EXTINF:-1 group-title="Música Videoclips",The Retro Channel
