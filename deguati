@@ -120,737 +120,167 @@ http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123754
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123692
 #EXTINF:-1 tvg-id="TNT ES" tvg-name="TNT" tvg-logo="http://tv.iptvboss.net/ch_logo/TNT.png" group-title="MOVISTAR 1", TNT
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123753
-#EXTINF:-1 tvg-id="" tvg-name="LA 1 FHD" tvg-logo="" group-title="MOVISTAR 2",LA 1 HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114443
-#EXTINF:-1 tvg-id="" tvg-name="La 2 FHD" tvg-logo="" group-title="MOVISTAR 2",La 2 FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114445
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FHD" tvg-logo="" group-title="MOVISTAR 2",ANTENA 3 HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114448
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO FHD" tvg-logo="" group-title="MOVISTAR 2",CUATRO FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114450
-#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="TELECINCO FHD" tvg-logo="" group-title="MOVISTAR 2",TELECINCO FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114454
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA  FHD" tvg-logo="" group-title="MOVISTAR 2",LA SEXTA HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114457
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ACCION FHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR ACCION FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114466
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR COMEDIA FHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR COMEDIA FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114468
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DCINE Ã‘" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR DCINE Ã‘
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114474
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="MOVISTAR 2",AMC FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114565
-#EXTINF:-1 tvg-id="" tvg-name="AXN  WHITE FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="MOVISTAR 2",AXN  WHITE FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114563
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="MOVISTAR 2",AXN FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114560
-#EXTINF:-1 tvg-id="" tvg-name="BABY  TV" tvg-logo="" group-title="MOVISTAR 2",BABY  TV
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114611
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="MOVISTAR 2",BE MAD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114593
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD HD" tvg-logo="" group-title="MOVISTAR 2",BE MAD HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114632
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="MOVISTAR 2",BLAZE
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114636
-#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="MOVISTAR 2",BOING
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114607
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FHD" tvg-logo="" group-title="MOVISTAR 2",CALLE 13 FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114554
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="MOVISTAR 2",CALLE 13 HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114574
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FULLHD" tvg-logo="" group-title="MOVISTAR 2",CANAL COCINA FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114592
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="" group-title="MOVISTAR 2",CANAL PANDA
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114608
-#EXTINF:-1 tvg-id="" tvg-name="CLAN FULLHD" tvg-logo="" group-title="MOVISTAR 2",CLAN FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114605
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1551876923414-Imagen.png" group-title="MOVISTAR 2",COMEDY CENTRAL FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114489
-#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN HD" tvg-logo="" group-title="MOVISTAR 2",COSMOPOLITAN HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114577
-#EXTINF:-1 tvg-id="" tvg-name="CRIMEN  + INVESTIGACION" tvg-logo="" group-title="MOVISTAR 2",CRIMEN  + INVESTIGACION
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114588
-#EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="" group-title="MOVISTAR 2",DARK
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114486
-#EXTINF:-1 tvg-id="" tvg-name="DECASA FULLHD" tvg-logo="" group-title="MOVISTAR 2",DECASA FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114590
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/aacd4973a8d571b9ab1206b8f64516da.png" group-title="MOVISTAR 2",DISNEY CHANNEL HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114609
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="MOVISTAR 2",DMAX
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114634
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport  2" tvg-logo="" group-title="MOVISTAR 2",Eurosport  2
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114893
-#EXTINF:-1 tvg-id="" tvg-name="FOX FULLHD" tvg-logo="" group-title="MOVISTAR 2",FOX FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114556
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="" group-title="MOVISTAR 2",GOL TV
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114888
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="" group-title="MOVISTAR 2",HISTORIA HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114617
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" tvg-logo="" group-title="MOVISTAR 2",HOLLYWOOD FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114480
-#EXTINF:-1 tvg-id="" tvg-name="LIGA TV BAR" tvg-logo="" group-title="MOVISTAR 2",LIGA TV BAR
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114825
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  ACCION" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR  ACCION
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114465
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA FHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR DRAMA FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114472
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA HD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR DRAMA HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114471
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS FULLHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR ESTRENOS FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114463
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR F1 FULLHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR F1 FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114848
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES FULLHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR SERIES FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114548
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAFIC WILD FULLHD" tvg-logo="" group-title="MOVISTAR 2",NATIONAL GEOGRAFIC WILD FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114631
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FULLHD" tvg-logo="" group-title="MOVISTAR 2",NATIONAL GEOGRAPHIC FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114627
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/nickjr.png" group-title="MOVISTAR 2",NICK JR
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114614
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FULLHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/nick.png" group-title="MOVISTAR 2",NICKELODEON FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114613
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/nick.png" group-title="MOVISTAR 2",CALLE 13 HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114599
-#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="" group-title="MOVISTAR 2",ODISEA
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114622
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/paramount.png" group-title="MOVISTAR 2",PARAMOUNT CHANNEL
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114492
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE" tvg-logo="" group-title="MOVISTAR 2",MEZZO LIVE
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114644
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE FULL HD" tvg-logo="" group-title="MOVISTAR 2",MEZZO LIVE HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114645
-#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="MOVISTAR 2",SOMOS
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114491
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE FHD" tvg-logo="" group-title="MOVISTAR 2",SUNDANCE FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114485
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="MOVISTAR 2",SYFY FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114571
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="MOVISTAR 2",SYFY HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114572
-#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 1" tvg-logo="" group-title="MOVISTAR 2",TAQUILLA 1
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114733
-#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 2" tvg-logo="" group-title="MOVISTAR 2",TAQUILLA 2
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114734
-#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 5" tvg-logo="" group-title="MOVISTAR 2",TAQUILLA 5
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114737
-#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 6" tvg-logo="" group-title="MOVISTAR 2",TAQUILLA 6
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114738
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LIGATV BAR HD" tvg-logo="" group-title="MOVISTAR 2",M LIGATV HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114826
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  0#" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR  0#
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114459
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  F1" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR  F1
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114847
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  GOLF" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR  GOLF
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114887
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="" group-title="MOVISTAR 2",BARCA TV
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114821
-#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="" group-title="MOVISTAR 2",DAZN HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114819
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="" group-title="MOVISTAR 2",DAZN SD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114820
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 3 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR  LA LIGA 3 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114833
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LALIGA 2" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR  LALIGA 2
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114830
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE 1 FULLHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR DEPORTE 1 FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114873
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE FULLHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR DEPORTE FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114872
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE HD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR DEPORTE HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114886
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR F1 HD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR F1 HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114846
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF FHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR GOLF FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114890
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LA LIGA
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114822
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114845
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 10 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LA LIGA 10 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114835
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 FHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LA LIGA 2 FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114841
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114842
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LA LIGA 5 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114838
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 9 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LA LIGA 9 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114836
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA FULLHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LA LIGA FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114824
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LALIGA 1 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LALIGA 1 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114853
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LALIGA HD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LALIGA HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114823
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA CAMPEONES
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114854
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114856
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 1 FULLHD (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA CAMPEONES 1 FULLHD (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114857
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 2 FULLHD (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA CAMPEONES 2 FULLHD (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114859
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114863
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES  (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA CAMPEONES  (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114865
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES FHD" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA CAMPEONES FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114855
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA DE CAMPEONES 2 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114858
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)" tvg-logo="" group-title="MOVISTAR 2",MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114861
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="MOVISTAR 2",TELEDEPORTE
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114871
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE FULL HD" tvg-logo="" group-title="MOVISTAR 2",TELEDEPORTE FULL HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114870
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA BAR" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 2",ES: LALIGA BAR
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/28946
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="MOVISTAR 2",TCM
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114481
-#EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="" group-title="MOVISTAR 2",TCM FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114483
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="MOVISTAR 2",TCM HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114482
-#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="MOVISTAR 2",TEN
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114635
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png" group-title="MOVISTAR 2",TNT
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114568
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png" group-title="MOVISTAR 2",TNT FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114569
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png" group-title="MOVISTAR 2",TNT HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114550
-#EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="" group-title="MOVISTAR 2",XTRM HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114549
-#EXTINF:-1 tvg-id="" tvg-name="Extremadura SD" tvg-logo="" group-title="MOVISTAR 2",Extremadura SD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114487
-#EXTINF:-1 tvg-id="" tvg-name="XTRM FULLHD" tvg-logo="" group-title="MOVISTAR 2",XTRM FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1114490
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| TVE INTERNACIONAL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127636
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| LA 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127637
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| LA 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127638
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| 24 HORAS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127639
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ANTENA 3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127640
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| CUATRO
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127641
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| TELECINCO
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127642
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| LA SEXTA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127643
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| #VAMOS HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/144173
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| SPANISH TALENTS       
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127650
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| CANAL 24 HORAS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127651
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| CANAL ORBE 21
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127656
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| DARK
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/194246
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| TVE INTERNACIONAL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127660
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| LA 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127661
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| LA 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127662
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| 24 HORAS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127663
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| ANTENA 3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127664
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| CUATRO
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127665
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| TELECINCO
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127666
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| LA SEXTA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127667
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| #VAMOS HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/144174
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| CANAL ORBE 21
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127674
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| DARK
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/194252
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| BLAZE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/181633
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| TOROS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127752
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| CANAL ODISEA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127753
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DISCOVERY CHANNEL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127754
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DISCOVERY CRIME INVESTIGATION
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127755
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DMAX
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127756
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| HISTORIA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127758
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| NAT GEOGRAPHIC
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127759
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| NAT GEO WILD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127760
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| CAZA & PESCA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127761
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| CANAL COCINA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127763
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| TOROS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127766
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| CANAL ODISEA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127767
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DISCOVERY CHANNEL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127768
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DISCOVERY CRIME INVESTIGATION
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127769
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DMAX
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127770
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| HISTORIA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127772
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| NAT GEOGRAPHIC
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127773
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| NAT GEO WILD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127774
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| CAZA Y PESCA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127775
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| CANAL COCINA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127777
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| BLAZE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/181634
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| #0
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127698
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. SERIES
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127699
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| COMEDY CENTRAL HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127700
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| FOX
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127701
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| AXN
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127703
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| AXN WHITE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127704
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| SYFY
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127705
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| SUNDANCE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127706
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| CALLE 13
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127707
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| IBERALIA TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127708
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| CANAL DE CASA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127709
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| AMC
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127710
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| COSMO
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127711
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| BE MAD TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127714
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| XTRM
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127716
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| #0
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127718
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. SERIES
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127719
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. SERIESMANIA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127720
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| FOX
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127721
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| AXN
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127723
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| AXN WHITE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127724
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| SYFY
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127725
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| SUNDANCE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127726
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| CALLE 13
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127727
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| IBERALIA TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127728
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| CANAL DE CASA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127729
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| AMC
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127730
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| COSMO
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127731
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| BE MAD TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127734
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| XTRM
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127736
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| LA CASA DE PAPEL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/142650
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. ESTRENOS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127676
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.ESTRENOS 2 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/164749
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. ACCION
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127677
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. COMEDIA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127678
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DRAMA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127679
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. CINE ESPANOL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127680
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| HOLLYWOOD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127682
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| TCM
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127683
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| TNT
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127684
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| PARAMOUNT CHANNEL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127685
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.SERIES 2 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/164751
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.RESISTENCIA HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/164752
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| MOVISTAR BOM CINE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/182510
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| MOVISTAR CRIMEN
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/182511
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| SOMOS HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/164753
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. ESTRENOS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127687
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. ACCION
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127688
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. COMEDIA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127689
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DRAMA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127690
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. CINE ESPANOL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127691
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| HOLLYWOOD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127693
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| TCM
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127694
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| TNT
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127695
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| PARAMOUNT CHANNEL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127696
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| SOMOS HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/164750
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 1 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127738
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 2 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/135210
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 3 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/135211
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 4 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/135347
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 5 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/135425
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 6 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/135426
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 7 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/135469
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 8 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/135500
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 9 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/153321
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 10 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/153322
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 11 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/153323
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ALQUILER 12 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/153324
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DISNEY
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127780
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| BOING
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127781
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| ENFAMILIA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127782
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DISNEY CHANNEL
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127783
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DISNEY JR
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127784
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| BABY TV 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127786
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| NICKELODEON
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127787
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| NICK JR
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127788
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DREAMWORKS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127790
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| BABY TV 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127792
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| BOING 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127793
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| CANAL PANDA 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127794
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DISNEY CH 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127795
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DISNEY JR 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127796
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DREAMWORKS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127797
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| NICK JR 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127798
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| NICKELODEON
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127800
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| MTV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127802
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| MTV ESPANA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127803
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| MEZZO
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127804
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| MEZZO LIVE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127805
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| LA VOZ KIDS ESPAÑA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127806
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| VH1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127807
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| MTV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127809
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| MTV ESPANA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127810
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| MEZZO
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127811
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| MEZZO LIVE HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127812
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| VH1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127813
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DAZN 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127815
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DAZN 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127816
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DAZN 3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127817
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DAZN 4
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127818
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| DAZN F1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127819
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| DAZN F1 SD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/260108
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| DAZN F1 ESPAÑA HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/260109
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| DAZN F1 ESPAÑA 4K
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/260110
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| DAZN LALIGA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/194257
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| DAZN LALIGA 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/195454
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| LALIGA SMARTBANK TV HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/195484
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| LALIGA SMARTBANK TV 1 HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/195485
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEONES
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127820
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.LCAMPEONES backup
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/202582
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127821
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DEPORTES
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127822
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| TELEDEPORTE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127823
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| REAL MADRID TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127824
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| BARCA TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127825
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| EUROSPORT 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127826
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| EUROSPORT 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127827
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. GOLF
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127829
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| GOL TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127830
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M+ ELLAS HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/194255
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M+ CLÁSICOS
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/194256
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.FEST HD
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/194258
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231513
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231514
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231515
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 4
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231516
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 5
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231517
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 6
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231518
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 7
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231519
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 8
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231520
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 9
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231521
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 10
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231522
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 11
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231523
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 12
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231524
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 13
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231525
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 14
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231526
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 15
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/231527
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 16
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/235664
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 17
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/235665
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 18
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/235666
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 19
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/235667
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| INSTAT TV 20
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/235668
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| MUNDOTORO TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/267382
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| DAZN LALIGA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/195455
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| DAZN LALIGA 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/195456
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DAZN 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127832
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DAZN 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127833
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DAZN 3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127834
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DAZN 4
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127835
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| DAZN F1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127836
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| LALIGA SMARTBANK TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/195486
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| LALIGA SMARTBANK TV 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/195487
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LCAMPEONES
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127837
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| M.LCAMPEONES backup
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/202584
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LCAMPEON 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127838
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DEPORTES
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127839
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| TELEDEPORTE
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127840
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| REAL MADRID TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127841
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| BARCA TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127842
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| EUROSPORT 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127843
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| EUROSPORT 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127844
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. GOLF
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127846
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| GOL TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127847
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| HORSE TV
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/194261
-#EXTINF:-1 group-title="MOVISTAR 3",|SP-4K| DAZN F1 ESPAÑA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/194262
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127849
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| LALIGA TV BAR
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/169503
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127850
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127851
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127852
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 4
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127853
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 6
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127854
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 7
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127855
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 8
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127856
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 9
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127857
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LALIGA 10
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127858
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DEPORTES 1 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127859
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DEPORTES 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127860
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DEPORTES 3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127861
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DEPORTES 4
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127862
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DEPORTES 5
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127863
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DEPORTES 6
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127864
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. DEPORTES 7
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127865
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 1 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127866
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 2 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127867
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 3 
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127868
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 4
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127869
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 5
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127870
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 6
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127871
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 7
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127872
-#EXTINF:-1 group-title="MOVISTAR 3",|ES| M. LCAMPEON 8
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127873
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.LCAMPEONES 9
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/169499
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.LCAMPEONES 10
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/169500
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.LCAMPEONES 11
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/169501
-#EXTINF:-1 group-title="MOVISTAR 3",|SP| M.LCAMPEONES 12
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/169502
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127876
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127877
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127878
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127879
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 4
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127880
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 6
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127881
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 7
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127882
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 8
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127883
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 9
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127884
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. LALIGA 10
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127885
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DEPORTES1
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127886
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DEPORTES2
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127887
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DEPORTES3
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127888
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DEPORTES4
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127889
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DEPORTES 5
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127890
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DEPORTES 6
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127891
-#EXTINF:-1 group-title="MOVISTAR 3",|ES-4K| M. DEPORTES 7
-http://sansat.net:25461/VLQ9JUNYQV/6P6MDULUIQ/127892
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR► beIN SPORTS 1 FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINSPORTS1WHITE.png" group-title="SPORTS",TR► beIN SPORTS 1 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/55141
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN SPORTS 2 FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINSPORTS2WHITE.png" group-title="SPORTS",TR► beIN SPORTS 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/55144
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN SPORTS 3 FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINSPORTS3WHITE.png" group-title="SPORTS",TR► beIN SPORTS 3 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/55146
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN SPORTS 4 FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINSPORTS4WHITE.png" group-title="SPORTS",TR► beIN SPORTS 4 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/55148
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN SPORTS 5 HD" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINSPORTS5WHITE.png" group-title="SPORTS",TR► beIN SPORTS 5 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/55149
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN CONNECT 1* (Maç Zamanı Online)" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINCONNECT1WHITE.png" group-title="SPORTS",TR► beIN CONNECT 1* (Maç Zamanı Online)
+http://142.132.205.35:8080/Hasan12/Hasan1234/49443
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN CONNECT 2* (Maç Zamanı Online)" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINCONNECT2WHITE.png" group-title="SPORTS",TR► beIN CONNECT 2* (Maç Zamanı Online)
+http://142.132.205.35:8080/Hasan12/Hasan1234/49445
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN CONNECT 3* (Maç Zamanı Online)" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINCONNECT3WHITE.png" group-title="SPORTS",TR► beIN CONNECT 3* (Maç Zamanı Online)
+http://142.132.205.35:8080/Hasan12/Hasan1234/49447
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN CONNECT 4* (Maç Zamanı Online)" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINCONNECT4WHITE.png" group-title="SPORTS",TR► beIN CONNECT 4* (Maç Zamanı Online)
+http://142.132.205.35:8080/Hasan12/Hasan1234/49449
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN CONNECT 5* (Maç Zamanı Online)" tvg-logo="https://portaltv.me/Picon/TR/Spor/BEINCONNECT5WHITE.png" group-title="SPORTS",TR► beIN CONNECT 5* (Maç Zamanı Online)
+http://142.132.205.35:8080/Hasan12/Hasan1234/49451
+#EXTINF:-1 tvg-id="" tvg-name="TR► E**EN SPORT 1 (MAÇ ZAMANI ONLINE)" tvg-logo="https://portaltv.me/Picon/TR/Spor/EXXENSPORTV.png" group-title="SPORTS",TR► E**EN SPORT 1 (MAÇ ZAMANI ONLINE)
+http://142.132.205.35:8080/Hasan12/Hasan1234/235
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR► S SPORT FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/SSPORTTV.png" group-title="SPORTS",TR► S SPORT FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/253
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR► S SPORT 2" tvg-logo="https://portaltv.me/Picon/TR/Spor/SSPORT2TV.png" group-title="SPORTS",TR► S SPORT 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/254
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR► SPOR SMART FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/SPORSMARTTV.png" group-title="SPORTS",TR► SPOR SMART FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/265
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="TR► SPOR SMART 2 FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/SPORSMART2TV.png" group-title="SPORTS",TR► SPOR SMART 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/267
+#EXTINF:-1 tvg-id="" tvg-name="TR► tivibu SPOR 1 FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/TIVIBUSPORTV.png" group-title="SPORTS",TR► tivibu SPOR 1 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/54966
+#EXTINF:-1 tvg-id="" tvg-name="TR► tivibu SPOR 2" tvg-logo="https://portaltv.me/Picon/TR/Spor/TIVIBUSPOR2TV.png" group-title="SPORTS",TR► tivibu SPOR 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/270
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR► SPORTS TV" tvg-logo="https://portaltv.me/Picon/TR/Spor/SPORTSTV.png" group-title="SPORTS",TR► SPORTS TV
+http://142.132.205.35:8080/Hasan12/Hasan1234/280
+#EXTINF:-1 tvg-id="" tvg-name="TR► TRT SPOR YILDIZ FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/TRTSPORYILDIZTV.png" group-title="SPORTS",TR► TRT SPOR YILDIZ FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/284
+#EXTINF:-1 tvg-id="" tvg-name="TR► FUCHS SPORTS 1 [MAÇ ZAMANI]" tvg-logo="https://portaltv.me/Picon/TR/Spor/fucs1.png" group-title="SPORTS",TR► FUCHS SPORTS 1 [MAÇ ZAMANI]
+http://142.132.205.35:8080/Hasan12/Hasan1234/55029
+#EXTINF:-1 tvg-id="" tvg-name="TR► FUCHS SPORTS 2 [MAÇ ZAMANI]" tvg-logo="https://portaltv.me/Picon/TR/Spor/fucs2.png" group-title="SPORTS",TR► FUCHS SPORTS 2 [MAÇ ZAMANI]
+http://142.132.205.35:8080/Hasan12/Hasan1234/55030
+#EXTINF:-1 tvg-id="" tvg-name="TR► FUCHS SPORTS 3 [MAÇ ZAMANI]" tvg-logo="https://portaltv.me/Picon/TR/Spor/fucs3.png" group-title="SPORTS",TR► FUCHS SPORTS 3 [MAÇ ZAMANI]
+http://142.132.205.35:8080/Hasan12/Hasan1234/55031
+#EXTINF:-1 tvg-id="" tvg-name="TR► FUCHS SPORTS 4 [MAÇ ZAMANI]" tvg-logo="https://portaltv.me/Picon/TR/Spor/fucs4.png" group-title="SPORTS",TR► FUCHS SPORTS 4 [MAÇ ZAMANI]
+http://142.132.205.35:8080/Hasan12/Hasan1234/55032
+#EXTINF:-1 tvg-id="" tvg-name="TR► FUCHS SPORTS 5 [MAÇ ZAMANI]" tvg-logo="https://portaltv.me/Picon/TR/Spor/fucs5.png" group-title="SPORTS",TR► FUCHS SPORTS 5 [MAÇ ZAMANI]
+http://142.132.205.35:8080/Hasan12/Hasan1234/55033
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR► A SPOR FHD" tvg-logo="https://portaltv.me/Picon/TR/Spor/ASPORTV.png" group-title="SPORTS",TR► A SPOR FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/286
+#EXTINF:-1 tvg-id="" tvg-name="DE► DAZN 1 BAR FHD" tvg-logo="https://portaltv.me/Picon/DE/SPOR/DAZN1BARLOGO.png" group-title="SPORTS",DE► DAZN 1 BAR FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/12775
+#EXTINF:-1 tvg-id="" tvg-name="TR► DAZN 2 BAR FHD" tvg-logo="https://portaltv.me/Picon/DE/SPOR/DAZN2BARLOGO.png" group-title="SPORTS",DE► DAZN 2 BAR FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/12777
+#EXTINF:-1 tvg-id="" tvg-name="TR► SPORT DIGITAL HD" tvg-logo="https://portaltv.me/Picon/DE/SPOR/SPORTDIGITAL.png" group-title="SPORTS",DE► SPORT DIGITAL HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/12778
+#EXTINF:-1 tvg-id="" tvg-name="TR► SPORT +1 FHD" tvg-logo="https://portaltv.me/Picon/DE/SPOR/SPORT1PLUS.png" group-title="SPORTS",DE► SPORT +1 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/12780
+#EXTINF:-1 tvg-id="" tvg-name="TR► S*Y SPORT 1 FHD" tvg-logo="https://portaltv.me/Picon/DE/SPOR/SKYSPORT1.png" group-title="SPORTS",DE► S*Y SPORT 1 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/12796
+#EXTINF:-1 tvg-id="" tvg-name="TR► S*Y SPORT 2 FHD" tvg-logo="https://portaltv.me/Picon/DE/SPOR/SKYSPORT2.png" group-title="SPORTS",DE► S*Y SPORT 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/12798
+#EXTINF:-1 tvg-id="" tvg-name="FR► RMC SPORT ACCESS 1 HD" tvg-logo="" group-title="SPORTS",FR► RMC SPORT ACCESS 1 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/47775
+#EXTINF:-1 tvg-id="" tvg-name="TR► RMC SPORT ACCESS 2 HD" tvg-logo="" group-title="SPORTS",FR► RMC SPORT ACCESS 2 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/47776
+#EXTINF:-1 tvg-id="" tvg-name="TR► CANAL+ PREMIER LEAGUE" tvg-logo="" group-title="SPORTS",FR► CANAL+ PREMIER LEAGUE
+http://142.132.205.35:8080/Hasan12/Hasan1234/47807
+#EXTINF:-1 tvg-id="" tvg-name="TR► CANAL+ LIGUE 1MOTOGP" tvg-logo="" group-title="SPORTS",FR► CANAL+ LIGUE 1MOTOGP
+http://142.132.205.35:8080/Hasan12/Hasan1234/47808
+#EXTINF:-1 tvg-id="" tvg-name="TR► CANAL+ SPORT 360 FHD" tvg-logo="" group-title="SPORTS",FR► CANAL+ SPORT 360 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/47812
+#EXTINF:-1 tvg-id="" tvg-name="TR► AMAZON PRIME 1 HD (ONLY EVENTS)" tvg-logo="" group-title="SPORTS",FR► AMAZON PRIME 1 HD (ONLY EVENTS)
+http://142.132.205.35:8080/Hasan12/Hasan1234/47813
+#EXTINF:-1 tvg-id="" tvg-name="TR► AMAZON PRIME 2 HD (ONLY EVENTS)" tvg-logo="" group-title="SPORTS",FR► AMAZON PRIME 2 HD (ONLY EVENTS)
+http://142.132.205.35:8080/Hasan12/Hasan1234/47814
+#EXTINF:-1 tvg-id="" tvg-name="TR► AMAZON PRIME 3 HD (ONLY EVENTS)" tvg-logo="" group-title="SPORTS",FR► AMAZON PRIME 3 HD (ONLY EVENTS)
+http://142.132.205.35:8080/Hasan12/Hasan1234/47815
+#EXTINF:-1 tvg-id="" tvg-name="TR► AMAZON PRIME 4 HD (ONLY EVENTS)" tvg-logo="" group-title="SPORTS",FR► AMAZON PRIME 4 HD (ONLY EVENTS)
+http://142.132.205.35:8080/Hasan12/Hasan1234/47816
+#EXTINF:-1 tvg-id="" tvg-name="TR► AMAZON PRIME 5 HD (ONLY EVENTS)" tvg-logo="" group-title="SPORTS",FR► AMAZON PRIME 5 HD (ONLY EVENTS)
+http://142.132.205.35:8080/Hasan12/Hasan1234/47817
+#EXTINF:-1 tvg-id="" tvg-name="TR► AMAZON PRIME 6 HD (ONLY EVENTS)" tvg-logo="" group-title="SPORTS",FR► AMAZON PRIME 6 HD (ONLY EVENTS)
+http://142.132.205.35:8080/Hasan12/Hasan1234/47818
+#EXTINF:-1 tvg-id="" tvg-name="TR► AMAZON PRIME 7 HD (ONLY EVENTS)" tvg-logo="" group-title="SPORTS",FR► AMAZON PRIME 7 HD (ONLY EVENTS)
+http://142.132.205.35:8080/Hasan12/Hasan1234/47819
+#EXTINF:-1 tvg-id="" tvg-name="TR► AMAZON PRIME 8 HD (ONLY EVENTS)" tvg-logo="" group-title="SPORTS",FR► AMAZON PRIME 8 HD (ONLY EVENTS)
+http://142.132.205.35:8080/Hasan12/Hasan1234/47820
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN SPORTS 1 FHD" tvg-logo="" group-title="SPORTS",FR► beIN SPORTS 1 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/47823
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN SPORTS 2 FHD" tvg-logo="" group-title="SPORTS",FR► beIN SPORTS 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/47826
+#EXTINF:-1 tvg-id="" tvg-name="TR► beIN SPORTS 3 FHD" tvg-logo="" group-title="SPORTS",FR► beIN SPORTS 3 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/47829
+#EXTINF:-1 tvg-id="" tvg-name="TR► FOOT24" tvg-logo="" group-title="SPORTS",FR► FOOT24
+http://142.132.205.35:8080/Hasan12/Hasan1234/47866
+#EXTINF:-1 tvg-id="" tvg-name="UK► S*Y SPORTS PREMIER LEAGUE" tvg-logo="" group-title="SPORTS",UK► S*Y SPORTS PREMIER LEAGUE
+http://142.132.205.35:8080/Hasan12/Hasan1234/44097
+#EXTINF:-1 tvg-id="" tvg-name="TR► BT SPORT 1 HD" tvg-logo="" group-title="SPORTS",UK► BT SPORT 1 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/44106
+#EXTINF:-1 tvg-id="" tvg-name="TR► BT SPORT 2 HD" tvg-logo="" group-title="SPORTS",UK► BT SPORT 2 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/44107
+#EXTINF:-1 tvg-id="" tvg-name="TR► BT SPORT 3 HD" tvg-logo="" group-title="SPORTS",UK► BT SPORT 3 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/44108
+#EXTINF:-1 tvg-id="" tvg-name="TR► BT SPORT / ESPN HD" tvg-logo="" group-title="SPORTS",UK► BT SPORT 4 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/44109
+#EXTINF:-1 tvg-id="" tvg-name="BE► ELEVEN PRO LEAGUE 1" tvg-logo="" group-title="SPORTS",BE► ELEVEN PRO LEAGUE 1
+http://142.132.205.35:8080/Hasan12/Hasan1234/34884
+#EXTINF:-1 tvg-id="" tvg-name="TR► ELEVEN PRO LEAGUE 2" tvg-logo="" group-title="SPORTS",BE► ELEVEN PRO LEAGUE 2
+http://142.132.205.35:8080/Hasan12/Hasan1234/34875
+#EXTINF:-1 tvg-id="" tvg-name="TR► ELEVEN SPORT 1 FHD" tvg-logo="" group-title="SPORTS",BE► ELEVEN SPORT 1 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/34876
+#EXTINF:-1 tvg-id="" tvg-name="TR► ELEVEN SPORT 2 FHD" tvg-logo="" group-title="SPORTS",BE► ELEVEN SPORT 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/34877
+#EXTINF:-1 tvg-id="" tvg-name="RU► MATCH_HD" tvg-logo="" group-title="SPORTS",RU► MATCH_HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/35242
+#EXTINF:-1 tvg-id="" tvg-name="TR► NTV FOOTBALL 3" tvg-logo="" group-title="SPORTS",RU► NTV FOOTBALL 3
+http://142.132.205.35:8080/Hasan12/Hasan1234/35257
+#EXTINF:-1 tvg-id="" tvg-name="USA: GOL TV HD" tvg-logo="" group-title="SPORTS",USA: GOL TV HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/49533
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORT: BEIN SPORTS HD" tvg-logo="" group-title="SPORTS",USA: SPORT: BEIN SPORTS HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/50042
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORT: BEIN SPORTS LA LIGA" tvg-logo="" group-title="SPORTS",USA: SPORT: BEIN SPORTS LA LIGA
+http://142.132.205.35:8080/Hasan12/Hasan1234/50043
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORT: BEIN SPORTS XTRA HD" tvg-logo="" group-title="SPORTS",USA: SPORT: BEIN SPORTS XTRA HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/50044
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORT: BEIN SPORTS 4 HD" tvg-logo="" group-title="SPORTS",USA: SPORT: BEIN SPORTS 4 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/50045
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="SPORTS",PL: ELEVEN SPORTS 1 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/53079
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="SPORTS",PL: ELEVEN SPORTS 2 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/53080
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="SPORTS",PL: ELEVEN SPORTS 3 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/53081
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="SPORTS",PL: ELEVEN SPORTS 4 HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/53083
+#EXTINF:-1 tvg-id="" tvg-name="PL: PO**AT SPORT EXTRA HD" tvg-logo="" group-title="SPORTS",PL: PO**AT SPORT EXTRA HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/53130
+#EXTINF:-1 tvg-id="" tvg-name="PL: PO**AT SPORT HD" tvg-logo="" group-title="SPORTS",PL: PO**AT SPORT HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/53131
+#EXTINF:-1 tvg-id="" tvg-name="PL: PO**AT SPORTPremium 1 FHD" tvg-logo="" group-title="SPORTS",PL: PO**AT SPORTPremium 1 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/53134
+#EXTINF:-1 tvg-id="" tvg-name="PL: PO**AT SPORTPremium 2 FHD" tvg-logo="" group-title="SPORTS",PL: PO**AT SPORTPremium 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/53135
+#EXTINF:-1 tvg-id="" tvg-name="BG: MAX SPORT 1 FHD" tvg-logo="" group-title="SPORTS",BG: MAX SPORT 1 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/58177
+#EXTINF:-1 tvg-id="" tvg-name="BG: MAX SPORT 2 FHD" tvg-logo="" group-title="SPORTS",BG: MAX SPORT 2 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/58178
+#EXTINF:-1 tvg-id="" tvg-name="BG: MAX SPORT 3 FHD" tvg-logo="" group-title="SPORTS",BG: MAX SPORT 3 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/58179
+#EXTINF:-1 tvg-id="" tvg-name="BG: MAX SPORT 4 FHD" tvg-logo="" group-title="SPORTS",BG: MAX SPORT 4 FHD
+http://142.132.205.35:8080/Hasan12/Hasan1234/58180
+#EXTINF:-1 tvg-id="" tvg-name="AR► ALKASS ONE HD" tvg-logo="" group-title="SPORTS",AR► ALKASS ONE HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/48327
+#EXTINF:-1 tvg-id="" tvg-name="AR► ALKASS TWO HD" tvg-logo="" group-title="SPORTS",AR► ALKASS TWO HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/48328
+#EXTINF:-1 tvg-id="" tvg-name="AR► ALKASS FOUR HD" tvg-logo="" group-title="SPORTS",AR► ALKASS FOUR HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/48329
+#EXTINF:-1 tvg-id="" tvg-name="AR► ALKASS FIVE HD" tvg-logo="" group-title="SPORTS",AR► ALKASS FIVE HD
+http://142.132.205.35:8080/Hasan12/Hasan1234/48330
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga TV (multiaudio FHD) (ACE)
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga TV (multiaudio FHD) (ACE)
@@ -3894,6 +3324,5 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
-
 
 
