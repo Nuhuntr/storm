@@ -943,6 +943,36 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a
 #EXTINF:-1 channel-id="pluto-5f1abe3ffcd659000770d88d" tvg-id="5f1abe3ffcd659000770d88d" tvg-chno="233" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="Series", La Chica Invisible
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 07" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 01
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361161
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 05" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 02
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361131
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 06" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 03
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361132
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 15" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 04
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361169
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 05" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 05
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361151
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 04" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 06
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361152
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 03" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 07
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361153
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 02" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 08
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361154
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 01" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 09
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361127
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 08" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 10
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361162
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 09" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 11
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361163
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 10" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 12
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361164
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 11" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 13
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361165
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 12" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 14
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361166
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA 07" tvg-logo="https://i.ibb.co/DCG7jM7/Screenshot-6.png" group-title="Películas",TAQUILLA 15
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1361149
 #EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Acción
@@ -1023,13 +1053,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 
-#EXTINF:-1 group-title="|VOD| CINE",Vice
+#EXTINF:-1 tvg-ID="" tvg-name="Vice" tvg-logo="https://image.tmdb.org/t/p/w500/cBwZIq1QFasmsC9Wi3HvyEljfYN.jpg" group-title="|VOD| CINE",Vice
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271035.mp4
-#EXTINF:-1 tvg-ID="Vicky el vikingo" tvg-name="Vicky el vikingo" tvg-logo="" group-title="|VOD| CINE",Vicky el vikingo
+#EXTINF:-1 tvg-ID="" tvg-name="Vicky el vikingo" tvg-logo="https://image.tmdb.org/t/p/w500/7bgflJZZkBjoLHbkaqxAqXdApJO.jpg" group-title="|VOD| CINE",Vicky el vikingo
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271050.mp4
-#EXTINF:-1 tvg-ID="Victor Frankenstein" tvg-name="Victor Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w500/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg" group-title="|VOD| CINE",Victor Frankenstein
+#EXTINF:-1 tvg-ID="" tvg-name="Victor Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w500/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg" group-title="|VOD| CINE",Victor Frankenstein
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271051.mkv
-#EXTINF:-1 tvg-ID="Vidas en pedazos" tvg-logo="https://image.tmdb.org/t/p/w500/78e639xf8o83eBBrHdeAwpVYVsf.jpg" group-title="|VOD| CINE",Vidas en pedazos
+#EXTINF:-1 tvg-ID="" tvg-name="Vidas en pedazos" tvg-logo="https://image.tmdb.org/t/p/w500/78e639xf8o83eBBrHdeAwpVYVsf.jpg" group-title="|VOD| CINE",Vidas en pedazos
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271052.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="¡Viven!" tvg-logo="https://image.tmdb.org/t/p/w500/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg" group-title="|VOD| CINE",¡Viven!
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271053.mp4
@@ -1545,7 +1575,7 @@ http://91.208.115.170:25461/movie/02020355774683/02020355774683/262989.mkv
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/262990.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Guardianes de la Galaxia vol. 2" tvg-logo="https://image.tmdb.org/t/p/w500/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="|VOD| CINE",Guardianes de la Galaxia vol. 2
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/262991.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Guardianes" tvg-logo="https://image.tmdb.org/t/p/w500/cuWtgYKs9EsKQHIv3mJTBbFZddi.jpg" group-title="|VOD| CINE",Guardianes
+#EXTINF:-1 tvg-ID="" tvg-name="Guardians" tvg-logo="https://image.tmdb.org/t/p/w500/cuWtgYKs9EsKQHIv3mJTBbFZddi.jpg" group-title="|VOD| CINE",Guardians
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/262992.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Guardianes de la tumba" tvg-logo="https://image.tmdb.org/t/p/w500/aJBKve6Ul5TjbLdFUzVtZDboFoX.jpg" group-title="|VOD| CINE",Guardianes de la tumba
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/262993.mkv
@@ -1615,7 +1645,7 @@ http://91.208.115.170:25461/movie/02020355774683/02020355774683/260392.mp4
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/260393.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Ya era hora" tvg-logo="https://image.tmdb.org/t/p/w500/uC77nrTr5dTvPckQ4G5JVh9lhub.jpg" group-title="|VOD| CINE",Ya era hora
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/260431.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Avatar: The Way of Water" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="|VOD| CINE",Avatar: The Way of Water
+#EXTINF:-1 tvg-ID="" tvg-name="Avatar: The Way of Water (VOCES)" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="|VOD| CINE",Avatar: The Way of Water
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/256598.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Armageddon Time" tvg-logo="https://www.themoviedb.org/t/p/w1280/vIoA1wc9KbAKLiIfbAxWfsFHzQP.jpg" group-title="|VOD| CINE",Armageddon Time
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/252107.mp4
@@ -3600,32 +3630,10 @@ http://91.208.115.170:25461/02020355774683/02020355774683/208001
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 1(FHD)
 https://cdn.odysee.live/live/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VE: Rusia today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="Noticias",VE: Rusia today
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/102397.ts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",Actualidad RT (HD)
-https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",Actualidad RT (SD)
-https://cdn.odysee.live/480/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 2 (FHD)
-https://cdn.odysee.live/1080/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 2 (HD)
-https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 2 (SD)
-https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/telesur.png" group-title="Noticias",Telesur (FHD)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Venezuela|| Venezolana de Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Noticias",Venezuela|| Venezolana de Television
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1115088
-#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="VE: Venezolana de Television (MOVIL)" tvg-logo="http://swedtv.vip/logos/Venezuela/Venezolana_de_Televisi%c3%b3n.png" group-title="Noticias",VE: Venezolana de Television (MOVIL)
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/65772.ts
-#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="VE: Venezolana de Television" tvg-logo="http://swedtv.vip/logos/Venezuela/Venezolana_de_Televisi%c3%b3n.png" group-title="Noticias",VE: Venezolana de Television
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/389.ts
-#EXTINF:-1 tvg-id="" tvg-name="VE: Vive HD" tvg-logo="http://swedtv.vip/logos/Venezuela/Vive.png" group-title="Noticias",VE: Vive HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/390.ts
-#EXTINF:-1 tvg-id="" tvg-name="VE: TVES" tvg-logo="http://swedtv.vip/logos/Venezuela/TVES_10.png" group-title="Noticias",VE: TVES
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/102400.ts
-#EXTINF:-1 tvg-logo="http://rndserv.xyz/img/vtv.png" group-title="Noticias",VTV (HD)
-https://stream-01.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgmWkZaNRBfGcUuBP7d094Vuu_CVNujSrXha27kYoRjw)/dm/3/x828i6j/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="Noticias",HispanTV (HD)
 https://live1.presstv.ir/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="Noticias",HispanTV (SD)
@@ -4027,5 +4035,6 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
+
 
 
