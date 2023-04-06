@@ -1023,13 +1023,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Vice" tvg-logo="" group-title="|VOD| CINE",Vice
+#EXTINF:-1 group-title="|VOD| CINE",Vice
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271035.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Vicky el vikingo" tvg-logo="" group-title="|VOD| CINE",Vicky el vikingo
+#EXTINF:-1 tvg-ID="Vicky el vikingo" tvg-name="Vicky el vikingo" tvg-logo="" group-title="|VOD| CINE",Vicky el vikingo
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271050.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Victor Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w500/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg" group-title="|VOD| CINE",Victor Frankenstein
+#EXTINF:-1 tvg-ID="Victor Frankenstein" tvg-name="Victor Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w500/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg" group-title="|VOD| CINE",Victor Frankenstein
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271051.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Vidas en pedazos" tvg-logo="https://image.tmdb.org/t/p/w500/78e639xf8o83eBBrHdeAwpVYVsf.jpg" group-title="|VOD| CINE",Vidas en pedazos
+#EXTINF:-1 tvg-ID="Vidas en pedazos" tvg-logo="https://image.tmdb.org/t/p/w500/78e639xf8o83eBBrHdeAwpVYVsf.jpg" group-title="|VOD| CINE",Vidas en pedazos
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271052.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="¡Viven!" tvg-logo="https://image.tmdb.org/t/p/w500/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg" group-title="|VOD| CINE",¡Viven!
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/271053.mp4
