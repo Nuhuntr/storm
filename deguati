@@ -5275,7 +5275,7 @@ http://cityradio.ddns.net:8000/cityradio48flac
 #EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC",CHILLFLORIDA
 https://us5.internet-radio.com/proxy/chillflorida
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español (FHD)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 1(FHD)
 https://cdn.odysee.live/live/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VE: Rusia today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="Noticias",VE: Rusia today
 http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/102397.ts
@@ -5283,6 +5283,12 @@ http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/102397.ts
 https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",Actualidad RT (SD)
 https://cdn.odysee.live/480/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 2 (FHD)
+https://cdn.odysee.live/1080/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 2 (HD)
+https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 2 (SD)
+https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/telesur.png" group-title="Noticias",Telesur (FHD)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Venezuela|| Venezolana de Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Noticias",Venezuela|| Venezolana de Television
