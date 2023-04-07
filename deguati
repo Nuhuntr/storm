@@ -1645,8 +1645,6 @@ http://91.208.115.170:25461/movie/02020355774683/02020355774683/260392.mp4
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/260393.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Ya era hora" tvg-logo="https://image.tmdb.org/t/p/w500/uC77nrTr5dTvPckQ4G5JVh9lhub.jpg" group-title="|VOD| CINE",Ya era hora
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/260431.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Avatar: The Way of Water (VOCES)" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="|VOD| CINE",Avatar: The Way of Water
-http://91.208.115.170:25461/movie/02020355774683/02020355774683/256598.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Armageddon Time" tvg-logo="https://www.themoviedb.org/t/p/w1280/vIoA1wc9KbAKLiIfbAxWfsFHzQP.jpg" group-title="|VOD| CINE",Armageddon Time
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/252107.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Chang machaca" tvg-logo="https://image.tmdb.org/t/p/w500/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg" group-title="|VOD| CINE",Chang machaca
@@ -2954,6 +2952,149 @@ http://91.208.115.170:25461/movie/02020355774683/02020355774683/270622.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Noche en la escuela" tvg-logo="https://image.tmdb.org/t/p/w500/hzSLMd7xVD3NLXvPEzLvOC0x8v7.jpg" group-title="|VOD| CINE",Noche en la escuela
 http://91.208.115.170:25461/movie/02020355774683/02020355774683/270623.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP|| Cinema Disney Pixar" tvg-logo="http://54.38.179.129/LOGOS/cinemadisneypixar.png" group-title="24/7 LATINO",24/7 VIP|| Cinema Disney Pixar
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1133111
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP|| Cinema Dreamworks" tvg-logo="http://54.38.179.129/LOGOS/cinemadreamworks.png" group-title="24/7 LATINO",24/7 VIP|| Cinema Dreamworks
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1133112
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP|| Cinema Happy Madison" tvg-logo="http://54.38.179.129/LOGOS/cinemahappymadison128.png" group-title="24/7 LATINO",24/7 VIP|| Cinema Happy Madison
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1133104
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP|| Cinema Horror" tvg-logo="http://54.38.179.129/LOGOS/cinemahorror.png" group-title="24/7 LATINO",24/7 VIP|| Cinema Horror
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1133107
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 VIP|| Hechizada" tvg-logo="https://dl.dropboxusercontent.com/s/7x2kjdpgase73ap/hechizada.png" group-title="24/7 LATINO",*24/7 VIP|| Hechizada
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1125759
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Accion Classics" tvg-logo="http://lmtsmartbox.com/apk01/images/Action.png" group-title="24/7 LATINO",*24/7 || Play! Cinema Accion Classics
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163822
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Artes Marciales" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Artes Marciales
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163435
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Ciencia Ficcion" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Ciencia Ficcion
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163928
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Horror" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Horror
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163431
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Scary Movie" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Scary Movie
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163033
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Halloween" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Halloween
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163544
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Actividad paranormal" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Actividad paranormal
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163745
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Mad Max" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Mad Max
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163823
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Señor de los Anillos" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Señor de los Anillos
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163825
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Los Juegos del Hambre" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Los Juegos del Hambre
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163828
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Rocky" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Rocky
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163832
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Duro de Matar" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Duro de Matar
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163833
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Blade" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Blade
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163835
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Especies" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Especies
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163932
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Búsqueda implacable" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Búsqueda implacable
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163933
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Keanu Reeves" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Keanu Reeves
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163746
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 || Play! Cinema Brad Pitt" tvg-logo="" group-title="24/7 LATINO",*24/7 || Play! Cinema Brad Pitt
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1163929
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 John Wick" tvg-logo="" group-title="24/7 LATINO",*24/7 John Wick
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1202734
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 Jason Statham" tvg-logo="" group-title="24/7 LATINO",*24/7 Jason Statham
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1202804
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 Cuentos de la Cripta" tvg-logo="" group-title="24/7 LATINO",*24/7 Cuentos de la Cripta
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1203007
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 SuperStore" tvg-logo="" group-title="24/7 LATINO",*24/7 SuperStore
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1203462
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 Loki" tvg-logo="" group-title="24/7 LATINO",*24/7 Loki
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1203612
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 Mi Bella Genio" tvg-logo="" group-title="24/7 LATINO",*24/7 Mi Bella Genio
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1204124
+#EXTINF:-1 tvg-id="" tvg-name="*24/7 Play Terror.." tvg-logo="" group-title="24/7 LATINO",*24/7 Play Terror..
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1204136
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Cruise" tvg-logo="" group-title="24/7 LATINO",24/7 Tom Cruise
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1287086
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Matt Damon" tvg-logo="" group-title="24/7 LATINO",24/7 Matt Damon
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1291501
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jackie Chan" tvg-logo="" group-title="24/7 LATINO",24/7 Jackie Chan
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1295022
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Planeta de los Simios" tvg-logo="http://principia.io/media/uploads/images/guerra-simios/guerra-portada2-web.jpg" group-title="24/7 LATINO",24/7||| Planeta de los Simios
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1362114
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Harry Potter " tvg-logo="https://phantom-marca.unidadeditorial.es/70cdeb1501a33c2c567dabbebc270ddd/resize/1320/f/jpg/assets/multimedia/imagenes/2021/11/17/16371568440299.jpg" group-title="24/7 LATINO",24/7||| Harry Potter 
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1363287
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Canal infantil" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="24/7 LATINO",24/7||| Canal infantil
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1363290
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Anime" tvg-logo="https://www.shutterstock.com/image-vector/anime-eyes-vision-fire-pop-260nw-1550802335.jpg" group-title="24/7 LATINO",24/7||| Anime
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1363291
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Terror" tvg-logo="https://ih1.redbubble.net/image.551009221.0178/flat,1000x1000,075,f.u3.jpg" group-title="24/7 LATINO",24/7||| Terror
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1363343
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| stranger things" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2022/07/stranger-things.jpg" group-title="24/7 LATINO",24/7||| stranger things
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1369382
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Rapidos y Furiosos HD" tvg-logo="https://www.gamerfocus.co/wp-content/uploads/2020/04/top-ff.jpg" group-title="24/7 LATINO",24/7||| Rapidos y Furiosos HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1369833
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Star Wars HD" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_694611-MLM44929934516_022021-O.jpg" group-title="24/7 LATINO",24/7||| Star Wars HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1369834
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Spider man HD" tvg-logo="https://nosomosnonos.com/wp-content/uploads/2021/06/Spider-Man-No-Way-Home.jpg" group-title="24/7 LATINO",24/7||| Spider man HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1371952
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  Tom cruise Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg" group-title="24/7 LATINO",24/7|||  Tom cruise Movies
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1374876
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  Pesadilla en la calle Elm" tvg-logo="https://assets.cinepolisklic.com/images/cf2735a9ebcc4cdc9b1d29d6b705119a_250X375.jpg" group-title="24/7 LATINO",24/7|||  Pesadilla en la calle Elm
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1376272
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| x men" tvg-logo="https://pics.filmaffinity.com/X_Men_La_decisi_n_final-615296770-large.jpg" group-title="24/7 LATINO",24/7||| x men
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1376275
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Sylvester Stallone HD" tvg-logo="https://pics.filmaffinity.com/Rocky_Balboa-314141025-large.jpg" group-title="24/7 LATINO",24/7||| Sylvester Stallone HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1376278
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  keanu reeves" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/john-wick-3-keanu-reeves-entrenamiento-1553509329.jpg" group-title="24/7 LATINO",24/7|||  keanu reeves
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1376279
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  Comedia " tvg-logo="https://www.shutterstock.com/image-vector/comedy-logo-design-laughing-260nw-1799740627.jpg" group-title="24/7 LATINO",24/7|||  Comedia 
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1376943
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  Marvel HD" tvg-logo="https://escenariotlx.com/wp-content/uploads/2021/08/Tlaxcala.jpg " group-title="24/7 LATINO",24/7|||  Marvel HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1377757
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  007 Saga HD" tvg-logo="https://i.pinimg.com/originals/04/de/85/04de85231840414d2b01cb6d446dcdd5.jpg" group-title="24/7 LATINO",24/7|||  007 Saga HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1377758
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  Cantiflas" tvg-logo="https://i.blogs.es/be635a/cantinflas-cartel/1366_2000.jpg" group-title="24/7 LATINO",24/7|||  Cantiflas
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1379249
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Pedro infante" tvg-logo="https://m.media-amazon.com/images/I/51kRR8RqqxL._AC_SY445_.jpg" group-title="24/7 LATINO",24/7||| Pedro infante
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1379568
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Piratas del Caribe" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_897909-MLM44361295729_122020-W.jpg" group-title="24/7 LATINO",24/7||| Piratas del Caribe
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1380869
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Saw HD" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/75/36/20065254.jpg" group-title="24/7 LATINO",24/7||| Saw HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1380870
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Transformers HD" tvg-logo="https://i.pinimg.com/originals/ea/0f/9e/ea0f9efc640726b535f610feddaf4409.jpg" group-title="24/7 LATINO",24/7||| Transformers HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1380873
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  Señor de los Anillos" tvg-logo="https://pics.filmaffinity.com/El_se_or_de_los_anillos_La_comunidad_del_anillo-952398002-large.jpg" group-title="24/7 LATINO",24/7|||  Señor de los Anillos
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1380982
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Bourne Saga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Bourne_Legacy_Logo.png" group-title="24/7 LATINO",24/7||| Bourne Saga
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1381003
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Batman HD" tvg-logo="https://m.media-amazon.com/images/I/514wMrxRESL.jpg" group-title="24/7 LATINO",24/7||| Batman HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1381913
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Sangre por Sangre " tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/12/23/32/075544.jpg" group-title="24/7 LATINO",24/7||| Sangre por Sangre 
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1382775
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| The Witcher" tvg-logo="https://i0.wp.com/www.lacasadeel.net/wp-content/uploads/2022/04/the-witcher-temporada-3.jpg" group-title="24/7 LATINO",24/7||| The Witcher
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1382924
+#EXTINF:-1 tvg-id="" tvg-name="24/7|||  Ip Man" tvg-logo="https://pics.filmaffinity.com/Ip_Man-690169626-mmed.jpg" group-title="24/7 LATINO",24/7|||  Ip Man
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1382925
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Alien" tvg-logo="https://m.media-amazon.com/images/I/91uvgkhj88L._AC_SY606_.jpg" group-title="24/7 LATINO",24/7||| Alien
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1384563
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Volver al futuro" tvg-logo="https://cdn.forbes.com.mx/2015/10/back_to_the_future.jpg" group-title="24/7 LATINO",24/7||| Volver al futuro
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1384564
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Malcolm" tvg-logo="http://images1.wikia.nocookie.net/__cb20110713033551/doblaje/es/images/3/30/Malcolm-in-the-middle.jpg" group-title="24/7 LATINO",24/7||| Malcolm
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1385349
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Mr Bean" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ5NjBhZmMtMTU0Ni00ODFiLTgwM2MtMDlkOTNkZDY5YjE5XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="24/7 LATINO",24/7||| Mr Bean
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1385353
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Accion" tvg-logo="" group-title="24/7 LATINO",24/7||| Accion
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1386124
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Terminator HD" tvg-logo="https://www.cinesur.com/data/fotos/7.jpg" group-title="24/7 LATINO",24/7||| Terminator HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1386340
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| El Coyote y el Correcaminos" tvg-logo="https://imagenes.elpais.com/resizer/sKFmrnoS6mIzjuhapcy3dHDC-E4=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/HJYVJWXJTS7QUYDYHCFPOIZDY4.jpg" group-title="24/7 LATINO",24/7||| El Coyote y el Correcaminos
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1389805
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Ice Age: Scrat Tales" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Ice_Age_Scrat_Tales_Poster.jpg/250px-Ice_Age_Scrat_Tales_Poster.jpg" group-title="24/7 LATINO",24/7||| Ice Age: Scrat Tales
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1389807
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Bugs Bunny" tvg-logo="https://m.media-amazon.com/images/I/51BvaNTw8cL._AC_.jpg" group-title="24/7 LATINO",24/7||| Bugs Bunny
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1391266
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| The Walking Dead HD" tvg-logo="https://pbs.twimg.com/profile_images/1427363915919499271/fLlDO-hh_400x400.jpg" group-title="24/7 LATINO",24/7||| The Walking Dead HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1398642
+#EXTINF:-1 tvg-id="" tvg-name="24/7||| Transformers: Generación" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_700240-MEC25599650962_052017-O.jpg" group-title="24/7 LATINO",24/7||| Transformers: Generación
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1398643
+
 #EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="615" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="MTV",MTV Tuning
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-627d3176d7dfa500077042f1" tvg-id="627d3176d7dfa500077042f1" tvg-chno="605" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="MTV",MTV Geordies
@@ -4035,6 +4176,5 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
-
 
 
