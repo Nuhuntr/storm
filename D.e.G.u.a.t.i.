@@ -15,24 +15,6 @@
 				"stations": 
 					[
 						{
-						"name": "M+LaLiga (multiaudio 1080p)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
-						"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb",
-						"isHost": "true"
-						},
-						{
-						"name": "M+LaLiga TV (multiaudio 1080p)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
-						"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862",
-						"isHost": "true"
-						},
-						{
-						"name": "M+LaLiga (720p)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
-						"url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664",
-						"isHost": "true"
-						},
-						{
 						"name": "Dazn La Liga (FHD)",
 						"image": "https://bahiadeportes.com/img/daznlaliga.png",
 						"url" : "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061",
@@ -49,6 +31,24 @@
 						pimage": "https://bahiadeportes.com/img/daznlaliga.png",
 						"url" : "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6",
 						"isHost" : "true"
+						},
+						{
+						"name": "M+LaLiga (multiaudio 1080p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
+						"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb",
+						"isHost": "true"
+						},
+						{
+						"name": "M+LaLiga TV (multiaudio 1080p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
+						"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862",
+						"isHost": "true"
+						},
+						{
+						"name": "M+LaLiga (720p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
+						"url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664",
+						"isHost": "true"
 						},
 						{
 						"name": "M+LaLiga TV 2 (720p)",
