@@ -2,66 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/0.png" group-title="MOVISTAR 1",#0 HD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123756
-#EXTINF:-1 tvg-id="" tvg-name="#V DIRECTO" tvg-logo="http://tv.iptvboss.net/ch_logo/M.FUTBOL.png" group-title="MOVISTAR 1",#V DIRECTO
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123834
-#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ANTENA 3 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/ANTENA3HD.png" group-title="MOVISTAR 1",ANTENA 3 HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123690
-#EXTINF:-1 tvg-id="Baby TV ES" tvg-name="BABY TV" tvg-logo="http://tv.iptvboss.net/ch_logo/BABYTV.png" group-title="MOVISTAR 1",BABY TV
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123790
-#EXTINF:-1 tvg-id="Barca TV ES" tvg-name="BARCA TV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BARTV.png" group-title="MOVISTAR 1",BARCA TV HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123816
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",BEIN LA LIGA HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123824
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LALIGA" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",#0 (HD)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123825
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LALIGA 1" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",HOLLYWOOD (HD)
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123842
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="C TOROS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/canal+.png" group-title="MOVISTAR 1",C TOROS HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123695
-#EXTINF:-1 tvg-id="Canal Cocina ES" tvg-name="CANAL COCINA FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/CANALCOCINA.png" group-title="MOVISTAR 1",CANAL COCINA FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123698
-#EXTINF:-1 tvg-id="Caza y Pesca ES" tvg-name="CAZA Y PESCA FULLHD" tvg-logo="http://tv.iptvboss.net/ch_logo/cazaypesca.jpg" group-title="MOVISTAR 1",CAZA Y PESCA HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123807
-#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN  FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/cosmopolitan.png" group-title="MOVISTAR 1",COSMOPOLITAN  FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123737
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="" group-title="MOVISTAR 1",DAZN FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123884
-#EXTINF:-1 tvg-id="Canal Decasa ES" tvg-name="DECASA" tvg-logo="http://tv.iptvboss.net/ch_logo/decasa.png" group-title="MOVISTAR 1",DECASA
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123738
-#EXTINF:-1 tvg-id="Discovery Channel ES" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://tv.iptvboss.net/ch_logo/DISCOVERYCHANNEL.png" group-title="MOVISTAR 1",DISCOVERY CHANNEL
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123809
-#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="DISNEY CHANNEL" tvg-logo="http://tv.iptvboss.net/ch_logo/DISNEYCHANNELHD.png" group-title="MOVISTAR 1",DISNEY CHANNEL
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123793
-#EXTINF:-1 tvg-id="Disney Junior ES" tvg-name="DISNEY JUNIOR" tvg-logo="http://tv.iptvboss.net/ch_logo/DISNEYJUNIORHD.png" group-title="MOVISTAR 1",DISNEY JUNIOR
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123794
-#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-name="EUROSPORT 1 FULL HD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT1HD.png" group-title="MOVISTAR 1",EUROSPORT 1 FULL HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123820
-#EXTINF:-1 tvg-id="Eurosport 2 ES" tvg-name="EUROSPORT 2" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT2HD.png" group-title="MOVISTAR 1",EUROSPORT 2
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123822
-#EXTINF:-1 tvg-id="FOX Life ES" tvg-name="FOX " tvg-logo="http://tv.iptvboss.net/ch_logo/FOXLIFE.png" group-title="MOVISTAR 1",FOX FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123744
-#EXTINF:-1 tvg-id="GOL ES" tvg-name="GOL TV" tvg-logo="http://tv.iptvboss.net/ch_logo/gol.png" group-title="MOVISTAR 1",GOL TV
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123835
-#EXTINF:-1 tvg-id="Historia ES" tvg-name="HISTORIA" tvg-logo="http://tv.iptvboss.net/ch_logo/historia.png" group-title="MOVISTAR 1",HISTORIA
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123811
-#EXTINF:-1 tvg-id="Historia ES" tvg-name="M+ CINE ESPAÑOL" tvg-logo="http://tv.iptvboss.net/ch_logo/historia.png" group-title="MOVISTAR 1",M+ CINE ESPAÑOL HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123810
-#EXTINF:-1 tvg-id="Iberalia TV ES" tvg-name="IBERALIA" tvg-logo="http://tv.iptvboss.net/ch_logo/IBERALIA.png" group-title="MOVISTAR 1",IBERALIA
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123746
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR" tvg-logo="http://tv.iptvboss.net/ch_logo/ligatv.png" group-title="MOVISTAR 1",LALIGA TV BAR
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123827
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 123 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/liga123.png" group-title="MOVISTAR 1",M+ LALIGA FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123828
-#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="http://tv.iptvboss.net/ch_logo/ligachampiones.png" group-title="MOVISTAR 1",LIGA CAMPEONES
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123830
-#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="MOVISTAR 1",LA 1
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123856
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 1" tvg-logo="http://tv.iptvboss.net/ch_logo/MDEPORTES.png" group-title="MOVISTAR 1",M. DEPORTES 1
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123867
-#EXTINF:-1 tvg-id="Mezzo Live HD ES" tvg-name="MEZZO LIVE HD" tvg-logo="http://tv.iptvboss.net/ch_logo/mezzo.png" group-title="MOVISTAR 1",MEZZO LIVE HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123804
-#EXTINF:-1 tvg-id="Mezzo Live HD ES" tvg-name="MEZZO HD" tvg-logo="http://tv.iptvboss.net/ch_logo/mezzo.png" group-title="MOVISTAR 1",MEZZO  HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123801
 #EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="MOVISTAR ACCION FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/M.ACCION.png" group-title="MOVISTAR 1",MOVISTAR ACCION FHD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123759
 #EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="MOVISTAR COMEDIA" tvg-logo="http://tv.iptvboss.net/ch_logo/M.COMEDIA.png" group-title="MOVISTAR 1",MOVISTAR COMEDIA HD
@@ -72,67 +12,761 @@ http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123766
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123706
 #EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="MOVISTAR DCINE" tvg-logo="http://tv.iptvboss.net/ch_logo/m.esports.png" group-title="MOVISTAR 1",MOVISTAR DCINE ESP
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123838
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE HD" tvg-logo="http://tv.iptvboss.net/ch_logo/MDEPORTES.png" group-title="MOVISTAR 1",MOVISTAR DEPORTE HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123767
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA" tvg-logo="http://tv.iptvboss.net/ch_logo/m.drama.png" group-title="MOVISTAR 1",MOVISTAR DRAMA HD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123768
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/M.ESTRENOSHD.png" group-title="MOVISTAR 1",MOVISTAR ESTRENOS FHD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123770
-#EXTINF:-1 tvg-id="Movistar Formula 1 ES" tvg-name="MOVISTAR FORMULA 1 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/M.FORMULA1.png" group-title="MOVISTAR 1",MOVISTAR FORMULA 1 FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123836
-#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="MOVISTAR GOLF FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/mgolf.png" group-title="MOVISTAR 1",MOVISTAR GOLF FHD/HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123841
+#EXTINF:-1 tvg-id="Movistar Xtra ES" tvg-name="MOVISTAR ESTRENOS 2 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/movistarx.png" group-title="MOVISTAR 1",MOVISTAR ESTRENOS 2 FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123778
 #EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="MOVISTAR SERIES" tvg-logo="http://tv.iptvboss.net/ch_logo/mseries.png" group-title="MOVISTAR 1",MOVISTAR SERIES 2
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123772
 #EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="MOVISTAR SERIES SD" tvg-logo="http://tv.iptvboss.net/ch_logo/mseries.png" group-title="MOVISTAR 1",MOVISTAR SERIES SD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123773
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="MOVISTAR TOROS TV" tvg-logo="http://tv.iptvboss.net/ch_logo/movistar.png" group-title="MOVISTAR 1",MOVISTAR TOROS TV
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123761
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/vamos.png" group-title="MOVISTAR 1",MOVISTAR VAMOS HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123776
-#EXTINF:-1 tvg-id="Movistar Xtra ES" tvg-name="MOVISTAR ESTRENOS 2 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/movistarx.png" group-title="MOVISTAR 1",MOVISTAR ESTRENOS 2 FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123778
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://tv.iptvboss.net/ch_logo/MTV.png" group-title="MOVISTAR 1",MTV
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123805
-#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="http://tv.iptvboss.net/ch_logo/mdeporte.png" group-title="MOVISTAR 1",MOVISTAR DEPORTE FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123779
-#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOL 8" tvg-logo="http://tv.iptvboss.net/ch_logo/M.FUTBOL.png" group-title="MOVISTAR 1",MULTIFUTBOL 8
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123880
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/NATGEO.png" group-title="MOVISTAR 1",NAT GEO FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123812
-#EXTINF:-1 tvg-id="Nat Geo Wild ES" tvg-name="NAT GEO WILD FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/NGCWILDHD.png" group-title="MOVISTAR 1",NAT GEO WILD FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123814
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://tv.iptvboss.net/ch_logo/nickjunior.png" group-title="MOVISTAR 1",NICK JR
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123796
-#EXTINF:-1 tvg-id="Nick Jr. ES" tvg-name="NICKELODEON FULLHD" tvg-logo="http://tv.iptvboss.net/ch_logo/NICKELODEONHD.png" group-title="MOVISTAR 1",NICKELODEON FULLHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123797
-#EXTINF:-1 tvg-id="Odisea ES" tvg-name="ODISEA" tvg-logo="http://tv.iptvboss.net/ch_logo/odisea.png" group-title="MOVISTAR 1",ODISEA
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123781
+#EXTINF:-1 tvg-id="Historia ES" tvg-name="M+ CINE ESPAÑOL" tvg-logo="http://tv.iptvboss.net/ch_logo/historia.png" group-title="MOVISTAR 1",M+ CINE ESPAÑOL HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123810
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://tv.iptvboss.net/ch_logo/paramountchannel.png" group-title="MOVISTAR 1",PARAMOUNT CHANNEL
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123752
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="REAL MADRID TV" tvg-logo="http://tv.iptvboss.net/ch_logo/R.MADRIDTV.png" group-title="MOVISTAR 1",REAL MADRID TV
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123818
 #EXTINF:-1 tvg-id="SYFY ES" tvg-name="SYFY FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SYFYHD.png" group-title="MOVISTAR 1",SYFY FH
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123751
 #EXTINF:-1 tvg-id="TCM ES" tvg-name="TCM" tvg-logo="http://tv.iptvboss.net/ch_logo/TCM.png" group-title="MOVISTAR 1",TCM
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123754
-#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="TELECINCO HD" tvg-logo="http://tv.iptvboss.net/ch_logo/TELECINCOHD.png" group-title="MOVISTAR 1",TELECINCO HD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123692
 #EXTINF:-1 tvg-id="TNT ES" tvg-name="TNT" tvg-logo="http://tv.iptvboss.net/ch_logo/TNT.png" group-title="MOVISTAR 1", TNT
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123753
+#EXTINF:-1 tvg-id="" tvg-name="COSMOPOLITAN  FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/cosmopolitan.png" group-title="MOVISTAR 1",COSMOPOLITAN  FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123737
+#EXTINF:-1 tvg-id="FOX Life ES" tvg-name="FOX " tvg-logo="http://tv.iptvboss.net/ch_logo/FOXLIFE.png" group-title="MOVISTAR 1",FOX FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123744
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/NATGEO.png" group-title="MOVISTAR 1",NAT GEO FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123812
+#EXTINF:-1 tvg-id="Odisea ES" tvg-name="ODISEA" tvg-logo="http://tv.iptvboss.net/ch_logo/odisea.png" group-title="MOVISTAR 1",ODISEA
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123781
+#EXTINF:-1 tvg-id="Canal Cocina ES" tvg-name="CANAL COCINA FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/CANALCOCINA.png" group-title="MOVISTAR 1",CANAL COCINA FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123698
+#EXTINF:-1 tvg-id="Canal Decasa ES" tvg-name="DECASA" tvg-logo="http://tv.iptvboss.net/ch_logo/decasa.png" group-title="MOVISTAR 1",DECASA
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123738
+#EXTINF:-1 tvg-id="Historia ES" tvg-name="HISTORIA" tvg-logo="http://tv.iptvboss.net/ch_logo/historia.png" group-title="MOVISTAR 1",HISTORIA
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123811
+#EXTINF:-1 tvg-id="Nat Geo Wild ES" tvg-name="NAT GEO WILD FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/NGCWILDHD.png" group-title="MOVISTAR 1",NAT GEO WILD FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123814
+#EXTINF:-1 tvg-id="Discovery Channel ES" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://tv.iptvboss.net/ch_logo/DISCOVERYCHANNEL.png" group-title="MOVISTAR 1",DISCOVERY CHANNEL
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123809
+#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="DISNEY CHANNEL" tvg-logo="http://tv.iptvboss.net/ch_logo/DISNEYCHANNELHD.png" group-title="MOVISTAR 1",DISNEY CHANNEL
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123793
+#EXTINF:-1 tvg-id="Disney Junior ES" tvg-name="DISNEY JUNIOR" tvg-logo="http://tv.iptvboss.net/ch_logo/DISNEYJUNIORHD.png" group-title="MOVISTAR 1",DISNEY JUNIOR
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123794
+#EXTINF:-1 tvg-id="" tvg-name="#V DIRECTO" tvg-logo="http://tv.iptvboss.net/ch_logo/M.FUTBOL.png" group-title="MOVISTAR 1",#V DIRECTO
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123834
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="" group-title="MOVISTAR 1",DAZN FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123884
+#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-name="EUROSPORT 1 FULL HD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT1HD.png" group-title="MOVISTAR 1",EUROSPORT 1 FULL HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123820
+#EXTINF:-1 tvg-id="Eurosport 2 ES" tvg-name="EUROSPORT 2" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT2HD.png" group-title="MOVISTAR 1",EUROSPORT 2
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123822
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="MOVISTAR 1",LA 1
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123856
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ANTENA 3 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/ANTENA3HD.png" group-title="MOVISTAR 1",ANTENA 3 HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123690
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="TELECINCO HD" tvg-logo="http://tv.iptvboss.net/ch_logo/TELECINCOHD.png" group-title="MOVISTAR 1",TELECINCO HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123692
+#EXTINF:-1 tvg-id="GOL ES" tvg-name="GOL TV" tvg-logo="http://tv.iptvboss.net/ch_logo/gol.png" group-title="MOVISTAR 1",GOL TV
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123835
+#EXTINF:-1 tvg-id="Iberalia TV ES" tvg-name="IBERALIA" tvg-logo="http://tv.iptvboss.net/ch_logo/IBERALIA.png" group-title="MOVISTAR 1",IBERALIA
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123746
+#EXTINF:-1 tvg-id="Barca TV ES" tvg-name="BARCA TV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BARTV.png" group-title="MOVISTAR 1",BARCA TV HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123816
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",BEIN LA LIGA HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123824
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LALIGA" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",#0 (HD)
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123825
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LALIGA 1" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",HOLLYWOOD (HD)
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123842
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 1" tvg-logo="http://tv.iptvboss.net/ch_logo/MDEPORTES.png" group-title="MOVISTAR 1",M. DEPORTES 1
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123867
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE HD" tvg-logo="http://tv.iptvboss.net/ch_logo/MDEPORTES.png" group-title="MOVISTAR 1",MOVISTAR DEPORTE HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123767
+#EXTINF:-1 tvg-id="Movistar Formula 1 ES" tvg-name="MOVISTAR FORMULA 1 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/M.FORMULA1.png" group-title="MOVISTAR 1",MOVISTAR FORMULA 1 FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123836
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR" tvg-logo="http://tv.iptvboss.net/ch_logo/ligatv.png" group-title="MOVISTAR 1",LALIGA TV BAR
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123827
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 123 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/liga123.png" group-title="MOVISTAR 1",M+ LALIGA FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123828
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="http://tv.iptvboss.net/ch_logo/ligachampiones.png" group-title="MOVISTAR 1",LIGA CAMPEONES
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123830
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/vamos.png" group-title="MOVISTAR 1",MOVISTAR VAMOS HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123776
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="http://tv.iptvboss.net/ch_logo/mdeporte.png" group-title="MOVISTAR 1",MOVISTAR DEPORTE FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123779
+#EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOL 8" tvg-logo="http://tv.iptvboss.net/ch_logo/M.FUTBOL.png" group-title="MOVISTAR 1",MULTIFUTBOL 8
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123880
+#EXTINF:-1 tvg-id="Baby TV ES" tvg-name="BABY TV" tvg-logo="http://tv.iptvboss.net/ch_logo/BABYTV.png" group-title="MOVISTAR 1",BABY TV
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123790
+#EXTINF:-1 tvg-id="Caza y Pesca ES" tvg-name="CAZA Y PESCA FULLHD" tvg-logo="http://tv.iptvboss.net/ch_logo/cazaypesca.jpg" group-title="MOVISTAR 1",CAZA Y PESCA HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123807
+#EXTINF:-1 tvg-id="Mezzo Live HD ES" tvg-name="MEZZO LIVE HD" tvg-logo="http://tv.iptvboss.net/ch_logo/mezzo.png" group-title="MOVISTAR 1",MEZZO LIVE HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123804
+#EXTINF:-1 tvg-id="Mezzo Live HD ES" tvg-name="MEZZO HD" tvg-logo="http://tv.iptvboss.net/ch_logo/mezzo.png" group-title="MOVISTAR 1",MEZZO  HD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123801
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://tv.iptvboss.net/ch_logo/MTV.png" group-title="MOVISTAR 1",MTV
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123805
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="http://fernewshop.mywire.org:8080/images/12984f1c2000a479f32d97741172f183.png" group-title="MOVISTAR 26-OCT",TRECE
+http://88.99.93.30:8080/Pedro22/232323/155885
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV CORTOS" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN TV CORTOS
+http://88.99.93.30:8080/Pedro22/232323/155938
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV DOCUMENTALES" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN TV DOCUMENTALES
+http://88.99.93.30:8080/Pedro22/232323/155939
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV EXPLORE" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN TV EXPLORE
+http://88.99.93.30:8080/Pedro22/232323/155940
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV NATURE TIME" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN TV NATURE TIME
+http://88.99.93.30:8080/Pedro22/232323/155941
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN-ESPAÑOL" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN-ESPAÑOL
+http://88.99.93.30:8080/Pedro22/232323/155942
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN-THRILLERS" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN-THRILLERS
+http://88.99.93.30:8080/Pedro22/232323/155943
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN-ACCION" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN-ACCION
+http://88.99.93.30:8080/Pedro22/232323/155944
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN-COMEDIA" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN-COMEDIA
+http://88.99.93.30:8080/Pedro22/232323/155945
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN-DRAMA" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN-DRAMA
+http://88.99.93.30:8080/Pedro22/232323/155946
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN-FAMILY" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN-FAMILY
+http://88.99.93.30:8080/Pedro22/232323/155947
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN-STORIES" tvg-logo="http://fernewshop.mywire.org:8080/images/8417a74197e5c84a54acbe2464587fca.png" group-title="MOVISTAR 26-OCT",RAKUTEN-STORIES
+http://88.99.93.30:8080/Pedro22/232323/155948
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES CENTRAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrpoeaBzpS_JnI_tLqqnNglRsnF4MXi_BMQ&usqp=CAU" group-title="MOVISTAR 26-OCT",MOVIES CENTRAL
+http://88.99.93.30:8080/Pedro22/232323/155949
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="http://fernewshop.mywire.org:8080/images/2c45eac74ed4cd5e5f84de9940d8c82a.png" group-title="MOVISTAR 26-OCT",Pluto TV Cine Estelar
+http://88.99.93.30:8080/Pedro22/232323/155950
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Acción" tvg-logo="http://fernewshop.mywire.org:8080/images/2c45eac74ed4cd5e5f84de9940d8c82a.png" group-title="MOVISTAR 26-OCT",Pluto TV Cine Acción
+http://88.99.93.30:8080/Pedro22/232323/155951
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Thrillers" tvg-logo="http://fernewshop.mywire.org:8080/images/2c45eac74ed4cd5e5f84de9940d8c82a.png" group-title="MOVISTAR 26-OCT",Pluto TV Thrillers
+http://88.99.93.30:8080/Pedro22/232323/155952
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clásico" tvg-logo="http://fernewshop.mywire.org:8080/images/2c45eac74ed4cd5e5f84de9940d8c82a.png" group-title="MOVISTAR 26-OCT",Pluto TV Cine Clásico
+http://88.99.93.30:8080/Pedro22/232323/155953
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="http://fernewshop.mywire.org:8080/images/2c45eac74ed4cd5e5f84de9940d8c82a.png" group-title="MOVISTAR 26-OCT",Pluto TV Cine Drama
+http://88.99.93.30:8080/Pedro22/232323/155954
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comedia" tvg-logo="http://fernewshop.mywire.org:8080/images/2c45eac74ed4cd5e5f84de9940d8c82a.png" group-title="MOVISTAR 26-OCT",Pluto TV Cine Comedia
+http://88.99.93.30:8080/Pedro22/232323/155955
+#EXTINF:-1 tvg-id="" tvg-name="FACTORIA DE FICCION FHD" tvg-logo="https://seeklogo.com/images/F/factoria-de-ficcion-logo-67034E83F9-seeklogo.com.png" group-title="MOVISTAR 26-OCT",FACTORIA DE FICCION FHD
+http://88.99.93.30:8080/Pedro22/232323/155956
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="MOVISTAR 26-OCT",#0 HD
+http://88.99.93.30:8080/Pedro22/232323/155957
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="MOVISTAR 26-OCT",#0 FHD
+http://88.99.93.30:8080/Pedro22/232323/155958
+#EXTINF:-1 tvg-id="" tvg-name="M. SAGAS" tvg-logo="http://fernewshop.mywire.org:8080/images/7e835b973e15bb0174c844e38679bd46.jpg" group-title="MOVISTAR 26-OCT",M. SAGAS
+http://88.99.93.30:8080/Pedro22/232323/155959
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="MOVISTAR 26-OCT",M. ESTRENOS HD
+http://88.99.93.30:8080/Pedro22/232323/155960
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="MOVISTAR 26-OCT",M. ESTRENOS FHD
+http://88.99.93.30:8080/Pedro22/232323/155961
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="MOVISTAR 26-OCT",M. ACCION HD
+http://88.99.93.30:8080/Pedro22/232323/155962
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="MOVISTAR 26-OCT",M. ACCION FHD
+http://88.99.93.30:8080/Pedro22/232323/155963
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION FHD (x265)" tvg-logo="http://eter-picons.one/picons/M.Accion_HD.png" group-title="MOVISTAR 26-OCT",M. ACCION FHD (x265)
+http://88.99.93.30:8080/Pedro22/232323/155964
+#EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="MOVISTAR 26-OCT",M. COMEDIA HD
+http://88.99.93.30:8080/Pedro22/232323/155965
+#EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="MOVISTAR 26-OCT",M. COMEDIA FHD
+http://88.99.93.30:8080/Pedro22/232323/155966
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="MOVISTAR 26-OCT",M. DRAMA HD
+http://88.99.93.30:8080/Pedro22/232323/155967
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="MOVISTAR 26-OCT",M. DRAMA FHD
+http://88.99.93.30:8080/Pedro22/232323/155968
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="MOVISTAR 26-OCT",M. ESTRENOS 2 HD
+http://88.99.93.30:8080/Pedro22/232323/155969
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="MOVISTAR 26-OCT",M. ESTRENOS 2 FHD
+http://88.99.93.30:8080/Pedro22/232323/155970
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPSER" group-title="MOVISTAR 26-OCT",MOVISTAR SERIES 2 HD
+http://88.99.93.30:8080/Pedro22/232323/155971
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES 2 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPSER" group-title="MOVISTAR 26-OCT",MOVISTAR SERIES 2 FHD
+http://88.99.93.30:8080/Pedro22/232323/155972
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CRIMEN FHD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=14ce58&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmcr.png" group-title="MOVISTAR 26-OCT",MOVISTAR CRIMEN FHD
+http://88.99.93.30:8080/Pedro22/232323/155973
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA RESISTENCIA FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/e83003bd3d1c71f8771fa5a30b222c86.png" group-title="MOVISTAR 26-OCT",MOVISTAR LA RESISTENCIA FHD
+http://88.99.93.30:8080/Pedro22/232323/155974
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA RESISTENCIA HD" tvg-logo="http://fernewshop.mywire.org:8080/images/e83003bd3d1c71f8771fa5a30b222c86.png" group-title="MOVISTAR 26-OCT",MOVISTAR LA RESISTENCIA HD
+http://88.99.93.30:8080/Pedro22/232323/155975
+#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV" tvg-logo="http://fernewshop.mywire.org:8080/images/648d25c0536e0c7c981840add3cf9bb3.png" group-title="MOVISTAR 26-OCT",NEGOCIOS TV
+http://88.99.93.30:8080/Pedro22/232323/155976
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR FEST" tvg-logo="https://www.orange.es/ss/Satellite?blobcol=urldata&blobheadername1=Cache-Control&blobheadervalue1=max-age%3D3600&blobkey=id&blobnocache=false&blobtable=MungoBlobs&blobwhere=1521463181298&ssbinary=true" group-title="MOVISTAR 26-OCT",MOVISTAR FEST
+http://88.99.93.30:8080/Pedro22/232323/155977
+#EXTINF:-1 tvg-id="" tvg-name="M. CINE ESPAÑOL FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/c82f3fe48c0a8d99fff5c68e1037d179.png" group-title="MOVISTAR 26-OCT",M. CINE ESPAÑOL FHD
+http://88.99.93.30:8080/Pedro22/232323/155978
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1200px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="MOVISTAR 26-OCT",MOVISTAR SERIES HD
+http://88.99.93.30:8080/Pedro22/232323/155979
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1200px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="MOVISTAR 26-OCT",MOVISTAR SERIES FHD
+http://88.99.93.30:8080/Pedro22/232323/155980
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLASICOS FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/e4c51cc4a0cb4619593ef692267f09c7.png" group-title="MOVISTAR 26-OCT",MOVISTAR CLASICOS FHD
+http://88.99.93.30:8080/Pedro22/232323/155981
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLASICOS HD" tvg-logo="http://fernewshop.mywire.org:8080/images/e4c51cc4a0cb4619593ef692267f09c7.png" group-title="MOVISTAR 26-OCT",MOVISTAR CLASICOS HD
+http://88.99.93.30:8080/Pedro22/232323/155982
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AXN HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AXN" group-title="MOVISTAR 26-OCT",AXN HD
+http://88.99.93.30:8080/Pedro22/232323/155983
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AXN" group-title="MOVISTAR 26-OCT",AXN FHD
+http://88.99.93.30:8080/Pedro22/232323/155984
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break HD" tvg-logo="http://fernewshop.mywire.org:8080/images/98925e4897d30a28416a6ef5c7a71c71.png" group-title="MOVISTAR 26-OCT",AMC Break HD
+http://88.99.93.30:8080/Pedro22/232323/155985
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/98925e4897d30a28416a6ef5c7a71c71.png" group-title="MOVISTAR 26-OCT",AMC Break FHD
+http://88.99.93.30:8080/Pedro22/232323/155986
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime SD" tvg-logo="http://fernewshop.mywire.org:8080/images/efc0a8ef0dea47652f4e17c5b0f3e057.png" group-title="MOVISTAR 26-OCT",AMC Crime SD
+http://88.99.93.30:8080/Pedro22/232323/155987
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime HD" tvg-logo="http://fernewshop.mywire.org:8080/images/efc0a8ef0dea47652f4e17c5b0f3e057.png" group-title="MOVISTAR 26-OCT",AMC Crime HD
+http://88.99.93.30:8080/Pedro22/232323/155988
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="MOVISTAR 26-OCT",AMC HD
+http://88.99.93.30:8080/Pedro22/232323/155989
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="MOVISTAR 26-OCT",AMC FHD
+http://88.99.93.30:8080/Pedro22/232323/155990
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SET" group-title="MOVISTAR 26-OCT",AXN WHITE HD
+http://88.99.93.30:8080/Pedro22/232323/155991
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SET" group-title="MOVISTAR 26-OCT",AXN WHITE FHD
+http://88.99.93.30:8080/Pedro22/232323/155992
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="http://fernewshop.mywire.org:8080/images/d89acb3f21a17d5c81aaf588f4b0cd34.png" group-title="MOVISTAR 26-OCT",FOX HD
+http://88.99.93.30:8080/Pedro22/232323/155993
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FOXCR" group-title="MOVISTAR 26-OCT",FOX FHD
+http://88.99.93.30:8080/Pedro22/232323/155994
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://eter-picons.one/picons/Syfy_HD.png" group-title="MOVISTAR 26-OCT",SYFY HD
+http://88.99.93.30:8080/Pedro22/232323/155995
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SCI-FI" group-title="MOVISTAR 26-OCT",SYFY FHD
+http://88.99.93.30:8080/Pedro22/232323/155996
+#EXTINF:-1 tvg-id="" tvg-name="ATRESSERIES HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="MOVISTAR 26-OCT",ATRESSERIES HD
+http://88.99.93.30:8080/Pedro22/232323/155997
+#EXTINF:-1 tvg-id="" tvg-name="ATRESSERIES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="MOVISTAR 26-OCT",ATRESSERIES FHD
+http://88.99.93.30:8080/Pedro22/232323/155998
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PCM" group-title="MOVISTAR 26-OCT",COMEDY CENTRAL HD
+http://88.99.93.30:8080/Pedro22/232323/155999
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PCM" group-title="MOVISTAR 26-OCT",COMEDY CENTRAL FHD
+http://88.99.93.30:8080/Pedro22/232323/156000
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="MOVISTAR 26-OCT",CALLE 13 HD
+http://88.99.93.30:8080/Pedro22/232323/156001
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="MOVISTAR 26-OCT",CALLE 13 FHD
+http://88.99.93.30:8080/Pedro22/232323/156002
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="http://eter-picons.one/picons/Canal_Hollywood_HD.png" group-title="MOVISTAR 26-OCT",HOLLYWOOD HD
+http://88.99.93.30:8080/Pedro22/232323/156003
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" tvg-logo="http://eter-picons.one/picons/Canal_Hollywood_HD.png" group-title="MOVISTAR 26-OCT",HOLLYWOOD FHD
+http://88.99.93.30:8080/Pedro22/232323/156004
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://eter-picons.one/picons/Tnt_HD.png" group-title="MOVISTAR 26-OCT",TNT HD
+http://88.99.93.30:8080/Pedro22/232323/156005
+#EXTINF:-1 tvg-id="" tvg-name="M+ ALQUILER ORIGINAL HD" tvg-logo="https://w7.pngwing.com/pngs/659/399/png-transparent-movistar-plus-hd-logo.png" group-title="MOVISTAR 26-OCT",M+ ALQUILER ORIGINAL HD
+http://88.99.93.30:8080/Pedro22/232323/156006
+#EXTINF:-1 tvg-id="" tvg-name="M+ ALQUILER  ACCION" tvg-logo="https://w7.pngwing.com/pngs/659/399/png-transparent-movistar-plus-hd-logo.png" group-title="MOVISTAR 26-OCT",M+ ALQUILER  ACCION
+http://88.99.93.30:8080/Pedro22/232323/156007
+#EXTINF:-1 tvg-id="" tvg-name="M+ ALQUILER COMEDIA" tvg-logo="https://w7.pngwing.com/pngs/659/399/png-transparent-movistar-plus-hd-logo.png" group-title="MOVISTAR 26-OCT",M+ ALQUILER COMEDIA
+http://88.99.93.30:8080/Pedro22/232323/156008
+#EXTINF:-1 tvg-id="" tvg-name="M+ ALQUILER THRILLER" tvg-logo="https://w7.pngwing.com/pngs/659/399/png-transparent-movistar-plus-hd-logo.png" group-title="MOVISTAR 26-OCT",M+ ALQUILER THRILLER
+http://88.99.93.30:8080/Pedro22/232323/156009
+#EXTINF:-1 tvg-id="" tvg-name="M+ ALQUILER CRIMEN" tvg-logo="https://w7.pngwing.com/pngs/659/399/png-transparent-movistar-plus-hd-logo.png" group-title="MOVISTAR 26-OCT",M+ ALQUILER CRIMEN
+http://88.99.93.30:8080/Pedro22/232323/156010
+#EXTINF:-1 tvg-id="" tvg-name="M+ ALQUILER ROMANTICO" tvg-logo="https://w7.pngwing.com/pngs/659/399/png-transparent-movistar-plus-hd-logo.png" group-title="MOVISTAR 26-OCT",M+ ALQUILER ROMANTICO
+http://88.99.93.30:8080/Pedro22/232323/156011
+#EXTINF:-1 tvg-id="" tvg-name="M+ ALQUILER CLASICO" tvg-logo="https://w7.pngwing.com/pngs/659/399/png-transparent-movistar-plus-hd-logo.png" group-title="MOVISTAR 26-OCT",M+ ALQUILER CLASICO
+http://88.99.93.30:8080/Pedro22/232323/156012
+#EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA" group-title="MOVISTAR 26-OCT",ENFAMILIA FHD
+http://88.99.93.30:8080/Pedro22/232323/156030
+#EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA" group-title="MOVISTAR 26-OCT",ENFAMILIA HD
+http://88.99.93.30:8080/Pedro22/232323/156031
+#EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA" group-title="MOVISTAR 26-OCT",ENFAMILIA SD
+http://88.99.93.30:8080/Pedro22/232323/156032
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="http://fernewshop.mywire.org:8080/images/2bbbfd1c9a87c4bb75b707ca9a738c79.png" group-title="MOVISTAR 26-OCT",HORSE TV
+http://88.99.93.30:8080/Pedro22/232323/156035
+#EXTINF:-1 tvg-id="DARK" tvg-name="CANAL DARK HD" tvg-logo="http://fernewshop.mywire.org:8080/images/a82fd95db10ff25dfad39f07372ebe37.png" group-title="MOVISTAR 26-OCT",CANAL DARK HD
+http://88.99.93.30:8080/Pedro22/232323/156036
+#EXTINF:-1 tvg-id="DARK" tvg-name="CANAL DARK FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/a82fd95db10ff25dfad39f07372ebe37.png" group-title="MOVISTAR 26-OCT",CANAL DARK FHD
+http://88.99.93.30:8080/Pedro22/232323/156037
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/1024px-XTRM_Espa%C3%B1a.png" group-title="MOVISTAR 26-OCT",XTRM HD
+http://88.99.93.30:8080/Pedro22/232323/156038
+#EXTINF:-1 tvg-id="" tvg-name="XTRM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/1024px-XTRM_Espa%C3%B1a.png" group-title="MOVISTAR 26-OCT",XTRM FHD
+http://88.99.93.30:8080/Pedro22/232323/156039
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="http://fernewshop.mywire.org:8080/images/e1bc7eff300c7fc22b3ad2b1cde43b3c.png" group-title="MOVISTAR 26-OCT",SOMOS HD
+http://88.99.93.30:8080/Pedro22/232323/156040
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/e1bc7eff300c7fc22b3ad2b1cde43b3c.png" group-title="MOVISTAR 26-OCT",SOMOS FHD
+http://88.99.93.30:8080/Pedro22/232323/156041
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CAZPES" group-title="MOVISTAR 26-OCT",CAZA Y PESCA HD
+http://88.99.93.30:8080/Pedro22/232323/156042
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CAZPES" group-title="MOVISTAR 26-OCT",CAZA Y PESCA FHD
+http://88.99.93.30:8080/Pedro22/232323/156043
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION HD" tvg-logo="http://eter-picons.one/picons/Cazavision.png" group-title="MOVISTAR 26-OCT",CAZAVISION HD
+http://88.99.93.30:8080/Pedro22/232323/156044
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION FHD" tvg-logo="http://eter-picons.one/picons/Cazavision.png" group-title="MOVISTAR 26-OCT",CAZAVISION FHD
+http://88.99.93.30:8080/Pedro22/232323/156045
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN & INVESTIGACION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" group-title="MOVISTAR 26-OCT",CRIMEN & INVESTIGACION FHD
+http://88.99.93.30:8080/Pedro22/232323/156046
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="MOVISTAR 26-OCT",CANAL COCINA HD
+http://88.99.93.30:8080/Pedro22/232323/156047
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="MOVISTAR 26-OCT",CANAL COCINA FHD
+http://88.99.93.30:8080/Pedro22/232323/156048
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA 4K" tvg-logo="http://fernewshop.mywire.org:8080/images/1303e186ec60f11b1c917ab76f50a271.png" group-title="MOVISTAR 26-OCT",CANAL COCINA 4K
+http://88.99.93.30:8080/Pedro22/232323/156049
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA 4K" tvg-logo="http://fernewshop.mywire.org:8080/images/95048bd143f0e4a59249657a420cb7cf.png" group-title="MOVISTAR 26-OCT",CANAL DECASA 4K
+http://88.99.93.30:8080/Pedro22/232323/156050
+#EXTINF:-1 tvg-id="" tvg-name="DECASA TV FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="MOVISTAR 26-OCT",DECASA TV FHD
+http://88.99.93.30:8080/Pedro22/232323/156051
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="MOVISTAR 26-OCT",ODISEA HD
+http://88.99.93.30:8080/Pedro22/232323/156052
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="MOVISTAR 26-OCT",ODISEA FHD
+http://88.99.93.30:8080/Pedro22/232323/156053
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA 4K" tvg-logo="http://eter-picons.one/picons/Odisea.png" group-title="MOVISTAR 26-OCT",CANAL ODISEA 4K
+http://88.99.93.30:8080/Pedro22/232323/156054
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://eter-picons.one/picons/Discovery_Channel_HD.png" group-title="MOVISTAR 26-OCT",DISCOVERY HD
+http://88.99.93.30:8080/Pedro22/232323/156055
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="MOVISTAR 26-OCT",DISCOVERY FHD
+http://88.99.93.30:8080/Pedro22/232323/156056
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="http://eter-picons.one/picons/Historia_HD.png" group-title="MOVISTAR 26-OCT",HISTORIA HD
+http://88.99.93.30:8080/Pedro22/232323/156057
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="http://eter-picons.one/picons/Historia_HD.png" group-title="MOVISTAR 26-OCT",HISTORIA FHD
+http://88.99.93.30:8080/Pedro22/232323/156058
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PARCH" group-title="MOVISTAR 26-OCT",PARAMOUNT NETWORK HD
+http://88.99.93.30:8080/Pedro22/232323/156059
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PARCH" group-title="MOVISTAR 26-OCT",PARAMOUNT NETWORK FHD
+http://88.99.93.30:8080/Pedro22/232323/156060
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA HD" tvg-logo="http://fernewshop.mywire.org:8080/images/b88939396edd1d133f27362cf14e75a6.png" group-title="MOVISTAR 26-OCT",IBERALIA HD
+http://88.99.93.30:8080/Pedro22/232323/156061
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/b88939396edd1d133f27362cf14e75a6.png" group-title="MOVISTAR 26-OCT",IBERALIA FHD
+http://88.99.93.30:8080/Pedro22/232323/156062
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA PESCA FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/8e7aab63514b3bce5625323c973a4d61.png" group-title="MOVISTAR 26-OCT",IBERALIA PESCA FHD
+http://88.99.93.30:8080/Pedro22/232323/156063
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA CAZA FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/eebdaaa2f24e5c0f63f93a0de723f10a.png" group-title="MOVISTAR 26-OCT",IBERALIA CAZA FHD
+http://88.99.93.30:8080/Pedro22/232323/156064
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="http://fernewshop.mywire.org:8080/images/cb16e13265761f05dae16776dc2e1a46.png" group-title="MOVISTAR 26-OCT",NAT GEO WILD HD
+http://88.99.93.30:8080/Pedro22/232323/156065
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/cb16e13265761f05dae16776dc2e1a46.png" group-title="MOVISTAR 26-OCT",NAT GEO WILD FHD
+http://88.99.93.30:8080/Pedro22/232323/156066
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://eter-picons.one/picons/National_Geographic_HD.png" group-title="MOVISTAR 26-OCT",NATIONAL GEOGRAPHIC HD
+http://88.99.93.30:8080/Pedro22/232323/156067
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://eter-picons.one/picons/National_Geographic_HD.png" group-title="MOVISTAR 26-OCT",NATIONAL GEOGRAPHIC FHD
+http://88.99.93.30:8080/Pedro22/232323/156068
+#EXTINF:-1 tvg-id="" tvg-name="TOP GEAR" tvg-logo="http://fernewshop.mywire.org:8080/images/6699fe5158e9a053a76a0d17ab4bfd55.png" group-title="MOVISTAR 26-OCT",TOP GEAR
+http://88.99.93.30:8080/Pedro22/232323/156072
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA MOTOR" tvg-logo="http://fernewshop.mywire.org:8080/images/9a131bf13e7d9c4db5eb00aa2a60a3c1.png" group-title="MOVISTAR 26-OCT",ANTENA MOTOR
+http://88.99.93.30:8080/Pedro22/232323/156073
+#EXTINF:-1 tvg-id="" tvg-name="MOTORTREND" tvg-logo="http://fernewshop.mywire.org:8080/images/ed03f75047b62f4a881829dfd304d18c.png" group-title="MOVISTAR 26-OCT",MOTORTREND
+http://88.99.93.30:8080/Pedro22/232323/156074
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="MOVISTAR 26-OCT",DISCOVERY TURBO
+http://88.99.93.30:8080/Pedro22/232323/156075
+#EXTINF:-1 tvg-id="" tvg-name="M. Estrenos SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Estrenos SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159213
+#EXTINF:-1 tvg-id="" tvg-name="M.Estrenos HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Estrenos HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159214
+#EXTINF:-1 tvg-id="" tvg-name="M.Estrenos 2 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Estrenos 2 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159215
+#EXTINF:-1 tvg-id="" tvg-name="M.Estrenos 2 HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Estrenos 2 HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159216
+#EXTINF:-1 tvg-id="" tvg-name="M.Estrenos 2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Estrenos 2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159217
+#EXTINF:-1 tvg-id="" tvg-name="M. Accion SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Accion SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159218
+#EXTINF:-1 tvg-id="" tvg-name="M.Accion HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Accion HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159219
+#EXTINF:-1 tvg-id="" tvg-name="M. Accion FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Accion FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159220
+#EXTINF:-1 tvg-id="" tvg-name="M. Comedia SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Comedia SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159221
+#EXTINF:-1 tvg-id="" tvg-name="M.Comedia HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Comedia HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159222
+#EXTINF:-1 tvg-id="" tvg-name="M. Drama SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Drama SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159223
+#EXTINF:-1 tvg-id="" tvg-name="M.Drama HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Drama HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159224
+#EXTINF:-1 tvg-id="" tvg-name="M.Clasicos SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Clasicos SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159225
+#EXTINF:-1 tvg-id="" tvg-name="M.Clasicos HD 2mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Clasicos HD 2mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159226
+#EXTINF:-1 tvg-id="" tvg-name="M.Clasicos FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Clasicos FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159227
+#EXTINF:-1 tvg-id="" tvg-name="M. Cine Ñ SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Cine Ñ SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159228
+#EXTINF:-1 tvg-id="" tvg-name="M.Pop UP (Temporales) SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Pop UP (Temporales) SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159229
+#EXTINF:-1 tvg-id="" tvg-name="M.Pop UP (Temporales) FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Pop UP (Temporales) FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159230
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Top 3 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Rakuten Tv Top 3 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159231
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv TOP 1 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Rakuten Tv TOP 1 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159232
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv TOP 2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Rakuten Tv TOP 2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159233
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Family FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Rakuten Tv Family FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159234
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Hollywood SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159235
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Hollywood HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159236
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Hollywood FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159237
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",TCM SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159238
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",TCM HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159239
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",TCM FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159240
+#EXTINF:-1 tvg-id="" tvg-name="Somos FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Somos FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159241
+#EXTINF:-1 tvg-id="" tvg-name="Dark SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Dark SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159242
+#EXTINF:-1 tvg-id="" tvg-name="Dark FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Dark FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159243
+#EXTINF:-1 tvg-id="" tvg-name="Xtrm FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Xtrm FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159244
+#EXTINF:-1 tvg-id="" tvg-name="Paramount SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Paramount SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159245
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Sundance TV SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159246
+#EXTINF:-1 tvg-id="" tvg-name="Sundance FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Sundance FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159247
+#EXTINF:-1 tvg-id="" tvg-name="M. Series 2 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Series 2 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159249
+#EXTINF:-1 tvg-id="" tvg-name="M.Series 2 HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Series 2 HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159250
+#EXTINF:-1 tvg-id="" tvg-name="M. Series 2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Series 2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159251
+#EXTINF:-1 tvg-id="" tvg-name="M. Series SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Series SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159252
+#EXTINF:-1 tvg-id="" tvg-name="M.Series HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Series HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159253
+#EXTINF:-1 tvg-id="" tvg-name="M. Series FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Series FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159254
+#EXTINF:-1 tvg-id="" tvg-name="Fox SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Fox SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159255
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Fox HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159256
+#EXTINF:-1 tvg-id="" tvg-name="Fox FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Fox FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159257
+#EXTINF:-1 tvg-id="" tvg-name="Axn SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Axn SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159258
+#EXTINF:-1 tvg-id="" tvg-name="Axn HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Axn HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159259
+#EXTINF:-1 tvg-id="" tvg-name="Axn FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Axn FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159260
+#EXTINF:-1 tvg-id="" tvg-name="Axn White SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Axn White SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159261
+#EXTINF:-1 tvg-id="" tvg-name="Axn White HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Axn White HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159262
+#EXTINF:-1 tvg-id="" tvg-name="Axn White FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Axn White FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159263
+#EXTINF:-1 tvg-id="" tvg-name="Amc SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Amc SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159264
+#EXTINF:-1 tvg-id="" tvg-name="Calle 13 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Calle 13 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159265
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",TNT SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159266
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",TNT FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159267
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Comedy Central SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159268
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Comedy Central HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159269
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Comedy Central FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159270
+#EXTINF:-1 tvg-id="" tvg-name="Syfy SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Syfy SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159271
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Syfy HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/159272
+#EXTINF:-1 tvg-id="" tvg-name="Syfy FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Syfy FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/159273
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",KANAL D DRAMA (ES)
+http://88.99.93.30:8080/Pedro22/232323/159274
+#EXTINF:-1 tvg-id="" tvg-name="01- ESTRENOS 01" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",01- ESTRENOS 01
+http://88.99.93.30:8080/Pedro22/232323/159275
+#EXTINF:-1 tvg-id="" tvg-name="02- ESTRENOS 02" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",02- ESTRENOS 02
+http://88.99.93.30:8080/Pedro22/232323/159276
+#EXTINF:-1 tvg-id="" tvg-name="04- ESTRENOS 04" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",04- ESTRENOS 04
+http://88.99.93.30:8080/Pedro22/232323/159277
+#EXTINF:-1 tvg-id="" tvg-name="03- ESTRENOS 03" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",03- ESTRENOS 03
+http://88.99.93.30:8080/Pedro22/232323/159278
+#EXTINF:-1 tvg-id="" tvg-name="05- ESTRENOS 05" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",05- ESTRENOS 05
+http://88.99.93.30:8080/Pedro22/232323/159279
+#EXTINF:-1 tvg-id="" tvg-name="06- ESTRENOS 06" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",06- ESTRENOS 06
+http://88.99.93.30:8080/Pedro22/232323/159280
+#EXTINF:-1 tvg-id="" tvg-name="07- ESTRENOS 07" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",07- ESTRENOS 07
+http://88.99.93.30:8080/Pedro22/232323/159281
+#EXTINF:-1 tvg-id="" tvg-name="08- ESTRENOS 08" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",08- ESTRENOS 08
+http://88.99.93.30:8080/Pedro22/232323/159282
+#EXTINF:-1 tvg-id="" tvg-name="09- ESTRENOS 09" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",09- ESTRENOS 09
+http://88.99.93.30:8080/Pedro22/232323/159283
+#EXTINF:-1 tvg-id="" tvg-name="10- ESTRENOS 10" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",10- ESTRENOS 10
+http://88.99.93.30:8080/Pedro22/232323/159284
+#EXTINF:-1 tvg-id="" tvg-name="11- ESTRENOS 11" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",11- ESTRENOS 11
+http://88.99.93.30:8080/Pedro22/232323/159285
+#EXTINF:-1 tvg-id="" tvg-name="12- ESTRENOS 12" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",12- ESTRENOS 12
+http://88.99.93.30:8080/Pedro22/232323/159286
+#EXTINF:-1 tvg-id="" tvg-name="13- ESTRENOS 13" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",13- ESTRENOS 13
+http://88.99.93.30:8080/Pedro22/232323/159287
+#EXTINF:-1 tvg-id="" tvg-name="14- ESTRENOS 14" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",14- ESTRENOS 14
+http://88.99.93.30:8080/Pedro22/232323/159288
+#EXTINF:-1 tvg-id="" tvg-name="15- ESTRENOS 15" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="MOVISTAR 26-OCT",15- ESTRENOS 15
+http://88.99.93.30:8080/Pedro22/232323/159289
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport La Liga (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Sky Sport La Liga (ES)
+http://88.99.93.30:8080/Pedro22/232323/82567
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-name="M+ La Liga  FHD (ES) Encoder" tvg-logo="http://fernewshop.mywire.org:8080/images/551f8a50f9dd505ca15ac4c66e4af483.png" group-title="MOVISTAR 26-OCT",M+ La Liga  FHD (ES) Encoder
+http://88.99.93.30:8080/Pedro22/232323/73249
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="LA LIGA 2 FHD ENCODER" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b38b1e79e9b3acdeec15019a6e089ea6.png" group-title="MOVISTAR 26-OCT",LA LIGA 2 FHD ENCODER
+http://88.99.93.30:8080/Pedro22/232323/73250
+#EXTINF:-1 tvg-id="M+ LaLiga 3 HD" tvg-name="LA LIGA 3 FHD ENCODER" tvg-logo="" group-title="MOVISTAR 26-OCT",LA LIGA 3 FHD ENCODER
+http://88.99.93.30:8080/Pedro22/232323/73251
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="" group-title="MOVISTAR 26-OCT",DAZN LA LIGA HD
+http://88.99.93.30:8080/Pedro22/232323/73545
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA HD" tvg-logo="" group-title="MOVISTAR 26-OCT",LA LIGA HD
+http://88.99.93.30:8080/Pedro22/232323/73546
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LaLiga SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82448
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LaLiga HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82449
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LaLiga FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82450
+#EXTINF:-1 tvg-id="" tvg-name="M.LaLiga HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.LaLiga HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82451
+#EXTINF:-1 tvg-id="" tvg-name="M.LaLiga FHD H265 3`5Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.LaLiga FHD H265 3`5Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82452
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Dazn LaLiga FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82453
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Dazn LaLiga HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82454
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga FHD H265 3`5Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Dazn LaLiga FHD H265 3`5Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82455
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Dazn LaLiga 2 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82456
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Dazn LaLiga 2 HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82457
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Dazn LaLiga 2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82458
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LaLiga 2 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82459
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga 2 HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga 2 HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82460
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LaLiga 2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82461
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LaLiga 3 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82462
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LaLiga 3 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82463
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga 3 HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga 3 HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82464
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82465
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82466
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank FHD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank FHD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82467
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank2 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank2 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82468
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82469
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank2 FHD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank2 FHD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82470
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank3 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank3 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82471
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank3 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank3 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82472
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBank3 FHD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LigaSmartBank3 FHD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82473
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV BAR FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",LaLiga TV BAR FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82474
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ La Liga de Campeones FHD (ES) ENCODER" tvg-logo="http://fernewshop.mywire.org:8080/images/1a363f4a46e3a9a2c1fb6c4affd3f4f9.png" group-title="MOVISTAR 26-OCT",M+ La Liga de Campeones FHD (ES) ENCODER
+http://88.99.93.30:8080/Pedro22/232323/74722
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="M+ La Liga de Campeones 2 FHD (ES) ENCODER" tvg-logo="http://fernewshop.mywire.org:8080/images/f580620e6e948183db88352cb2e1fe06.png" group-title="MOVISTAR 26-OCT",M+ La Liga de Campeones 2 FHD (ES) ENCODER
+http://88.99.93.30:8080/Pedro22/232323/74723
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="M+ La Liga de Campeones 3 FHD (ES) ENCODER" tvg-logo="http://fernewshop.mywire.org:8080/images/2157d6e6d07e3095c931a717308bf02d.png" group-title="MOVISTAR 26-OCT",M+ La Liga de Campeones 3 FHD (ES) ENCODER
+http://88.99.93.30:8080/Pedro22/232323/74724
+#EXTINF:-1 tvg-id="" tvg-name="M. LCampeones SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LCampeones SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82426
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga Campeones HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga Campeones HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82427
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga de Campeones FHD 3Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga de Campeones FHD 3Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82428
+#EXTINF:-1 tvg-id="" tvg-name="M. LCampeones FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LCampeones FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82429
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga de Campeones FHD 2 Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga de Campeones FHD 2 Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82430
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES FHD H265 3`5Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.LCAMPEONES FHD H265 3`5Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82431
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga Campeones 2 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga Campeones 2 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82432
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga Campeones 2 HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga Campeones 2 HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82433
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga Campeones 2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga Campeones 2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82434
+#EXTINF:-1 tvg-id="" tvg-name="M. LCampeones 3 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LCampeones 3 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82435
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga Campeones 3 HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Liga Campeones 3 HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82436
+#EXTINF:-1 tvg-id="" tvg-name="M. LCampeones 3 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LCampeones 3 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82437
+#EXTINF:-1 tvg-id="" tvg-name="M. LCampeones 4 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. LCampeones 4 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82438
+#EXTINF:-1 tvg-id="" tvg-name="Multideporte SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Multideporte SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82520
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",#Vamos SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82521
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos FHD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",#Vamos FHD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82522
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",#Vamos FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82523
+#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",ELLAS #V SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82524
+#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V HD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",ELLAS #V HD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82525
+#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",ELLAS #V FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82526
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82527
+#EXTINF:-1 tvg-id="" tvg-name="M.Deportes FHD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M.Deportes FHD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82528
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82529
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82530
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 2 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 2 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82531
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 3 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 3 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82532
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 3 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 3 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82533
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 4 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 4 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82534
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 4 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 4 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82535
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 5 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 5 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82536
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 5 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 5 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82537
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 6 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 6 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82538
+#EXTINF:-1 tvg-id="" tvg-name="M. Deportes 7 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Deportes 7 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82539
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Eurosport 1 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82540
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD 2Mb (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Eurosport 1 FHD 2Mb (ES)
+http://88.99.93.30:8080/Pedro22/232323/82541
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Eurosport 1 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82542
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Eurosport 2 SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82543
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",EuroSport 2 FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82544
+#EXTINF:-1 tvg-id="" tvg-name="M. Golf SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Golf SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82545
+#EXTINF:-1 tvg-id="" tvg-name="M. Golf FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",M. Golf FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82546
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte SD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Teledeporte SD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82547
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Teledeporte FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82548
+#EXTINF:-1 tvg-id="" tvg-name="VIRTUAL (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",VIRTUAL (ES)
+http://88.99.93.30:8080/Pedro22/232323/82549
+#EXTINF:-1 tvg-id="" tvg-name="MyPadel (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",MyPadel (ES)
+http://88.99.93.30:8080/Pedro22/232323/82550
+#EXTINF:-1 tvg-id="" tvg-name="Fight Time FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Fight Time FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82551
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Tennis Channel HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82552
+#EXTINF:-1 tvg-id="" tvg-name="Nhl Network HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Nhl Network HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82553
+#EXTINF:-1 tvg-id="" tvg-name="Nfl Network HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Nfl Network HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82554
+#EXTINF:-1 tvg-id="" tvg-name="Mlb Network HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Mlb Network HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82555
+#EXTINF:-1 tvg-id="" tvg-name="Red bull TV HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Red bull TV HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82556
+#EXTINF:-1 tvg-id="" tvg-name="Wwe Network HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Wwe Network HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82557
+#EXTINF:-1 tvg-id="" tvg-name="Ufc Fight Pass FHD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Ufc Fight Pass FHD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82558
+#EXTINF:-1 tvg-id="" tvg-name="NBA Network HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",NBA Network HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82559
+#EXTINF:-1 tvg-id="" tvg-name="Fubo Sport Network HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Fubo Sport Network HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82560
+#EXTINF:-1 tvg-id="" tvg-name="NFL DraftKings HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",NFL DraftKings HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82561
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sport Network HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",NBC Sport Network HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82562
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer+ Network HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Fox Soccer+ Network HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82563
+#EXTINF:-1 tvg-id="" tvg-name="NFL RedZone HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",NFL RedZone HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82564
+#EXTINF:-1 tvg-id="" tvg-name="Fite Tv Boxing HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Fite Tv Boxing HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82565
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box HD (ES)" tvg-logo="" group-title="MOVISTAR 26-OCT",Fight Box HD (ES)
+http://88.99.93.30:8080/Pedro22/232323/82566
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 SD" tvg-logo="http://fernewshop.mywire.org:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="MOVISTAR 26-OCT",DAZN F1 SD
+http://88.99.93.30:8080/Pedro22/232323/159292
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1  HD" tvg-logo="http://fernewshop.mywire.org:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="MOVISTAR 26-OCT",DAZN F1  HD
+http://88.99.93.30:8080/Pedro22/232323/159293
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="MOVISTAR 26-OCT",DAZN F1 FHD
+http://88.99.93.30:8080/Pedro22/232323/159294
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1  FHD EXTRA" tvg-logo="http://fernewshop.mywire.org:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="MOVISTAR 26-OCT",DAZN F1  FHD EXTRA
+http://88.99.93.30:8080/Pedro22/232323/159295
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 4K" tvg-logo="http://fernewshop.mywire.org:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="MOVISTAR 26-OCT",DAZN F1 4K
+http://88.99.93.30:8080/Pedro22/232323/159296
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 SD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 1 SD
+http://88.99.93.30:8080/Pedro22/232323/159384
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 HD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 1 HD
+http://88.99.93.30:8080/Pedro22/232323/159385
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 1 FHD
+http://88.99.93.30:8080/Pedro22/232323/159386
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 FHD EXTRA" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 1 FHD EXTRA
+http://88.99.93.30:8080/Pedro22/232323/159387
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 FHD (x265)" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 1 FHD (x265)
+http://88.99.93.30:8080/Pedro22/232323/159388
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 26-OCT FHD (x265)" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 26-OCT FHD (x265)
+http://88.99.93.30:8080/Pedro22/232323/159389
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 26-OCT SD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 26-OCT SD
+http://88.99.93.30:8080/Pedro22/232323/159390
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 26-OCT HD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 26-OCT HD
+http://88.99.93.30:8080/Pedro22/232323/159391
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 26-OCT FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 26-OCT FHD
+http://88.99.93.30:8080/Pedro22/232323/159392
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 26-OCT FHD EXTRA" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",DAZN MOVISTAR 26-OCT FHD EXTRA
+http://88.99.93.30:8080/Pedro22/232323/159393
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 SD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 3 SD
+http://88.99.93.30:8080/Pedro22/232323/159394
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 HD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 3 HD
+http://88.99.93.30:8080/Pedro22/232323/159395
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 3 FHD
+http://88.99.93.30:8080/Pedro22/232323/159396
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 FHD EXTRA" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 3 FHD EXTRA
+http://88.99.93.30:8080/Pedro22/232323/159397
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 FHD (H265)" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 3 FHD (H265)
+http://88.99.93.30:8080/Pedro22/232323/159398
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 SD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 4 SD
+http://88.99.93.30:8080/Pedro22/232323/159399
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 HD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 4 HD
+http://88.99.93.30:8080/Pedro22/232323/159400
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 FHD" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 4 FHD
+http://88.99.93.30:8080/Pedro22/232323/159401
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 FHD EXTRA" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 4 FHD EXTRA
+http://88.99.93.30:8080/Pedro22/232323/159402
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 FHD (H265)" tvg-logo="http://fernewshop.mywire.org:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="MOVISTAR 26-OCT",MOVISTAR DAZN 4 FHD (H265)
+http://88.99.93.30:8080/Pedro22/232323/159403
+#EXTINF:-1 tvg-id="" tvg-name="SKY MOTO GP" tvg-logo="http://fernewshop.mywire.org:8080/images/8d45d01ec4578bd4b6621621259879ae.png" group-title="MOVISTAR 26-OCT",SKY MOTO GP
+http://88.99.93.30:8080/Pedro22/232323/159404
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 OP1  [FHD]" tvg-logo="http://fernewshop.mywire.org:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="MOVISTAR 26-OCT",DAZN 1 OP1  [FHD]
+http://88.99.93.30:8080/Pedro22/232323/159406
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2  OP1  [FHD]" tvg-logo="http://fernewshop.mywire.org:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="MOVISTAR 26-OCT",DAZN 2  OP1  [FHD]
+http://88.99.93.30:8080/Pedro22/232323/159407
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 VIP OP1  [FHD]" tvg-logo="http://fernewshop.mywire.org:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="MOVISTAR 26-OCT",DAZN 3 VIP OP1  [FHD]
+http://88.99.93.30:8080/Pedro22/232323/159408
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 VIP OP1 [FHD]" tvg-logo="http://fernewshop.mywire.org:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="MOVISTAR 26-OCT",DAZN 4 VIP OP1 [FHD]
+http://88.99.93.30:8080/Pedro22/232323/159409
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FEMENINO 1opc (SOLO EVENTOS)" tvg-logo="http://fernewshop.mywire.org:8080/images/8f6067ba927dc50f0d30921bc78919a7.png" group-title="MOVISTAR 26-OCT",DAZN FEMENINO 1opc (SOLO EVENTOS)
+http://88.99.93.30:8080/Pedro22/232323/159411
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FEMENINO 2opc (SOLO EVENTOS)" tvg-logo="http://fernewshop.mywire.org:8080/images/8f6067ba927dc50f0d30921bc78919a7.png" group-title="MOVISTAR 26-OCT",DAZN FEMENINO 2opc (SOLO EVENTOS)
+http://88.99.93.30:8080/Pedro22/232323/159412
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FEMENINO 3opc (SOLO EVENTOS)" tvg-logo="http://fernewshop.mywire.org:8080/images/8f6067ba927dc50f0d30921bc78919a7.png" group-title="MOVISTAR 26-OCT",DAZN FEMENINO 3opc (SOLO EVENTOS)
+http://88.99.93.30:8080/Pedro22/232323/159413
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FEMENINO 4opc (SOLO EVENTOS)" tvg-logo="http://fernewshop.mywire.org:8080/images/8f6067ba927dc50f0d30921bc78919a7.png" group-title="MOVISTAR 26-OCT",DAZN FEMENINO 4opc (SOLO EVENTOS)
+http://88.99.93.30:8080/Pedro22/232323/159414
 
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (multiaudio FHD) (ACE)
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (FHD) (ACE)
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (HD) (ACE)
-acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga TV (multiaudio FHD) (ACE)
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga TV (multiaudio FHD) (ACE)
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga TV (FHD) (ACE)
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (multiaudio FHD) (ACE)
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (FHD) (ACE)
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (HD) (ACE)
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones (FHD) (ACE)
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones (HD) (ACE)
@@ -1457,4 +2091,3 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
-
