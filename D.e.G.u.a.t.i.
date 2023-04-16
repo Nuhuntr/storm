@@ -2,9 +2,9 @@
     "name": "D.e.G.u.a.t.i.",
     "author": "TodoEstaConectado",
     "url": "https://raw.githubusercontent.com/Nuhuntr/storm/main/D.e.G.u.a.t.i.",
-    "groups": 
-    	[
-	    	{
+	"groups": 
+	[
+		{
 		"name":"FUTBOL",
 		"image":"https://previews.123rf.com/images/_ig0rzh_/_ig0rzh_1705/_ig0rzh_170500057/78743070-resumen-de-antecedentes-deportivos-transmisi%C3%B3n-de-televisi%C3%B3n-en-vivo-del-partido-de-f%C3%BAtbol-collage-c.jpg",
 		"groups":
@@ -33,29 +33,41 @@
 						"isHost" : "true"
 						},
 						{
-						"name": "M+LaLiga (multiaudio 1080p)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
-						"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb",
-						"isHost": "true"
-						},
-						{
-						"name": "M+LaLiga TV (multiaudio 1080p)",
+						"name": "M+LaLiga TV (multiaudio FHD)",
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
 						"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862",
 						"isHost": "true"
 						},
 						{
-						"name": "M+LaLiga (720p)",
+						"name": "M+LaLiga TV (multiaudio FHD)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
+						"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb",
+						"isHost": "true"
+						},
+						{
+						"name": "M+LaLiga TV (FHD)",
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
 						"url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664",
 						"isHost": "true"
 						},
 						{
-						"name": "M+LaLiga TV 2 (720p)",
+						"name": "M+LaLiga TV 2 (HD)",
 						"image": "https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_2.png",
 						"url": "acestream://4229d640fecf3c0897674241bcf851b67f4310e3",
 						"isHost": "true"
 						},
+						{
+						"name": "M+Liga Smartbank (FHD)",
+						"image": "",
+						"url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247",
+						"isHost": "true"
+						},
+						{
+						"name": "M+Liga Smartbank (FHD)",
+						"image": "",
+						"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c",
+						"isHost": "true"
+						},						
 						{
 						"name": "#Vamos (FHD)",
 						"image": "https://www.socialcreator.com/srv/imgs/html/154415/13%20VAAMOS.jpg",
@@ -66,6 +78,12 @@
 						"name": "#Vamos (HD)",
 						"image": "https://www.socialcreator.com/srv/imgs/html/154415/13%20VAAMOS.jpg",
 						"url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f",
+						"isHost": "true"
+						},	
+						{
+						"name": "Canal Barça (HD)",
+						"image": "https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",
+						"url": "acestream://a7968ae40764bf3d4498c72328fcbaecbe0a3450",
 						"isHost": "true"
 						},
 						{
@@ -163,24 +181,72 @@
 						"image": "https://www.socialcreator.com/srv/imgs/html/154415/42%20EUROSPORTS%202(1).jpg",
 						"url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
 						"isHost": "true"
-						},	
+						},		
 						{
-						"name": "BEIN SPORT XTRA Ñ (720p)",
-						"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
-						"url": "acestream://b5c017e94b72013902c02f6d145c77f753bc3e12",
+						"name": "M+ GOLF (FHD)",
+						"image": "",
+						"url": "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
 						"isHost": "true"
 						},
 						{
-						"name": "SPORT TV1 (port.1080p)",
+						"name": "BEIN SPORT XTRA Ñ (HD)",
+						"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
+						"url": "acestream://b5c017e94b72013902c02f6d145c77f753bc3e12",
+						"isHost": "true"
+						},	
+						{
+						"name": "ESPN 3 (HD)",
+						"image": "",
+						"url": "acestream://b97f5975dbd067655432512d4693b417bc85a714",
+						"isHost": "true"
+						},			
+						{
+						"name": "SPORT TV1 (PT FHD)",
 						"image": "https://www.socialcreator.com/srv/imgs/html/154415/65%20SPORT%20TV1.png",
 						"url": "acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175",
 						"isHost": "true"
 						},
 						{
-						"name": "SPORT TV2 720p (port.720p)",
+						"name": "SPORT TV2 (PT HD)",
 						"image": "https://www.socialcreator.com/srv/imgs/html/154415/66%20SPORT%20TV2.png",
 						"url": "acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6",
 						"isHost": "true"
+						},
+						{
+						"name": "SPORT TV2 (PT HD)",
+						"image": "",
+						"url": "acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541",
+						"isHost": "true"
+						},
+						{
+						"name": "ELEVEN SPORTS 3 (BE HD)",
+						"image": "",
+						"url": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+						"isHost": "true"
+						},
+						{
+						"name": "ELEVEN SPORTS 1 (BE FHD)",
+						"image": "",
+						"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
+						"isHost": "true"				
+						},
+						{
+						"name": " DİGİ SPORT 1 (RU SD)",
+						"image": "",
+						"url": "acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159",
+						"isHost": "true"				
+						},
+						{
+						"name": " DİGİ SPORT 3 (RU SD)",
+						"image": "",
+						"url": "acestream://b9dc6fdeaca5a5f4275db80d68536e023ce4ea06",
+						"isHost": "true"				
+						},
+						{
+						"name": "ELEVEN 1 (BE FHD)",
+						"image": "",
+						"url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
+						"isHost": "true"				
 						},
 						{
 						"name": "BT SPORT 1 (ing)",
@@ -197,6 +263,7 @@
 					]
 				}         
 			]
-       		}		
+        }		
 	]
 }
+
