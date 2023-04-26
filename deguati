@@ -1,11 +1,11 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLigaHD" tvg-logo="http://tv.iptvboss.net/ch_logo/ligatv.png" group-title="MOVISTAR 1",DAZN LALIGA FHD
+http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123827
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",M+ LaLiga HD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123824
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",M+ LALIGA HD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123828
-#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLigaHD" tvg-logo="http://tv.iptvboss.net/ch_logo/ligatv.png" group-title="MOVISTAR 1",DAZN LALIGA FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123827
 #EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="M+ #VAMOSHD" tvg-logo="http://tv.iptvboss.net/ch_logo/vamos.png" group-title="MOVISTAR 1",M+ #VAMOS HD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123776
 #EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARÇA TV" tvg-logo="http://tv.iptvboss.net/ch_logo/BARTV.png" group-title="MOVISTAR 1",BARÇA TV
@@ -14,12 +14,8 @@ http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123816
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123779
 #EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M+DEPORTESHD" tvg-logo="http://tv.iptvboss.net/ch_logo/MDEPORTES.png" group-title="MOVISTAR 1",M+ DEPORTES FHD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123867
-#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M+DEPORTESHD" tvg-logo="http://tv.iptvboss.net/ch_logo/MDEPORTES.png" group-title="MOVISTAR 1",M+ DEPORTES
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M+DEPORTESHD" tvg-logo="http://tv.iptvboss.net/ch_logo/MDEPORTES.png" group-title="MOVISTAR 1",M+ DEPORTES FHD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123767
-#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+LCAMPEONES" tvg-logo="http://tv.iptvboss.net/ch_logo/ligachampiones.png" group-title="MOVISTAR 1",M+LCAMPEONES
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123830
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/M.FORMULA1.png" group-title="MOVISTAR 1",MOVISTAR FORMULA 1 FHD
-http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123836
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M+ #0 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/0.png" group-title="MOVISTAR 1",M+ #0 HD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123756
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M+ #0 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",M+ #0 HD
@@ -108,6 +104,21 @@ http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123801
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123805
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga FHD" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga FHD
+http://88.99.93.30:8080/Pedro22/232323/82453
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga HD 2Mb" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga HD 2Mb
+http://88.99.93.30:8080/Pedro22/232323/82454
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="" group-title="PACK 26-OCT",DAZN LA LIGA HD
+http://88.99.93.30:8080/Pedro22/232323/73545
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga FHD H265 3`5Mb" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga FHD H265 3`5Mb (multiaudio)
+http://88.99.93.30:8080/Pedro22/232323/82455
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 SD" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga 2 SD
+http://88.99.93.30:8080/Pedro22/232323/82456
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 HD 2Mb" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga 2 HD 2Mb
+http://88.99.93.30:8080/Pedro22/232323/82457
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 FHD" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga 2 FHD
+http://88.99.93.30:8080/Pedro22/232323/82458
 #EXTINF:-1 tvg-id="" tvg-name="M.LaLiga FHD H265 3`5Mb (ES)" tvg-logo="" group-title="PACK 26-OCT",M.LaLiga FHD H265 3`5Mb (multiaudio)
 http://88.99.93.30:8080/Pedro22/232323/82452
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga FHD (ES)" tvg-logo="" group-title="PACK 26-OCT",M. LaLiga FHD (ES)
@@ -124,20 +135,6 @@ http://88.99.93.30:8080/Pedro22/232323/82451
 http://88.99.93.30:8080/Pedro22/232323/82567
 #EXTINF:-1 tvg-id="M+ LaLiga" tvg-name="M+ La Liga  FHD Encoder" tvg-logo="http://fernewshop.mywire.org:8080/images/551f8a50f9dd505ca15ac4c66e4af483.png" group-title="PACK 26-OCT",M+ La Liga  FHD Encoder
 http://88.99.93.30:8080/Pedro22/232323/73249
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="" group-title="PACK 26-OCT",DAZN LA LIGA HD
-http://88.99.93.30:8080/Pedro22/232323/73545
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga FHD" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga FHD
-http://88.99.93.30:8080/Pedro22/232323/82453
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga HD 2Mb" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga HD 2Mb
-http://88.99.93.30:8080/Pedro22/232323/82454
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga FHD H265 3`5Mb" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga FHD H265 3`5Mb (multiaudio)
-http://88.99.93.30:8080/Pedro22/232323/82455
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 SD" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga 2 SD
-http://88.99.93.30:8080/Pedro22/232323/82456
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 HD 2Mb" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga 2 HD 2Mb
-http://88.99.93.30:8080/Pedro22/232323/82457
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 2 FHD" tvg-logo="" group-title="PACK 26-OCT",Dazn LaLiga 2 FHD
-http://88.99.93.30:8080/Pedro22/232323/82458
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 SD" tvg-logo="" group-title="PACK 26-OCT",M. LaLiga 2 SD
 http://88.99.93.30:8080/Pedro22/232323/82459
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 FHD" tvg-logo="" group-title="PACK 26-OCT",M. LaLiga 2 FHD
@@ -146,22 +143,22 @@ http://88.99.93.30:8080/Pedro22/232323/82461
 http://88.99.93.30:8080/Pedro22/232323/82462
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 FHD" tvg-logo="" group-title="PACK 26-OCT",M. LaLiga 3 FHD
 http://88.99.93.30:8080/Pedro22/232323/82463
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="http://fernewshop.mywire.org:8080/images/0c91d0983714ebc4715a610ded092548.png" group-title="PACK 26-OCT",CUATRO HD
-http://88.99.93.30:8080/Pedro22/232323/155854
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD EXTRA" tvg-logo="http://fernewshop.mywire.org:8080/images/0c91d0983714ebc4715a610ded092548.png" group-title="PACK 26-OCT",CUATRO HD FHD
 http://88.99.93.30:8080/Pedro22/232323/155855
-#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="PACK 26-OCT",#0 HD
-http://88.99.93.30:8080/Pedro22/232323/155957
-#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="PACK 26-OCT",#0 FHD
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="PACK 26-OCT",#0 HD
 http://88.99.93.30:8080/Pedro22/232323/155958
-#EXTINF:-1 tvg-id="" tvg-name="M. SAGAS" tvg-logo="http://fernewshop.mywire.org:8080/images/7e835b973e15bb0174c844e38679bd46.jpg" group-title="PACK 26-OCT",M. SAGAS
+#EXTINF:-1 tvg-id="" tvg-name="M. SAGAS" tvg-logo="http://fernewshop.mywire.org:8080/images/7e835b973e15bb0174c844e38679bd46.jpg" group-title="PACK 26-OCT",M. SUPERAGENTES HD
 http://88.99.93.30:8080/Pedro22/232323/155959
-#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="PACK 26-OCT",M. ESTRENOS HD
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="PACK 26-OCT",M. ESTRENOS FHD
 http://88.99.93.30:8080/Pedro22/232323/155960
-#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="PACK 26-OCT",M. ESTRENOS FHD
-http://88.99.93.30:8080/Pedro22/232323/155961
 #EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="PACK 26-OCT",M. ACCION HD
 http://88.99.93.30:8080/Pedro22/232323/155962
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="M. ACCION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="PACK 26-OCT",M. ACCION FHD
 http://88.99.93.30:8080/Pedro22/232323/155963
 #EXTINF:-1 tvg-id="" tvg-name="M. ACCION FHD (x265)" tvg-logo="http://eter-picons.one/picons/M.Accion_HD.png" group-title="PACK 26-OCT",M. ACCION FHD (x265)
@@ -751,49 +748,49 @@ http://88.99.93.30:8080/Pedro22/232323/159413
 #EXTINF:-1 tvg-id="" tvg-name="DAZN FEMENINO 4opc (SOLO EVENTOS)" tvg-logo="http://fernewshop.mywire.org:8080/images/8f6067ba927dc50f0d30921bc78919a7.png" group-title="PACK 26-OCT",DAZN FEMENINO 4opc (SOLO EVENTOS)
 http://88.99.93.30:8080/Pedro22/232323/159414
 
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga TV (multiaudio FHD) (ACE)
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga TV (multiaudio FHD) (ACE)
-acestream://d47addf5e467cbf102ba759600303c21efb1deeb
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga TV (FHD) (ACE)
-acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (multiaudio FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",DAZN LaLiga (multiaudio FHD) (ACE)
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",DAZN LaLiga (FHD) (ACE)
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (HD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",DAZN LaLiga (HD) (ACE)
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ LaLiga TV (multiaudio FHD) (ACE)
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Deportes Acestream",M+ LaLiga TV (multiaudio FHD) (ACE)
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+#EXTINF:-1 group-title="Deportes Acestream",M+ LaLiga TV (FHD) (ACE)
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 group-title="Deportes Acestream",M+ L.Campeones (FHD) (ACE)
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones (HD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream", M+ L.Campeones (HD) (ACE)
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ L.Campeones (FHD) (ACE)
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones 2 (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ L.Campeones 2 (FHD) (ACE)
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones 2 (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ L.Campeones 2 (FHD) (ACE)
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ L.Campeones 2 (HD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ L.Campeones 2 (HD) (ACE)
 acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga Smartbank 1 (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ LaLiga Smartbank 1 (FHD) (ACE)
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga Smartbank 1 (HD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ LaLiga Smartbank 1 (HD) (ACE)
 acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ LaLiga Smartbank 2 (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ LaLiga Smartbank 2 (FHD) (ACE)
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): #Vamos (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",#Vamos (FHD) (ACE)
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): #Vamos (HD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",#Vamos (HD) (ACE)
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ Deportes (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ Deportes (FHD) (ACE)
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ Deportes (FH) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ Deportes (FH) (ACE)
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ Deportes 2 (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",M+ Deportes 2 (FHD) (ACE)
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): ESPN EXTRA (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",ESPN EXTRA (FHD) (ACE)
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): ESPN STAR+ (FHD) (ACE)
+#EXTINF:-1 group-title="Deportes Acestream",ESPN STAR+ (FHD) (ACE)
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN 1 (FHD) (ACE)
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
