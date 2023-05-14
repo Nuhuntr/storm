@@ -1,5 +1,13 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",ES: M LALIGA FHD
+http://84803689349165385.ofio.xyz:80/play/Sergio402/Sergio402M12/165385.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",ES: M LALIGA HD
+http://84803689349165392.ofio.xyz:80/play/Sergio402/Sergio402M12/165392.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",ES: M LALIGA SD
+http://84803689349165393.ofio.xyz:80/play/Sergio402/Sergio402M12/165393.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",ES: LA LIGA FHD (H 265)
+http://84803689349262413.ofio.xyz:80/play/Sergio402/Sergio402M12/262413.ts
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",M+ LALIGA FHD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123828
 #EXTINF:-1 tvg-id="M+ PLATINO HD" tvg-name="M+ PLATINO HD" tvg-logo="http://tv.iptvboss.net/ch_logo/LALIGATVHD.png" group-title="MOVISTAR 1",M+ LALIGA FHD
