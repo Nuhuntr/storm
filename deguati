@@ -1,4 +1,4 @@
-#EXTM3U 
+##EXTM3U 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+LA LIGA 1 FHD" tvg-logo="https://i.imgur.com/INFW8oB.png" group-title="MOVISTAR 1",DAZN LALIGA FHD
 http://moontools.me:8080/Platino11/czXx3HhDRLxc/1301114
@@ -103,35 +103,35 @@ http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123807
 #EXTINF:-1 tvg-id="MEZZO HD" tvg-name="MEZZO HD" tvg-logo="http://tv.iptvboss.net/ch_logo/mezzo.png" group-title="MOVISTAR 1",MEZZO  HD
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1123801
 
-#EXTINF:-1 tvg-id="" tvg-name="01- ESTRENOS 01" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",01- ESTRENOS 01
+#EXTINF:-1 tvg-id="" tvg-name="01- ESTRENOS 01" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",JUNG_E (2023)
 http://88.99.93.30:8080/Pedro22/232323/159275
-#EXTINF:-1 tvg-id="" tvg-name="02- ESTRENOS 02" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",02- ESTRENOS 02
+#EXTINF:-1 tvg-id="" tvg-name="02- ESTRENOS 02" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",REZA POR EL DIABLO (2022)
 http://88.99.93.30:8080/Pedro22/232323/159276
-#EXTINF:-1 tvg-id="" tvg-name="04- ESTRENOS 03" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",04- ESTRENOS 03
+#EXTINF:-1 tvg-id="" tvg-name="04- ESTRENOS 03" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",EL CUARTO PASAJERO (2023)
 http://88.99.93.30:8080/Pedro22/232323/159277
-#EXTINF:-1 tvg-id="" tvg-name="03- ESTRENOS 04" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",03- ESTRENOS 04
+#EXTINF:-1 tvg-id="" tvg-name="03- ESTRENOS 04" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",SUPERCELL (2023)
 http://88.99.93.30:8080/Pedro22/232323/159278
-#EXTINF:-1 tvg-id="" tvg-name="05- ESTRENOS 05" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",05- ESTRENOS 05
+#EXTINF:-1 tvg-id="" tvg-name="05- ESTRENOS 05" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",LA FORJA DE UN CAMPEON (2022)
 http://88.99.93.30:8080/Pedro22/232323/159279
-#EXTINF:-1 tvg-id="" tvg-name="06- ESTRENOS 06" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",06- ESTRENOS 06
+#EXTINF:-1 tvg-id="" tvg-name="06- ESTRENOS 06" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",EL PEOR VECINO DEL MUNDO (2023)
 http://88.99.93.30:8080/Pedro22/232323/159280
-#EXTINF:-1 tvg-id="" tvg-name="07- ESTRENOS 07" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",07- ESTRENOS 07
+#EXTINF:-1 tvg-id="" tvg-name="07- ESTRENOS 07" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",BABYLON (2022)
 http://88.99.93.30:8080/Pedro22/232323/159281
-#EXTINF:-1 tvg-id="" tvg-name="08- ESTRENOS 08" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",08- ESTRENOS 08
+#EXTINF:-1 tvg-id="" tvg-name="08- ESTRENOS 08" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",BLACK PANTHER WAKANDA FOREVER (2022)
 http://88.99.93.30:8080/Pedro22/232323/159282
-#EXTINF:-1 tvg-id="" tvg-name="09- ESTRENOS 09" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",09- ESTRENOS 09
+#EXTINF:-1 tvg-id="" tvg-name="09- ESTRENOS 09" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",VENGANZA (2022)
 http://88.99.93.30:8080/Pedro22/232323/159283
-#EXTINF:-1 tvg-id="" tvg-name="10- ESTRENOS 10" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",10- ESTRENOS 10
+#EXTINF:-1 tvg-id="" tvg-name="10- ESTRENOS 10" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",LUTHER: CAE LA NOCHE (2023)
 http://88.99.93.30:8080/Pedro22/232323/159284
-#EXTINF:-1 tvg-id="" tvg-name="11- ESTRENOS 11" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",11- ESTRENOS 11
+#EXTINF:-1 tvg-id="" tvg-name="11- ESTRENOS 11" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",A TODO TREN 2 (2022)
 http://88.99.93.30:8080/Pedro22/232323/159285
-#EXTINF:-1 tvg-id="" tvg-name="12- ESTRENOS 12" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",12- ESTRENOS 12
+#EXTINF:-1 tvg-id="" tvg-name="12- ESTRENOS 12" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",SHAZAM LA FURIA DE LOS DIOSES (2023)
 http://88.99.93.30:8080/Pedro22/232323/159286
-#EXTINF:-1 tvg-id="" tvg-name="13- ESTRENOS 13" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",13- ESTRENOS 13
+#EXTINF:-1 tvg-id="" tvg-name="13- ESTRENOS 13" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",EL GATO CON BOTAS EL ULTIMO DESEO (2022)
 http://88.99.93.30:8080/Pedro22/232323/159287
-#EXTINF:-1 tvg-id="" tvg-name="14- ESTRENOS 14" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",14- ESTRENOS 14
+#EXTINF:-1 tvg-id="" tvg-name="14- ESTRENOS 14" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",MOMIAS (2023)
 http://88.99.93.30:8080/Pedro22/232323/159288
-#EXTINF:-1 tvg-id="" tvg-name="15- ESTRENOS 15" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="PACK 26-OCT",15- ESTRENOS 15
+#EXTINF:-1 tvg-id="" tvg-name="15- ESTRENOS 15" tvg-logo="http://fernewshop.mywire.org:8080/images/95398711c891942b8969f1a14e0acf82.png" group-title="ESTRENOS",BULLET TRAIN (2022)
 http://88.99.93.30:8080/Pedro22/232323/159289
 
 
@@ -1961,6 +1961,7 @@ http://streams.95bfm.com/stream112
 http://cityradio.ddns.net:8000/cityradio48flac
 #EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC",CHILLFLORIDA
 https://us5.internet-radio.com/proxy/chillflorida
+
 
 
 
