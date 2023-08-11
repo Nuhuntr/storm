@@ -604,6 +604,98 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=499672&exten
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=499676&extension=ts
 
 
+#EXTINF:-1 group-title="MAC&IPTV 4K",sky Sport UHD
+#EXTVLCOPT:cache=11140
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=484209&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",sky Sport Bundesliga UHD
+#EXTVLCOPT:cache=11141
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=482837&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",RMC SPORT 1 UHD
+#EXTVLCOPT:cache=11960
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=520466&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",SkyHigh Dance UHD
+#EXTVLCOPT:cache=13661
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=683911&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",Ultra Nature UHD 4K
+#EXTVLCOPT:cache=17837
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=597255&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS NBA UHD
+#EXTVLCOPT:cache=18224
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649324&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 1 UHD
+#EXTVLCOPT:cache=18226
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649300&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 2 UHD
+#EXTVLCOPT:cache=18230
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649302&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 3 UHD
+#EXTVLCOPT:cache=18234
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649304&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS WK 2022 UHD
+#EXTVLCOPT:cache=18241
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649323&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 12 UHD
+#EXTVLCOPT:cache=18242
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649322&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 11 UHD
+#EXTVLCOPT:cache=18244
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649320&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 10 UHD
+#EXTVLCOPT:cache=18246
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649318&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 9 UHD
+#EXTVLCOPT:cache=18248
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649316&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 8 UHD
+#EXTVLCOPT:cache=18250
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649314&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 7 UHD
+#EXTVLCOPT:cache=18251
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649312&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 6 UHD
+#EXTVLCOPT:cache=18253
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649310&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 5 UHD
+#EXTVLCOPT:cache=18255
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649308&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 4 UHD
+#EXTVLCOPT:cache=18257
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=649306&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",BEIN SPORTS 7 UHD
+#EXTVLCOPT:cache=18258
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=494903&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",TNT TAMAZIGHT UHD
+#EXTVLCOPT:cache=18722
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=492754&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",#HFAE ⋅ MIX TAPES UHD
+#EXTVLCOPT:cache=111378
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=615448&extension=ts
+#EXTINF:-1 group-title="MAC&IPTV 4K",#HFAE ⋅  MIX TAPES UHD
+#EXTVLCOPT:cache=112343
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:00:00:86&stream=690379&extension=ts
 
 
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN LaLiga (multiaudio FHD) (ACE)
