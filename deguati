@@ -18,8 +18,10 @@ acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 group-title="Deportes Acestream tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",LaLiga HyperMotion 2 [720] (ACE)
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title="Deportes Acestream tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080] [Multiaudio] (ACE)
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 group-title="Deportes Acestream tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones 2 [1080] (ACE) 
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="Deportes Acestream tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",M Deportes [1080] (ACE)
