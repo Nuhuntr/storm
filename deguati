@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz" url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" 
 
 #EXTINF:-1 group-title="Deportes Acestream tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv [1080] [Multiaudio] (ACE)
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
