@@ -5228,6 +5228,18 @@ http://61466753148292645.of0828.xyz:80/play/ja811315/mwqTM4kcA6/292645.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA MEGA MUNDIAL HD" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" group-title="OTROS 11AGO24",LA MEGA MUNDIAL HD
 http://61466753148294835.of0828.xyz:80/play/ja811315/mwqTM4kcA6/294835.ts
 
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA 
+http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336237
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA 
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336237
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA FHD
+http://61466753148165385.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165385.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA HD
+http://61466753148165392.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165392.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA SD
+http://61466753148165393.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165393.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",LA LIGA FHD (H 265)
+http://61466753148262413.of0828.xyz:80/play/ja811315/mwqTM4kcA6/262413.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="DEPORTE 11AGO24",LIGA DE CAMPEONES FHD
 http://61466753148246282.of0828.xyz:80/play/ja811315/mwqTM4kcA6/246282.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="DEPORTE 11AGO24",LIGA DE CAMPEONES HD
@@ -5270,14 +5282,6 @@ http://61466753148282465.of0828.xyz:80/play/ja811315/mwqTM4kcA6/282465.ts
 http://61466753148282466.of0828.xyz:80/play/ja811315/mwqTM4kcA6/282466.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8 HD (OP1)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" group-title="DEPORTE 11AGO24",LIGA DE CAMPEONES 8 HD (OP1)
 http://61466753148282467.of0828.xyz:80/play/ja811315/mwqTM4kcA6/282467.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA FHD
-http://61466753148165385.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165385.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA HD
-http://61466753148165392.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165392.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA SD
-http://61466753148165393.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165393.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",LA LIGA FHD (H 265)
-http://61466753148262413.of0828.xyz:80/play/ja811315/mwqTM4kcA6/262413.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="DEPORTE 11AGO24",M LALIGA MULTI 2 HD
 http://61466753148165398.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165398.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="DEPORTE 11AGO24",M LALIGA MULTI 3 HD
