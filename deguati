@@ -1,18 +1,23 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" 
 
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA 
-http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336237
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA 
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336237
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="DEPORTE 11AGO24",LALIGA TV BAR FHD
+http://61466753148268042.of0828.xyz:80/play/ja811315/mwqTM4kcA6/268042.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="DEPORTE 11AGO24",LALIGA TV BAR HD
+http://61466753148165407.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165407.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA FHD
+http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336237
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA FHD
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336237
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA HD (multiaudio)
 http://61466753148165385.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165385.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA HD
-http://61466753148165392.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165392.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA SD
-http://61466753148165393.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165393.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",LA LIGA FHD (H 265)
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",LA LIGA HD (multiaudio)
 http://61466753148262413.of0828.xyz:80/play/ja811315/mwqTM4kcA6/262413.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA HD (multiaudio)
+http://61466753148165392.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165392.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA SD (multiaudio)
+http://61466753148165393.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165393.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="DEPORTE 11AGO24",LIGA DE CAMPEONES FHD
 http://61466753148246282.of0828.xyz:80/play/ja811315/mwqTM4kcA6/246282.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="DEPORTE 11AGO24",LIGA DE CAMPEONES HD
@@ -81,10 +86,6 @@ http://61466753148237737.of0828.xyz:80/play/ja811315/mwqTM4kcA6/237737.ts
 http://61466753148237738.of0828.xyz:80/play/ja811315/mwqTM4kcA6/237738.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 10 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="DEPORTE 11AGO24",M LALIGA MULTI 10 SD
 http://61466753148237739.of0828.xyz:80/play/ja811315/mwqTM4kcA6/237739.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="DEPORTE 11AGO24",LALIGA TV BAR FHD
-http://61466753148268042.of0828.xyz:80/play/ja811315/mwqTM4kcA6/268042.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="DEPORTE 11AGO24",LALIGA TV BAR HD
-http://61466753148165407.of0828.xyz:80/play/ja811315/mwqTM4kcA6/165407.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="DEPORTE 11AGO24",M LALIGA SMARTBANK FHD
 http://61466753148320785.of0828.xyz:80/play/ja811315/mwqTM4kcA6/320785.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="DEPORTE 11AGO24",M LALIGA SMARTBANK HD
