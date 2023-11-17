@@ -5944,10 +5944,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674f168c9
 https://estrellatv-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=HuT-VaVoRoPGiH1aSQ8Y&channelId=60089d98f682a3002c34829f&uid=1g9et3dqk-pbmp-eg-bvx7-uj3y0jbwyg/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="60c25ec6da6d6600074233a8" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="2840", Acapulco Shore
 https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53fd4506-184e-11ee-a494-aef35e351827
-#EXTINF:-1 tvg-id="GRAN HERMANO FHD" tvg-name="GRAN HERMANO FHD" tvg-logo="" group-title="Entretenimiento",GRAN HERMANO FHD
-http://861042382399383270.of090823.xyz:80/play/yu722394/J3DrVaB7xq/383270.ts
-#EXTINF:-1 tvg-id="ZafraTV.es" tvg-logo="https://webtv.radiotvzafra.es/admin/Uploads/medias/logo.png" group-title="Entretenimiento",Zafra TV (1080p) (subt.)
-https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8
+#EXTINF:-1 tvg-id="GH VIP HD" tvg-name="GH VIP HD" tvg-logo="" group-title="Entretenimiento",GH VIP HD
+http://moontools.me:8080/chinog8696/wmyxzkkrCv/1301005
+
 #EXTINF:-1 channel-id="pluto-5ffe17e3d765170007c3a4fe" tvg-id="5ffe17e3d765170007c3a4fe" tvg-chno="118" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="Made in Spain", Pluto TV España (mx)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f1abce155a03d0007718834" tvg-id="5f1abce155a03d0007718834" tvg-chno="202" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Made in Spain", Comedia made in Spain
