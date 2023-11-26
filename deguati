@@ -7142,24 +7142,14 @@ http://198.204.228.202:8157/flac6
 http://198.204.228.202:8030/flac7
 #EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE (FLAC)
 http://stream.radioparadise.com/flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE (with metadata) (FLAC)
-http://stream.radioparadise.com/flacm
 #EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE MELLOW (FLAC)
 http://stream.radioparadise.com/mellow-flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE MELLOW (with metadata) (FLAC)
-http://stream.radioparadise.com/mellow-flacm
 #EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE WORLD MIX (FLAC)
 http://stream.radioparadise.com/eclectic-flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE WORLD MIX (with metadata) (FLAC)
-http://stream.radioparadise.com/world-etc-flacm
 #EXTINF:-1 group-title="Música Radio FLAC/320kbps",Radio Sing Sing (FLAC)
 http://stream.sing-sing.org:8000/singsingFlac
-#EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC/320kbps",95bFM (FLAC)
-http://streams.95bfm.com/stream112
 #EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC/320kbps",CITY RADIO (FLAC)
 http://cityradio.ddns.net:8000/cityradio48flac
-#EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC/320kbps",CHILLFLORIDA (FLAC)
-https://us5.internet-radio.com/proxy/chillflorida
 #EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - DRUM & BASS (320kbps)  
 http://94.130.242.5:8004/stream
 #EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - TECHNO (320kbps) 
@@ -7190,7 +7180,7 @@ http://chillout.zone/chillout
 http://chillout.zone/chillout_plus
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/de/02/41786/1/c300.png" group-title="Música Radio FLAC/320kbps",Radio Chill In Zone (320kbps) 
 https://chillout.zone/chillin
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/de/02/41786/1/c300.png" group-title="Música Radio FLAC/320kbps",Radio Chill In Zone Plus (320kbps) 
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/de/02/41786/1/c300.png" group-title="Música Radio FLAC/320kbps",Radio Chill In Zone Plus (FLAC) 
 http://chillout.zone/chillin_plus
 #EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2017/11/FLAC-Codec.jpg" group-title="Música Radio FLAC/320kbps",Intense Radio - We love Dance (FLAC) 
 https://secure.live-streams.nl/flac.flac
