@@ -6735,17 +6735,10 @@ http://31.42.185.216:8000/decaicedo22/LYP8385l0j/153636
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4222&ads%3Astreaming_id=ea7930b8-dbeb-4630-beb3-43839053df8d&ads%3Atcf=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
 #EXTINF:-1 group-title="Música Videoclips",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Retro Plus 
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 group-title="Música Videoclips",VH1 Classics (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Música Videoclips" tvg-name="Activa TV España",Activa TV España HD
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S69lDu4.png" group-title="Música Videoclips",Activa TV (720p)
-https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="62b218fc511d4b00070ddc0c" tvg-name="MTV MIAW Pluto TV" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Musica" tvg-chno="1500", MTV MIAW Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=17e1dae1-4354-11ee-9336-0669668fe425
 #EXTINF:-1 tvg-id="6047fabfce6e8e00070bcc9f" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Música" tvg-chno="1502", MTV Biggest Pop
@@ -6762,35 +6755,23 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u
 https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8  
 #EXTINF:-1 group-title="Música Videoclips" tvg-logo="https://www.coolstreaming.us/img/ch/image25130181433.jpg",SpektraTV
 https://cloudvideo.servers10.com:8081/8136/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Indistry (GalxyTV)
-https://stream-us-east-1.getpublica.com/cl/a30e61ad-7cce-4839-8c1c-5a79a4bedac3/1280x720_2703601_0_f.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 tvg-id="6087c6c5db549e0007eead39" tvg-name="MTV Summer Hits" tvg-logo="https://images.pluto.tv/channels/6087c6c5db549e0007eead39/colorLogoPNG.png" group-title="Música Videoclips" tvg-chno="48", MTV Summer Hits
-https://stitcher.pluto.tv/stitch/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=aa719d01-18b2-11ee-a909-22c8cc34a3f41
 #EXTINF:-1 tvg-id="62444f34ea3ade0007ade6ac" tvg-name="MTV Urban Music" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="Música Videoclips" tvg-chno="603", MTV Urban Music
 https://stitcher.pluto.tv/stitch/hls/channel/62444f34ea3ade0007ade6ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=aa719d01-18b2-11ee-a909-22c8cc34a3f41
-#EXTINF:-1 group-title="Música Videoclips",MTV Summer Hits (Pluto)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Música Videoclips",MTV Music Made in Spain (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Música Videoclips",MTV Love Music (Pluto)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Música Videoclips",MTV En Vivo (Pluto)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Música Videoclips",MTV Good Vibes (Pluto)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Música Videoclips",MTV Party Music (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Música Videoclips",MTV Biggest Pop (Pluto)
+#EXTINF:-1 group-title="Música Videoclips",MTV Biggest Pop- (Pluto)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 group-title="Música Videoclips",MTV Block Party (Pluto)
+#EXTINF:-1 group-title="Música Videoclips",MTV Block Party- (Pluto)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="Música Videoclips",MTV YO! (Pluto)
+#EXTINF:-1 group-title="Música Videoclips",MTV YO!- (Pluto)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 group-title="Música Videoclips",MTV CMT (Pluto) 
+#EXTINF:-1 group-title="Música Videoclips",MTV CMT- (Pluto) 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="Música Videoclips",MTV Spankin' New (Pluto)
+#EXTINF:-1 group-title="Música Videoclips",MTV Spankin' New- (Pluto)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Clubbing TV (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -6818,17 +6799,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53fd4506-184e-11ee-a494-aef35e351827
 #EXTINF:-1 tvg-id="5f32f397795b750007706448" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música Videoclips" tvg-chno="2580", Vevo Reggaeton & Trap
 https://stitcher.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53fd4506-184e-11ee-a494-aef35e351827
-
-#EXTINF:-1 channel-id="samsung-ESBC4500001CA" tvg-id="ESBC4500001CA" tvg-chno="4005" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4500001CA_20221214T044924SQUARE.png_20221214044924.png" group-title="Música Videoclips",Vevo Navidad
-https://eu.linear.zype.com/d1a10bf6-e0c0-4db9-a1e7-e10fa3459c3e/f3914faf-6b35-4a2f-9d47-7d784e8b91bc-samsung-tv/live.m3u8?device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Música Videoclips",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 group-title="Música Videoclips",MusicTop 
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Ditty TV 
-https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Stingray Exitos del Momento
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Stingray Soul Storm
@@ -6849,14 +6823,8 @@ https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Stingray DJazz
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Qwest TV MIX Electro-HipHop-Altern (PlexTV) 
-https://qwest-mix-plex.amagi.tv/amRdirect/us_privacy=1---&did=c706d742-dba5-5916-b483-69b0e364b993&dnt=0&X-Plex-Token=xyosAT8fD6bzxmDRsLPR&channelId=60b0f65c0c8ffb002c821a77&uid=1g9dn4dc6-j2s6-2tg-w3ul-fubpn2i79un/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/1280x720_3440800/index.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Qwest TV Jazz & Beyond
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Qwest Classical (e-Rakuten)
-https://qwestclassic-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=abfa2315-07e3-4907-b519-120d96124bc8&ads_rtvid=271859&ads_streaming_id=521551f1-3c9e-4a74-b416-af4247dbc218&ads_amagi_channel=712&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_rtv_content_language=eng&ads_market=es&ads_rtv_content_id=2304&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPcM_sAPcM_sAADABCESCXCgAAAAAH_AAAAAAAAM-YqyFS4ClLAwFDQAQQAUQAoIAABBEAAACAABAAAEAAAQAgBAABAAAAAAAAAAAAAQAQAAgAAAAIAAAAAAAAAAAAQQAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAAIAAABAACAACAAAAAAIAAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g83pgq5e-1os3-img-oubf-jl2rayfqnri/hls/amagi_hls_data_rakutenAA-qwestclassic-rakuten/CDN/1280x720_3440800/chunklist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Vivaldi (clasica)(PlexTV)
-https://amg01297-themahqfranceme-vivalditv-plex-xh5kp.amagi.tv/playlist/amg01297-themahqfranceme-vivalditv-plex/cb56351b6570669098c93778d8f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec59ae6852db80148b6f4adafb8c2360625f5c98435ee3b24aabf6e20941d139a8ac1d49c02958e683179dc914bdd1d046cf41d727a41499c6f7888545889cab43f803f17a311512719c9834a7c656b3d4e81f53e86931490d74d2fb95da183e9c5f4e78caece78f57a567a4e330925f27a9098e4e8729f80dc06df6ac03edf7d5b525403db78a5f6f33d286caebab6f4bd708faa6fa93666fa6e6067151c86ec1504d52f4ac8659c99944fcd12281a7271931c4e303f1d9b1d4bfe6891dc87787c3f699680f1b3a5554cb5ff6c23e967f847af8cb4077084f1df4c90f8fecb45f34710185885fda1d1eb5f28ff1a564439c311958b1618f08003cce67357fe328aaca686fd027528407cf9a3247e89303414d85c6a1872308f7bbf452fe66e1c77bb894279c1df0dd9fd1884a7a505e72c0eb1c7d58a1589b85a1a3c3761b03e9fbc2f0c1114c6f9ca2f96df980c444e1e7e3280917cd5c2869755264fed34db7be72282254a03cd2be0a7189092f2cacc055380a34c69ae1d3c4bece357dd9f89814e80b1b2096b8db061b52b296c734d82d59716a58cf226547af0e5e7827f4a3eab48f74c79068ab77375a3385b8204807567c7419dbbe5c970fb2dd4de2dbfd55c2b9d949059d6af74850bfc0cc60fdda84c5640684e5024a30d98071853b06ef23f907c4927cd1bb50463b394343cdc714dc57abd097c264cb7cfe015330ba36ebdcd0b2d06744eede1f60644706410d271c463bb1d4d16b1768aced77943ac8df15f8121a634504b4e4275189ef7b19e6455d68b7afc68eed874327c360f07ade7341c173083dead837fa81df819ced0b054d94fbd12fd1c0d98bae8098aebff91b468592d7854c7cb6f72c541e/62/1920x1080_5702400/index.m3u8
 #EXTINF:-1 group-title="Música Videoclips",NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Party Tyme Karaoke
@@ -6885,54 +6853,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 #EXTINF:-1 group-title="Música Videoclips",Visual Radio
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Techno Warehouse
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 group-title="Música Videoclips",V2BEAT Pop Music TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Música Videoclips",m2o Italia
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Ocko TV
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",MCN6 Music Channel
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Hits 360 TV 
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Karibeña
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Tierra Mía TV 
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Top Latino TV)
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Fabulosa FM
-http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Canal Nubeh TV 
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Canal 38
-https://rtmp.info/canal38/envivo/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Portal FoxMix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Conecta TV
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 group-title="Música Videoclips",Sol Stereo TV
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
-#EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelapresents_16-9_0.jpg" group-title="Música Videoclips" , CANELA MUSIC PRESENTS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:-1 tvg-id="canela-hits" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_1.jpg" group-title="Música Videoclips" , Canela Hits
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 tvg-id="flow-caribeno" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/flowcaribeno_16-9.jpg" group-title="Música Videoclips" , FLOW CARIBEÑO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-#EXTINF:-1 tvg-id="tu-pop-favorito" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg" group-title="Música Videoclips" , TU POP FAVORITO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-id="chill-latino" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/uoYmmDYOkUiutqxSbtcu-b3v0-GuHh75usD7GIB10vs_0.jpg" group-title="Música Videoclips" , CHILL LATINO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
-#EXTINF:-1 tvg-id="puro-romance" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/puroromance_16-9_1.jpg" group-title="Música Videoclips" , PURO ROMANCE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 #EXTINF:-1 group-title="Música Audio",Easy Listening (Mood Music)
 http://79.111.14.76:8004/easylistening
 #EXTINF:-1 group-title="Música Audio",Flamenco (Spain-Andalusian Music) 
@@ -6997,8 +6925,6 @@ http://79.111.14.76:8000/ambientdub
 http://213.141.131.10:8000/balearichouse
 #EXTINF:-1 group-title="Música Audio",Ballroom Dance
 http://79.111.14.76:8004/ballroomdance
-#EXTINF:-1 group-title="Música Audio",BeBop (Be-Bop)
-http://79.111.14.76:8000/bebop
 #EXTINF:-1 group-title="Música Audio",Big Band (JazzAZZ Orchestra) 
 http://79.120.39.202:8000/bigband
 #EXTINF:-1 group-title="Música Audio",Blues 
@@ -7027,8 +6953,6 @@ http://79.120.77.11:8000/downtempo
 http://79.111.14.76:8004/dreampop
 #EXTINF:-1 group-title="Música Audio",Drum'n'Bass
 http://79.111.14.76:8002/drumbass
-#EXTINF:-1 group-title="Música Audio",Dub Music
-http://79.111.14.76:8004/dub
 #EXTINF:-1 group-title="Música Audio",Dub Techno
 http://79.120.39.202:8004/dubtechno
 #EXTINF:-1 group-title="Música Audio",Dubstep
@@ -7059,8 +6983,6 @@ http://79.120.77.11:8000/house
 http://79.111.14.76:8002/idm
 #EXTINF:-1 group-title="Música Audio",IDM Ambient
 http://213.141.131.10:8002/idmambient
-#EXTINF:-1 group-title="Música Audio",Illbient 
-http://213.141.131.10:8004/illbient
 #EXTINF:-1 group-title="Música Audio",Jazz
 http://79.120.77.11:8004/jazz
 #EXTINF:-1 group-title="Música Audio",Jazz Pop 
@@ -7075,8 +6997,6 @@ http://79.111.14.76:8000/lo-fi
 http://79.111.14.76:8002/lounge
 #EXTINF:-1 group-title="Música Audio",Minimal Tech House
 http://79.111.119.111:8000/mintechhouse
-#EXTINF:-1 group-title="Música Audio",Minimal Techno
-http://79.120.39.202:8004/mintechno
 #EXTINF:-1 group-title="Música Audio",New Wave (Cold Wave)
 http://79.120.39.202:8004/newwave
 #EXTINF:-1 group-title="Música Audio",Nu Disco
@@ -7128,53 +7048,35 @@ https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 #EXTINF:-1 group-title="Música Audio",Latina Salsa FR
 https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
 
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/09/SuperStereo-1-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",SUPERSTEREO 1 New Wave, Adult Pop (FLAC)
-http://198.204.228.202:8160/flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/09/SuperStereo-2-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",SUPERSTEREO 2 Oldies 50’s 60’s (FLAC)
-http://198.204.228.202:8157/flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/10/SuperStereo-3-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",SUPERSTEREO 3 80's (FLAC)
-http://198.204.228.202:8539/flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2021/07/SuperStereo-4-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",SUPERSTEREO 4 90’s (FLAC)
-http://198.204.228.202:8030/flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/02/SuperStereo-new-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",SUPERSTEREO 6 Instrumental (FLAC)
-http://198.204.228.202:8157/flac6
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/02/SuperStereo-new-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",SUPERSTEREO 7 Jazz (FLAC)
-http://198.204.228.202:8030/flac7
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE (FLAC)
-http://stream.radioparadise.com/flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE MELLOW (FLAC)
-http://stream.radioparadise.com/mellow-flac
-#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",RADIO PARADISE WORLD MIX (FLAC)
-http://stream.radioparadise.com/eclectic-flac
-#EXTINF:-1 group-title="Música Radio FLAC/320kbps",Radio Sing Sing (FLAC)
-http://stream.sing-sing.org:8000/singsingFlac
-#EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC/320kbps",CITY RADIO (FLAC)
-http://cityradio.ddns.net:8000/cityradio48flac
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - DRUM & BASS (320kbps)  
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Drum & Bass (md) (320kbps)  
 http://94.130.242.5:8004/stream
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - TECHNO (320kbps) 
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Techno (md) (320kbps) 
 http://94.130.242.5:8046/stream
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - DUBSTEP (320kbps) 
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Dubstep (md) (320kbps) 
 http://94.130.242.5:8040/stream
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - FULL ON PSYTRANCE (320kbps) 
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Full On Psytrance (md) (320kbps) 
 http://94.130.242.5:8010/stream
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - RAP (320kbps) 
-http://94.130.242.5:8016/stream
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - REAGGE (320kbps) 
-http://94.130.242.5:8000/stream
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - POP (320kbps) 
-http://94.130.242.5:8024/stream
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - AMBIENT (320kbps)  
-http://94.130.242.5:8056/stream
-#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",PARTY VIBE RADIO - JAZZ (320kbps) 
-http://94.130.242.5:8020/stream
-#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/15/d1/23740/2/c300.png" group-title="Música Radio FLAC/320kbps",radiomonster.fm - DANCE ULTRA (320kbps)
-https://ic.radiomonster.fm/dance.ultra
-#EXTINF:-1 tvg-logo="https://www.radiomonster.fm/wp-content/uploads/2020/12/radiomonster_tophits_2000px-370x370.png" group-title="Música Radio FLAC/320kbps",radiomonster.fm - TOP HITS (320kbps)
-https://ic.radiomonster.fm/tophits.ultra
-#EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC/320kbps",Dance Jamz (320kbps) 
+#EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2017/11/FLAC-Codec.jpg" group-title="Música Radio FLAC/320kbps",Intense Radio We love Dance (md) (FLAC) 
+https://secure.live-streams.nl/flac.flac
+#EXTINF:-1 tvg-logo="https://app.live.com.bo/upload/6417-2021-05-18.jpg" group-title="Música Radio FLAC/320kbps",Dance Wave! (FLAC) 
+https://dancewave.online/dance.flac.ogg
+#EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC/320kbps",Dance Jamz (md) (320kbps) 
 http://stream05.dotpoint.nl:8000/dancejamz
-#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/b6/98/22296/c300.png" group-title="Música Radio FLAC/320kbps",Radio Chill Out Zone (320kbps) 
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/15/d1/23740/2/c300.png" group-title="Música Radio FLAC/320kbps",radiomonster.fm Dance Ultra (320kbps)
+https://ic.radiomonster.fm/dance.ultra
+#EXTINF:-1 tvg-logo="https://www.radiomonster.fm/wp-content/uploads/2020/12/radiomonster_tophits_2000px-370x370.png" group-title="Música Radio FLAC/320kbps",radiomonster.fm Top Hits (320kbps)
+https://ic.radiomonster.fm/tophits.ultra
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Rap (md) (320kbps) 
+http://94.130.242.5:8016/stream
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Reagge (md) (320kbps) 
+http://94.130.242.5:8000/stream
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Pop (md) (320kbps) 
+http://94.130.242.5:8024/stream
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Ambient (md) (320kbps)  
+http://94.130.242.5:8056/stream
+#EXTINF:-1 tvg-logo="https://esp32tuner.weblukasz.pl/img/logo/1661929952_thumb.png" group-title="Música Radio FLAC/320kbps",Party Vibe Radio Jazz (md) (320kbps) 
+http://94.130.242.5:8020/stream
+#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/b6/98/22296/c300.png" group-title="Música Radio FLAC/320kbps",Radio Chill Out Zone (md) (320kbps) 
 http://chillout.zone/chillout
 #EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/b6/98/22296/c300.png" group-title="Música Radio FLAC/320kbps",Radio Chill Out Zone Plus (FLAC) 
 http://chillout.zone/chillout_plus
@@ -7182,7 +7084,25 @@ http://chillout.zone/chillout_plus
 https://chillout.zone/chillin
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/de/02/41786/1/c300.png" group-title="Música Radio FLAC/320kbps",Radio Chill In Zone Plus (FLAC) 
 http://chillout.zone/chillin_plus
-#EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2017/11/FLAC-Codec.jpg" group-title="Música Radio FLAC/320kbps",Intense Radio - We love Dance (FLAC) 
-https://secure.live-streams.nl/flac.flac
-#EXTINF:-1 tvg-logo="https://app.live.com.bo/upload/6417-2021-05-18.jpg" group-title="Música Radio FLAC/320kbps",Dance Wave! (FLAC) 
-https://dancewave.online/dance.flac.ogg
+#EXTINF:-1 group-title="Música Radio FLAC/320kbps",Radio Sing Sing (md) (FLAC)
+http://stream.sing-sing.org:8000/singsingFlac
+#EXTINF:-1 tvg-logo="" group-title="Música Radio FLAC/320kbps",City Radio (FLAC)
+http://cityradio.ddns.net:8000/cityradio48flac
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/09/SuperStereo-1-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",Superstereo 1 Adult Pop (md) (FLAC)
+http://198.204.228.202:8160/flac
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/09/SuperStereo-2-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",Superstereo 2 Oldies 50’s 60’s (md) (FLAC)
+http://198.204.228.202:8157/flac
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/10/SuperStereo-3-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",Superstereo 3 80's (md) (FLAC)
+http://198.204.228.202:8539/flac
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2021/07/SuperStereo-4-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",Superstereo 4 90’s (md) (FLAC)
+http://198.204.228.202:8030/flac
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/02/SuperStereo-new-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",Superstereo 6 Instrumental (md) (FLAC)
+http://198.204.228.202:8157/flac6
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/02/SuperStereo-new-feat-326x245.jpg" group-title="Música Radio FLAC/320kbps",Superstereo 7 Jazz (md) (FLAC)
+http://198.204.228.202:8030/flac7
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",Radio Paradise (md) (FLAC)
+http://stream.radioparadise.com/flacm
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",Radio Paradise Mellow (md) (FLAC)
+http://stream.radioparadise.com/mellow-flacm
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="Música Radio FLAC/320kbps",Radio Paradise World Mix (md) (FLAC)
+http://stream.radioparadise.com/eclectic-flacm
