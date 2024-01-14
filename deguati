@@ -1,29 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",(ACE) Supercopa [1080][Multiaudio] 
-acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",(ACE) Supercopa [1080] 
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",(ACE) Supercopa [1080] 
-acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",(ACE) Supercopa [720]
-acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",SUPERCOPA FHD (A)
-http://114478628507760430.ofd112.xyz:80/play/mi1110651/7yFTB5vFBD9/760430.ts
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",SUPERCOPA FHD (B)
-http://591604135300760430.ofd112.xyz:80/play/ja0206397/mJs@CyXSXyyF/760430.ts
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",SUPERCOPA HD (A)
-http://114478628507760431.ofd112.xyz:80/play/mi1110651/7yFTB5vFBD9/760431.ts
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",SUPERCOPA HD (B)
-http://591604135300760431.ofd112.xyz:80/play/ja0206397/mJs@CyXSXyyF/760431.ts
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",SUPERCOPA HD (C)
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28328
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",SUPERCOPA HD (D)
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28332
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",SUPERCOPA SD (A)
-http://114478628507760432.ofd112.xyz:80/play/mi1110651/7yFTB5vFBD9/760432.ts
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/86/3c/U52BUTF3_o.png" group-title="SUPERCOPA",SUPERCOPA SD (B)
-http://591604135300760432.ofd112.xyz:80/play/ja0206397/mJs@CyXSXyyF/760432.ts
+
 
 
 #EXTINF:-1 group-title="TOP CINE",De perdidos a Río
