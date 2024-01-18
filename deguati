@@ -3683,13 +3683,14 @@ http://sansat.net:25461/movie/02026161642462/02026161642462/302762.mp4
 
 
 
-#EXTINF:-1 group-title="Deportes Acestream" ,M+ Supercopa [1080][Multiaudio] (ACE)
-acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
-#EXTINF:-1 group-title="Deportes Acestream" ,M+ Supercopa [1080] (ACE)
+
+#EXTINF:-1 group-title="Deportes Acestream" ,COPA DEL REY [1080] (ACE)
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 group-title="Deportes Acestream" ,M+ Supercopa [1080] (ACE)
+#EXTINF:-1 group-title="Deportes Acestream" ,COPA DEL REY [1080] (ACE)
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 group-title="Deportes Acestream" ,M+ Supercopa [720] (ACE)
+#EXTINF:-1 group-title="Deportes Acestream" ,COPA DEL REY [720] (ACE)
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+#EXTINF:-1 group-title="Deportes Acestream" ,COPA DEL REY [720] (ACE)
 acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",DAZN LaLiga [1080][Multiaudio] (ACE)
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
