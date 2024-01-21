@@ -9457,7 +9457,7 @@ http://197558028728356749.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/356749.ts
 http://197558028728373766.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/373766.ts
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS" group-title="M+ (B)",ATRESERIES HD
 http://197558028728383249.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/383249.ts
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="VIAJAR HD" tvg-logo="" group-title="M+ (B)",VIAJAR HD
+#EXTINF:-1 tvg-id="" tvg-name="GH DUO HD" tvg-logo="" group-title="M+ (B)",GH DUO HD
 http://197558028728383270.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/383270.ts
 #EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="M+ (B)",DISCOVERY FHD
 http://197558028728383406.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/383406.ts
@@ -9821,7 +9821,7 @@ http://197558028728681791.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/681791.ts
 http://197558028728681794.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/681794.ts
 #EXTINF:-1 tvg-id="" tvg-name="DECASA TV HD" tvg-logo="" group-title="M+ (B)",DECASA TV HD
 http://197558028728681795.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/681795.ts
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="VIAJAR FHD" tvg-logo="" group-title="M+ (B)",VIAJAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="GH DUO FHD" tvg-logo="" group-title="M+ (B)",GH DUO FHD
 http://197558028728681808.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/681808.ts
 #EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772D_416_1_C00000_0_0_0.png" group-title="M+ (B)",BLAZE FHD
 http://197558028728683903.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/683903.ts
@@ -11334,19 +11334,28 @@ http://stream.radioparadise.com/eclectic-flacm
 
 #EXTINF:-1 channel-id="samsung-USBC1300012VK" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20230823T001633SQUARE.png_20230823001633.png" tvg-chno="1425" group-title="USA" , Fear Zone
 https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8
+
 #EXTINF:-1 channel-id="samsung-USBB5200028MM" tvg-id="USBB5200028MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20230809T005423SQUARE.png_20230809005424.png" tvg-chno="1426" group-title="USA" , UnXplained Zone
 https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
+
 #EXTINF:-1 channel-id="samsung-USBC4400006BR" tvg-id="USBC4400006BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20230426T030505SQUARE.png_20230426030505.png" tvg-chno="1427" group-title="USA" , Haunt TV
 https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
+
 #EXTINF:-1 channel-id="samsung-USBD1200007FE" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20230523T230756SQUARE.png_20230523230757.png" tvg-chno="1429" group-title="USA" , OuterSphere
 https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
+
 #EXTINF:-1 channel-id="samsung-USBB10000047W" tvg-id="USBB10000047W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20230125T022635SQUARE.png_20230125022636.png" tvg-chno="1430" group-title="USA" , Unidentified
 https://i.mjh.nz/SamsungTVPlus/USBB10000047W.m3u8
+
 #EXTINF:-1 channel-id="samsung-USBD1200004NS" tvg-id="USBD1200004NS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20230809T005421SQUARE.png_20230809005422.png" tvg-chno="1432" group-title="USA" , The Walking Dead Universe
 https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8
+
 #EXTINF:-1 channel-id="samsung-USAJ17000014C" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20230125T022600SQUARE.png_20230125022601.png" tvg-chno="1433" group-title="USA" , The Asylum
 https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8
+
 #EXTINF:-1 channel-id="samsung-USBC100000630" tvg-id="USBC100000630" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20230823T001635SQUARE.png_20230823001636.png" tvg-chno="1435" group-title="USA" , Alien Nation by DUST
 https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8
+
 #EXTINF:-1 channel-id="samsung-USBC100001175" tvg-id="USBC100001175" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20221109T013626SQUARE.png_20221109013627.png" tvg-chno="1436" group-title="USA" , ALTER
 https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
+
