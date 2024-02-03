@@ -3904,6 +3904,11 @@ http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12707
 #EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="Eurosport 2 ES" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg" group-title="M+ (A)",Eurosport 2
 http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/16844
 
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="M+ (B)",DAZN LALIGA HD
+http://197558028728320781.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/320781.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="M+ (B)",DAZN LALIGA FHD
+http://197558028728320782.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/320782.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="M+ (B)",M+ LALIGA FHD
 http://197558028728165385.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/165385.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="M+ (B)",M+ LALIGA HD
@@ -3948,10 +3953,6 @@ http://197558028728237734.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/237734.ts
 http://197558028728320779.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/320779.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="M+ (B)",DAZN LALIGA 2 FHD
 http://197558028728320780.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/320780.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="M+ (B)",DAZN LALIGA HD
-http://197558028728320781.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/320781.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="M+ (B)",DAZN LALIGA FHD
-http://197558028728320782.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/320782.ts
 #EXTINF:-1 tvg-id="" tvg-name="M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="M+ (B)",M LALIGA SMARTBANK FHD
 http://197558028728320785.ofd0120.xyz:80/play/mi1110651/7yFTB5vFBD9/320785.ts
 #EXTINF:-1 tvg-id="" tvg-name="M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="M+ (B)",M LALIGA SMARTBANK HD
