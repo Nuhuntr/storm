@@ -2380,6 +2380,12 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg",TeleDeporte FHD (ACE)
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 
+#EXTINF:-1 group-title="M+ FEB",1
+https://paco@lisxdk.kevinamf.pro/elver3/elver3.m3u8
+#EXTINF:-1 group-title="M+ FEB",2
+https://paco@fr03.dlive.click/JFObWTgb4veHVYQXSLtItg/1708816614/326130393a626163353a333130383a3139313a3a32383a3864/ff263/playlist.m3u8?b=1
+#EXTINF:-1 group-title="M+ FEB",3
+https://paco@hd.star1.live/fgvsg556hcfgnh
 #EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="M+ FEB",ES: M+ LALIGA FHD
 http://945285473357165385.ofd0219.xyz:80/play/Migue826L/MigueM122/165385.ts
 #EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="M+ FEB",ES: M+ LALIGA HD
