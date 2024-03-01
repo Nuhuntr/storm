@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="http://EXM3U.ofio.xyz/xmltv.php?username=dreu230707&password=dreu239895" url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="The Flash (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oduJooXJya3u6wuA6FgljAFCEQp.jpg" group-title="TOP CINE 2023",The Flash (2023)
 http://nicestar.nicsew.xyz:80/movie/dreu230707/dreu239895/147667.mp4
