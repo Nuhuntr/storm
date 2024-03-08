@@ -181,16 +181,17 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg",TeleDeporte FHD (ACE)
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 HD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320779.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 FHD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320780.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA HD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320781.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA FHD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320782.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:DAZN LALIGA SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES:DAZN LALIGA SD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320792.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 HD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320779.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 FHD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320780.ts
 #EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA FHD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165385.ts
 #EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA HD
