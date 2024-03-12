@@ -5,8 +5,6 @@
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv 2 [720] (ACE)
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
@@ -22,7 +20,8 @@ acestream://75251ba975132ec9a202806ba5bf606e87280c96
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",DAZN LaLiga [720] (ACE)
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv 2 [720] (ACE)
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv [1080][Multiaudio] (ACE)
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv [1080][Multiaudio] (ACE)
