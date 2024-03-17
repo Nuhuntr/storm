@@ -9,14 +9,16 @@ acestream://75251ba975132ec9a202806ba5bf606e87280c96
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",DAZN LaLiga [720] (ACE)
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv 2 [720] (ACE)
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png",Liga Bar [1080] (ACE)
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv [1080][Multiaudio] (ACE)
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv [1080][Multiaudio] (ACE)
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv [720] (ACE)
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv 2 [720] (ACE)
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
@@ -208,6 +210,10 @@ http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320792.ts
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320779.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 FHD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320780.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="(A) DEPORTES",ES: LALIGA TV BAR FHD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/268042.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="(A) DEPORTES",ES: LALIGA TV BAR HD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165407.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="(A) DEPORTES",ES: LIGA DE CAMPEONES FHD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/246282.ts
@@ -552,10 +558,7 @@ http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/237737.ts
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/237738.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 10 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA 10 SD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/237739.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="(A) DEPORTES",ES: LALIGA TV BAR FHD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/268042.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="(A) DEPORTES",ES: LALIGA TV BAR HD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165407.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="(A) DEPORTES",ES: M LALIGA SMARTBANK FHD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320785.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="(A) DEPORTES",ES: M LALIGA SMARTBANK HD
@@ -934,8 +937,7 @@ http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12707
 http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/16844
 
 
-#EXTINF:-1 tvg-name="ES: LIGATV BAR FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: LIGATV BAR FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/698
+
 #EXTINF:-1 tvg-name="ES: MOVISTAR  LA LIGA" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  LA LIGA
 http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/667
 #EXTINF:-1 tvg-name="ES: DAZN MOVISTAR 1" group-title="★•●★ ESPANHA ★•●★ ",ES: DAZN MOVISTAR 1
@@ -948,6 +950,8 @@ http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/715
 http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/716
 #EXTINF:-1 tvg-name="ES: DAZN MOVISTAR 3 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: DAZN MOVISTAR 3 HD
 http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/718
+#EXTINF:-1 tvg-name="ES: LIGATV BAR FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: LIGATV BAR FHD
+http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/698
 #EXTINF:-1 tvg-name="ES: MOVISTAR LIGA CAMPEONES" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA CAMPEONES
 http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/681
 #EXTINF:-1 tvg-name="ES: MOVISTAR LIGA CAMPEONES HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA CAMPEONES HD
@@ -1241,8 +1245,6 @@ http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/678
 http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/679
 #EXTINF:-1 tvg-name="ES: LA LIGA SMARTBANK HD" group-title="★•●★ ESPANHA ★•●★ ",ES: LA LIGA SMARTBANK HD
 http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/697
-#EXTINF:-1 tvg-name="ES: LIGATV BAR FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: LIGATV BAR FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/698
 #EXTINF:-1 tvg-name="ES: GOL TV" group-title="★•●★ ESPANHA ★•●★ ",ES: GOL TV
 http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/699
 #EXTINF:-1 tvg-name="ES: GOL TV HD" group-title="★•●★ ESPANHA ★•●★ ",ES: GOL TV HD
