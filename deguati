@@ -2,6 +2,14 @@
 
 
 
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [720][Multiaudio] (ACE)
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",M+ LaLiga Tv [1080][Multiaudio] (ACE)
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -102,18 +110,8 @@ acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/52MKb6sh/eleven-sport-4.png",Eleven Sport 4 (PL) (ACE)
 acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
 
-#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [1080][Multiaudio] (ACE)
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones [720][Multiaudio] (ACE)
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",M. Liga de Campeones 2 [1080] (ACE)
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+
 
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.postimg.cc/wBRc6GSG/vamos.png",M #Vamos [720] (ACE)
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
@@ -193,6 +191,922 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="Deportes Acestream" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg",TeleDeporte FHD (ACE)
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 
+
+#EXTINF:-1 group-title="SANSAT",|UCL| M+ LIGA DE CAMPEONES 1 ES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565489
+#EXTINF:-1 group-title="SANSAT",|UCL| M+ LIGA DE CAMPEONES 2 ES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565490
+#EXTINF:-1 group-title="SANSAT",|UCL| M+ LIGA DE CAMPEONES 3 ES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565491
+#EXTINF:-1 group-title="SANSAT",|UCL| M+ LIGA DE CAMPEONES 4 ES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565492
+#EXTINF:-1 group-title="SANSAT",|UCL| M+ LIGA DE CAMPEONES 5 ES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565493
+#EXTINF:-1 group-title="SANSAT",|UCL| M+ LIGA DE CAMPEONES 6 ES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565494
+
+#EXTINF:-1 group-title="SANSAT",|UCL| ELEVEN SPORTS 1 PT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565495
+#EXTINF:-1 group-title="SANSAT",|UCL| ELEVEN SPORTS 2 PT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565496
+#EXTINF:-1 group-title="SANSAT",|UCL| ELEVEN SPORTS 3 PT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565497
+#EXTINF:-1 group-title="SANSAT",|UCL| ELEVEN SPORTS 4 PT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565498
+#EXTINF:-1 group-title="SANSAT",|UCL| ELEVEN SPORTS 5 PT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565499
+#EXTINF:-1 group-title="SANSAT",|UCL| ELEVEN SPORTS 6 PT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565500
+#EXTINF:-1 group-title="SANSAT",|UCL| MATCH! FOOTBALL 1 RU
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565501
+#EXTINF:-1 group-title="SANSAT",|UCL| MATCH! FOOTBALL 2 RU
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565502
+#EXTINF:-1 group-title="SANSAT",|UCL| MATCH! FOOTBALL 3 RU
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565503
+#EXTINF:-1 group-title="SANSAT",|UCL| ZIGGO SPORT RACING NL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565504
+#EXTINF:-1 group-title="SANSAT",|UCL| ZIGGO SPORT VOETBAL NL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565505
+#EXTINF:-1 group-title="SANSAT",|UCL| ZIGGO SPORT SELECT NL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565506
+#EXTINF:-1 group-title="SANSAT",|UCL| ZIGGO SPORT NL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565507
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 1 BIH
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565508
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 1 SR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565509
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 2 SR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565510
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 3 SR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565511
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 4 SR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565512
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 5 SR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565513
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 1 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565514
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 2 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565515
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 3 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565516
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 4 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565517
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 5 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565518
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 6 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565519
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 7 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565520
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 8 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565521
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 9 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565522
+#EXTINF:-1 group-title="SANSAT",|UCL| ARENA SPORT 10 HR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565523
+#EXTINF:-1 group-title="SANSAT",|UCL| POLSAT SPORT PREM. 1 PL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565524
+#EXTINF:-1 group-title="SANSAT",|UCL| POLSAT SPORT PREM. 2 PL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565525
+#EXTINF:-1 group-title="SANSAT",|UCL| POLSAT SPORT PREM. 3 PL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565526
+#EXTINF:-1 group-title="SANSAT",|UCL| POLSAT SPORT PREM. 4 PL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565527
+#EXTINF:-1 group-title="SANSAT",|UCL| POLSAT SPORT PREM. 5 PL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565528
+#EXTINF:-1 group-title="SANSAT",|UCL| POLSAT SPORT PREM  PPV6 PL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565529
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 1 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6814
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 1 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402504
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 2 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6823
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 2 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402505
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 3 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6815
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 3 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402506
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 4 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6818
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 4 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402507
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 5 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6817
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 5 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402508
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 6 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6819
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 6 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402509
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 7 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6820
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 7 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402510
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 8 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6821
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 8 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402511
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 9 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/6822
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 9 BG
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/402512
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 1 ENGLISH 4k 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/63495
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS 1 FRENCH 4K 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/105256
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS XTRA 1 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/117761
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS XTRA 2 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/117762
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS XTRA 3 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/14710
+#EXTINF:-1 group-title="SANSAT",|AR| BEIN SPORTS AFC 1 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/177007
+#EXTINF:-1 group-title="SANSAT",BEIN SPORTS AFC 2 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/435951
+#EXTINF:-1 group-title="SANSAT",BEIN SPORTS AFC 3 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/435952
+#EXTINF:-1 group-title="SANSAT",BEIN SPORTS AFC 4 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/435953
+
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 1 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565442
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 2 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565443
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 3 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565444
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 4 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565445
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 5 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565446
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 6 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565447
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 7 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565448
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 8 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565449
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 9 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565450
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS XTRA 1 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565451
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS XTRA 2 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565452
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS XTRA 3 AR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565453
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 1 EN
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565454
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 2 EN
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565455
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 1 FR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565456
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 2 FR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565457
+#EXTINF:-1 group-title="SANSAT",|UCL| BEIN SPORTS 3 FR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565458
+#EXTINF:-1 group-title="SANSAT",|UCL| CANAL+ FR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565459
+#EXTINF:-1 group-title="SANSAT",|UCL| RMC SPORT 1 FR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565467
+#EXTINF:-1 group-title="SANSAT",|UCL| RMC SPORT 2 FR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565468
+#EXTINF:-1 group-title="SANSAT",|UCL| RMC SPORT LIVE 3 FR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565469
+#EXTINF:-1 group-title="SANSAT",|UCL| TNT SPORTS 2 UK
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565470
+#EXTINF:-1 group-title="SANSAT",|UCL| TNT SPORTS 3 UK
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565471
+#EXTINF:-1 group-title="SANSAT",|UCL| TNT SPORTS 4 UK
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565472
+#EXTINF:-1 group-title="SANSAT",|UCL| TNT SPORTS 5 UK
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/565473
+
+
+
+
+#EXTINF:-1 group-title="SANSAT",|ES| TVE INTERNACIONAL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127636
+#EXTINF:-1 group-title="SANSAT",|ES| LA 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127637
+#EXTINF:-1 group-title="SANSAT",|ES| LA 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127638
+#EXTINF:-1 group-title="SANSAT",|ES| 24 HORAS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127639
+#EXTINF:-1 group-title="SANSAT",|ES| ANTENA 3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127640
+#EXTINF:-1 group-title="SANSAT",|ES| CUATRO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127641
+#EXTINF:-1 group-title="SANSAT",|ES| TELECINCO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127642
+#EXTINF:-1 group-title="SANSAT",|ES| LA SEXTA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127643
+#EXTINF:-1 group-title="SANSAT",|ES| MEGA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127644
+#EXTINF:-1 group-title="SANSAT",|ES| TV GALICIA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127645
+#EXTINF:-1 group-title="SANSAT",|ES| CLAN TVE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127646
+#EXTINF:-1 group-title="SANSAT",|ES| NOVA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127647
+#EXTINF:-1 group-title="SANSAT",|ES| NEOX
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127648
+#EXTINF:-1 group-title="SANSAT",|ES| #VAMOS HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/144173
+#EXTINF:-1 group-title="SANSAT",|ES| CANAL 24 HORAS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127651
+#EXTINF:-1 group-title="SANSAT",|ES| CANAL SUR A.
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127653
+#EXTINF:-1 group-title="SANSAT",|ES| EXTRAMADURA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127654
+#EXTINF:-1 group-title="SANSAT",|ES| ARAGON TV INT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127657
+#EXTINF:-1 group-title="SANSAT",|ES| TRECE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127658
+#EXTINF:-1 group-title="SANSAT",|SP| DARK
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194246
+#EXTINF:-1 group-title="SANSAT",|SP| UBEAT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194247
+#EXTINF:-1 group-title="SANSAT",|SP| TV GALICIA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194248
+#EXTINF:-1 group-title="SANSAT",|SP| TELEMADRID
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194249
+#EXTINF:-1 group-title="SANSAT",|SP| CANAL EXTREMADURA SAT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194250
+#EXTINF:-1 group-title="SANSAT",|SP| TV3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194251
+#EXTINF:-1 group-title="SANSAT",-----| CANALES ESPANOL 4K |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127659
+#EXTINF:-1 group-title="SANSAT",|ES-4K| TVE INTERNACIONAL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127660
+#EXTINF:-1 group-title="SANSAT",|ES-4K| LA 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127661
+#EXTINF:-1 group-title="SANSAT",|ES-4K| LA 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127662
+#EXTINF:-1 group-title="SANSAT",|ES-4K| 24 HORAS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127663
+#EXTINF:-1 group-title="SANSAT",|ES-4K| ANTENA 3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127664
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CUATRO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127665
+#EXTINF:-1 group-title="SANSAT",|ES-4K| TELECINCO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127666
+#EXTINF:-1 group-title="SANSAT",|ES-4K| LA SEXTA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127667
+#EXTINF:-1 group-title="SANSAT",|ES-4K| MEGA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127668
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CLAN TVE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127670
+#EXTINF:-1 group-title="SANSAT",|ES-4K| NOVA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127671
+#EXTINF:-1 group-title="SANSAT",|ES-4K| NEOX
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127672
+#EXTINF:-1 group-title="SANSAT",|ES-4K| #VAMOS HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/144174
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CANAL SUR A.
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127673
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DARK
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194252
+#EXTINF:-1 group-title="SANSAT",|SP-4k| TV GALICIA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194253
+#EXTINF:-1 group-title="SANSAT",|SP-4k| TELEMADRID FHD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194254
+#EXTINF:-1 group-title="SANSAT",-----| CULTURA ESPANOL |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127751
+#EXTINF:-1 group-title="SANSAT",|ES| BLAZE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/181633
+#EXTINF:-1 group-title="SANSAT",|ES| TOROS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127752
+#EXTINF:-1 group-title="SANSAT",|ES| CANAL ODISEA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127753
+#EXTINF:-1 group-title="SANSAT",|ES| DISCOVERY CHANNEL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127754
+#EXTINF:-1 group-title="SANSAT",|ES| DISCOVERY CRIME INVESTIGATION
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127755
+#EXTINF:-1 group-title="SANSAT",|ES| DMAX
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127756
+#EXTINF:-1 group-title="SANSAT",|ES| DKISS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127757
+#EXTINF:-1 group-title="SANSAT",|ES| HISTORIA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127758
+#EXTINF:-1 group-title="SANSAT",|ES| NAT GEOGRAPHIC
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127759
+#EXTINF:-1 group-title="SANSAT",|ES| NAT GEO WILD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127760
+#EXTINF:-1 group-title="SANSAT",|ES| CAZA & PESCA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127761
+#EXTINF:-1 group-title="SANSAT",|ES| CANAL COCINA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127763
+#EXTINF:-1 group-title="SANSAT",-----| CULTURA ESPANOL 4K |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127765
+#EXTINF:-1 group-title="SANSAT",|ES-4K| TOROS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127766
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CANAL ODISEA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127767
+#EXTINF:-1 group-title="SANSAT",|ES-4K| DISCOVERY CHANNEL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127768
+#EXTINF:-1 group-title="SANSAT",|ES-4K| DISCOVERY CRIME INVESTIGATION
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127769
+#EXTINF:-1 group-title="SANSAT",|ES-4K| DMAX
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127770
+#EXTINF:-1 group-title="SANSAT",|ES-4K| HISTORIA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127772
+#EXTINF:-1 group-title="SANSAT",|ES-4K| NAT GEOGRAPHIC
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127773
+#EXTINF:-1 group-title="SANSAT",|ES-4K| NAT GEO WILD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127774
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CAZA Y PESCA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127775
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CANAL COCINA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127777
+#EXTINF:-1 group-title="SANSAT",|ES-4K| BLAZE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/181634
+#EXTINF:-1 group-title="SANSAT",-----| ENTRETENIMIENTO ESPAÑOL |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127697
+#EXTINF:-1 group-title="SANSAT",|ES| M. SERIES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127699
+#EXTINF:-1 group-title="SANSAT",|SP| COMEDY CENTRAL HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127700
+#EXTINF:-1 group-title="SANSAT",|ES| FOX
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127701
+#EXTINF:-1 group-title="SANSAT",|ES| AXN
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127703
+#EXTINF:-1 group-title="SANSAT",|ES| AXN WHITE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127704
+#EXTINF:-1 group-title="SANSAT",|ES| SYFY
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127705
+#EXTINF:-1 group-title="SANSAT",|ES| SUNDANCE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127706
+#EXTINF:-1 group-title="SANSAT",|ES| CALLE 13
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127707
+#EXTINF:-1 group-title="SANSAT",|ES| IBERALIA TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127708
+#EXTINF:-1 group-title="SANSAT",|ES| CANAL DE CASA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127709
+#EXTINF:-1 group-title="SANSAT",|ES| AMC
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127710
+#EXTINF:-1 group-title="SANSAT",|ES| COSMO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127711
+#EXTINF:-1 group-title="SANSAT",|ES| ENERGY
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127712
+#EXTINF:-1 group-title="SANSAT",|ES| FDF
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127713
+#EXTINF:-1 group-title="SANSAT",|ES| BE MAD TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127714
+#EXTINF:-1 group-title="SANSAT",|ES| DIVINITY
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127715
+#EXTINF:-1 group-title="SANSAT",|ES| XTRM
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127716
+#EXTINF:-1 group-title="SANSAT",-----| ENTRETENIMIENTO ESPAÑOL 4K |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127717
+#EXTINF:-1 group-title="SANSAT",|ES-4K| M. SERIES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127719
+#EXTINF:-1 group-title="SANSAT",|ES-4K| M. SERIESMANIA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127720
+#EXTINF:-1 group-title="SANSAT",|ES-4K| FOX
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127721
+#EXTINF:-1 group-title="SANSAT",|ES-4K| AXN
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127723
+#EXTINF:-1 group-title="SANSAT",|ES-4K| AXN WHITE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127724
+#EXTINF:-1 group-title="SANSAT",|ES-4K| SYFY
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127725
+#EXTINF:-1 group-title="SANSAT",|ES-4K| SUNDANCE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127726
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CALLE 13
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127727
+#EXTINF:-1 group-title="SANSAT",|ES-4K| IBERALIA TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127728
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CANAL DE CASA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127729
+#EXTINF:-1 group-title="SANSAT",|ES-4K| AMC
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127730
+#EXTINF:-1 group-title="SANSAT",|ES-4K| COSMO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127731
+#EXTINF:-1 group-title="SANSAT",|ES-4K| ENERGY
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127732
+#EXTINF:-1 group-title="SANSAT",|ES-4K| FDF
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127733
+#EXTINF:-1 group-title="SANSAT",|ES-4K| BE MAD TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127734
+#EXTINF:-1 group-title="SANSAT",|ES-4K| DIVINITY
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127735
+#EXTINF:-1 group-title="SANSAT",|ES-4K| XTRM
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127736
+#EXTINF:-1 group-title="SANSAT",-----| CINE ESPANOL |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127675
+#EXTINF:-1 group-title="SANSAT",|SP| M. Cine
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127676
+#EXTINF:-1 group-title="SANSAT",|SP| M.ESTRENOS 2 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/164749
+#EXTINF:-1 group-title="SANSAT",|SP| M. ACCION
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127677
+#EXTINF:-1 group-title="SANSAT",|SP| M. COMEDIA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127678
+#EXTINF:-1 group-title="SANSAT",|SP| M. DRAMA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127679
+#EXTINF:-1 group-title="SANSAT",|SP| M. CINE ESPANOL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127680
+#EXTINF:-1 group-title="SANSAT",|SP| HOLLYWOOD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127682
+#EXTINF:-1 group-title="SANSAT",|SP| TCM
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127683
+#EXTINF:-1 group-title="SANSAT",|SP| TNT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127684
+#EXTINF:-1 group-title="SANSAT",|SP| PARAMOUNT CHANNEL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127685
+#EXTINF:-1 group-title="SANSAT",|SP| M.SERIES 2 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/164751
+#EXTINF:-1 group-title="SANSAT",|SP| M.RESISTENCIA HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/164752
+#EXTINF:-1 group-title="SANSAT",|SP| MOVISTAR BOM CINE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/182510
+#EXTINF:-1 group-title="SANSAT",|SP| MOVISTAR CRIMEN
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/182511
+#EXTINF:-1 group-title="SANSAT",|SP| SOMOS HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/164753
+#EXTINF:-1 group-title="SANSAT",-----| CINE ESPANOL 4K |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127686
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. Cine
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127687
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. ACCION
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127688
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. COMEDIA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127689
+#EXTINF:-1 group-title="SANSAT",|SP-4K|  M. DRAMA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127690
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. CINE ESPANOL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127691
+#EXTINF:-1 group-title="SANSAT",|ES-4K| HOLLYWOOD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127693
+#EXTINF:-1 group-title="SANSAT",|SP-4K| TCM
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127694
+#EXTINF:-1 group-title="SANSAT",|SP-4K| TNT
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127695
+#EXTINF:-1 group-title="SANSAT",|SP-4K| PARAMOUNT CHANNEL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127696
+#EXTINF:-1 group-title="SANSAT",|SP-4K| SOMOS HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/164750
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 1 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393741
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 2 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393742
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 3 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393743
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 4 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393744
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 5 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393745
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 6 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393746
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 7 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393747
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 8 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393748
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 9 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393749
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 10 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393750
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 11 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393751
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 12 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393752
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 13 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393753
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 14 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393754
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 15 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393755
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 16 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393756
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 17 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393757
+#EXTINF:-1 group-title="SANSAT",|SP| CINE 18 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393758
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX CINE HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393759
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX CINE + HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393760
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX Películas HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393761
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX Español HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393762
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX Television HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393763
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX Historia HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393764
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX Sci-Fi HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393765
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX DRAMA HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393766
+#EXTINF:-1 group-title="SANSAT",|SP| NETFLIX Ninos HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393767
+#EXTINF:-1 group-title="SANSAT",-----| ALQELIER SPAIN |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127737
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 1 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127738
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 2 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/135210
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 3 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/135211
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 4 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/135347
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 5 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/135425
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 6 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/135426
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 7 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/135469
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 8 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/135500
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 9 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/153321
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 10 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/153322
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 11 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/153323
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 12 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/153324
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 13 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/362549
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 14 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/362550
+#EXTINF:-1 group-title="SANSAT",|ES| ALQELIER 15 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/362551
+#EXTINF:-1 group-title="SANSAT",-----| NINOS ESPAÑOL |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127779
+#EXTINF:-1 group-title="SANSAT",|ES| M. DISNEY
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127780
+#EXTINF:-1 group-title="SANSAT",|ES| BOING
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127781
+#EXTINF:-1 group-title="SANSAT",|ES| CANAL PANDA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127782
+#EXTINF:-1 group-title="SANSAT",|ES| DISNEY CHANNEL
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127783
+#EXTINF:-1 group-title="SANSAT",|ES| DISNEY JR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127784
+#EXTINF:-1 group-title="SANSAT",|ES| BABY TV 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127786
+#EXTINF:-1 group-title="SANSAT",|ES| NICKELODEON
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127787
+#EXTINF:-1 group-title="SANSAT",|ES| NICK JR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127788
+#EXTINF:-1 group-title="SANSAT",|ES| DREAMWORKS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127790
+#EXTINF:-1 group-title="SANSAT",-----| NINOS ESPAÑOL 4K |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127791
+#EXTINF:-1 group-title="SANSAT",|ES-4K| BABY TV 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127792
+#EXTINF:-1 group-title="SANSAT",|ES-4K| BOING 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127793
+#EXTINF:-1 group-title="SANSAT",|ES-4K| CANAL PANDA 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127794
+#EXTINF:-1 group-title="SANSAT",|ES-4K| DISNEY CH 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127795
+#EXTINF:-1 group-title="SANSAT",|ES-4K| DISNEY JR 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127796
+#EXTINF:-1 group-title="SANSAT",|ES-4K| DREAMWORKS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127797
+#EXTINF:-1 group-title="SANSAT",|ES-4K| NICK JR 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127798
+#EXTINF:-1 group-title="SANSAT",|ES-4K| NICKELODEON
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127800
+#EXTINF:-1 group-title="SANSAT",-----| MUSICA ESPAÑOL |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127801
+#EXTINF:-1 group-title="SANSAT",|ES| MTV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127802
+#EXTINF:-1 group-title="SANSAT",|ES| MTV ESPANA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127803
+#EXTINF:-1 group-title="SANSAT",|ES| MEZZO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127804
+#EXTINF:-1 group-title="SANSAT",|ES| MEZZO LIVE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127805
+#EXTINF:-1 group-title="SANSAT",|ES| LA VOZ KIDS ESPAÑA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127806
+#EXTINF:-1 group-title="SANSAT",|ES| VH1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127807
+#EXTINF:-1 group-title="SANSAT",-----| MUSICA ESPAÑOL 4K |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127808
+#EXTINF:-1 group-title="SANSAT",|ES-4K| MTV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127809
+#EXTINF:-1 group-title="SANSAT",|ES-4K| MTV ESPANA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127810
+#EXTINF:-1 group-title="SANSAT",|ES-4K| MEZZO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127811
+#EXTINF:-1 group-title="SANSAT",|ES-4K| MEZZO LIVE HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127812
+#EXTINF:-1 group-title="SANSAT",|ES-4K| VH1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127813
+#EXTINF:-1 group-title="SANSAT",|SP| M+ SUPERCOPA SD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/547604
+#EXTINF:-1 group-title="SANSAT",|SP| M+ SUPERCOPA HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/547603
+#EXTINF:-1 group-title="SANSAT",|SP| M+ SUPERCOPA 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/547605
+#EXTINF:-1 group-title="SANSAT",|SP| DAZN 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127815
+#EXTINF:-1 group-title="SANSAT",|SP| DAZN 1 HD Backup
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/393078
+#EXTINF:-1 group-title="SANSAT",|SP| DAZN F1 ESPAÑA HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/260109
+#EXTINF:-1 group-title="SANSAT",|SP| DAZN F1 ESPAÑA 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/260110
+#EXTINF:-1 group-title="SANSAT",|SP| DAZN LALIGA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194257
+#EXTINF:-1 group-title="SANSAT",|SP| DAZN LALIGA (buckup)
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/441745
+#EXTINF:-1 group-title="SANSAT",|SP| DAZN LALIGA 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/195454
+#EXTINF:-1 group-title="SANSAT",|SP| LALIGA HYPERMOTION HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/195485
+#EXTINF:-1 group-title="SANSAT",|SP| LALIGA HYPERMOTION 2 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/195484
+#EXTINF:-1 group-title="SANSAT",|SP| LALIGA HYPERMOTION 3 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/375949
+#EXTINF:-1 group-title="SANSAT",|SP| M.LCAMPEONES backup
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/202582
+#EXTINF:-1 group-title="SANSAT",|SP| EUROSPORT 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127827
+#EXTINF:-1 group-title="SANSAT",|SP| M. GOLF
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127829
+#EXTINF:-1 group-title="SANSAT",|SP| M+ GOLF  HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388930
+#EXTINF:-1 group-title="SANSAT",|SP| M+ GOLF 2 HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388931
+#EXTINF:-1 group-title="SANSAT",|SP| M+ CRACKS HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388932
+#EXTINF:-1 group-title="SANSAT",|SP| M+ INDIE HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388933
+#EXTINF:-1 group-title="SANSAT",|SP| M+ SUSPENSE HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388934
+#EXTINF:-1 group-title="SANSAT",|SP| M+ ORIGINALES HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388935
+#EXTINF:-1 group-title="SANSAT",|SP| MUNDOTORO TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/272894
+#EXTINF:-1 group-title="SANSAT",|SP| EL TORO TV HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/272895
+#EXTINF:-1 group-title="SANSAT",|SP| HORSE TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/272896
+#EXTINF:-1 group-title="SANSAT",|SP| REAL BETIS TV 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/272897
+#EXTINF:-1 group-title="SANSAT",|SP| SEVILLA FC TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/272898
+#EXTINF:-1 group-title="SANSAT",|SP| GOL TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127830
+#EXTINF:-1 group-title="SANSAT",|SP| M+ ELLAS HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194255
+#EXTINF:-1 group-title="SANSAT",|SP| M+ CLÁSICOS
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194256
+#EXTINF:-1 group-title="SANSAT",|SP| M.FEST HD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194258
+#EXTINF:-1 group-title="SANSAT",|SP| Sevilla FC TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194259
+#EXTINF:-1 group-title="SANSAT",|SP| HORSE TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194260
+#EXTINF:-1 group-title="SANSAT",|SP| MUNDOTORO TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/267382
+#EXTINF:-1 group-title="SANSAT",|SP| LALIGA HYPERMOTION FHD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/195486
+#EXTINF:-1 group-title="SANSAT",LALIGA HYPERMOTION 2 FHD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/195487
+#EXTINF:-1 group-title="SANSAT",|SP| LALIGA HYPERMOTION 3 FHD
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/375950
+#EXTINF:-1 group-title="SANSAT",|SP| GOL MUNDIAL 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391719
+#EXTINF:-1 group-title="SANSAT",|SP| GOL MUNDIAL 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391720
+#EXTINF:-1 group-title="SANSAT",|SP| GOL MUNDIAL 3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391721
+#EXTINF:-1 group-title="SANSAT",|SP| GOL MUNDIAL 4
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391722
+#EXTINF:-1 group-title="SANSAT",|SP| GOL MUNDIAL 5
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391723
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV INFO
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391724
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391725
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391726
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391727
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 4
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391728
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 5
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391729
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 6
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391730
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 7
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391731
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 8
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391732
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 9
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391733
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 10
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391734
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 11
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391735
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 12
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391736
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 13
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391737
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 14
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391738
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 15
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391739
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 16
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391740
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 17
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391741
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 18
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391742
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 19
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391743
+#EXTINF:-1 group-title="SANSAT",|SP| FEF TV 20
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/391744
+#EXTINF:-1 group-title="SANSAT",-----| DEPORTES ESPANOL 4K |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127831
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DAZN LALIGA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/195455
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DAZN LALIGA 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/195456
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DAZN 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127832
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DAZN 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127833
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DAZN 3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127834
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DAZN 4
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127835
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DAZN F1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127836
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LCAMPEONES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127837
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M.LCAMPEONES backup
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/202584
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LCAMPEON 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127838
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. DEPORTES
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127839
+#EXTINF:-1 group-title="SANSAT",|SP-4K| TELEDEPORTE
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127840
+#EXTINF:-1 group-title="SANSAT",|SP-4K| REAL MADRID TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127841
+#EXTINF:-1 group-title="SANSAT",|SP-4K| BARCA TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127842
+#EXTINF:-1 group-title="SANSAT",|SP-4K| EUROSPORT 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127843
+#EXTINF:-1 group-title="SANSAT",|SP-4K| EUROSPORT 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127844
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. GOLF
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127846
+#EXTINF:-1 group-title="SANSAT",|SP-4K| GOL TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127847
+#EXTINF:-1 group-title="SANSAT",|SP-4K| HORSE TV
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194261
+#EXTINF:-1 group-title="SANSAT",|SP-4K| DAZN F1 ESPAÑA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/194262
+#EXTINF:-1 group-title="SANSAT",|SP| M+ GOLF 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388936
+#EXTINF:-1 group-title="SANSAT",|SP| M+ CRACKS 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388937
+#EXTINF:-1 group-title="SANSAT",|SP| M+ INDIE 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388938
+#EXTINF:-1 group-title="SANSAT",|SP| M+ SUSPENSE 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388939
+#EXTINF:-1 group-title="SANSAT",|SP| M+ ORIGINALES 4K
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/388940
+#EXTINF:-1 group-title="SANSAT",-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127848
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127849
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA TV BAR
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/169503
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127850
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127851
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127852
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 4
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127853
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 6
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127854
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 7
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127855
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 8
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127856
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 9
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127857
+#EXTINF:-1 group-title="SANSAT",|SP| M. LALIGA 10
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127858
+#EXTINF:-1 group-title="SANSAT",|SP| M. DEPORTES 1 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127859
+#EXTINF:-1 group-title="SANSAT",|SP| M. DEPORTES 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127860
+#EXTINF:-1 group-title="SANSAT",|SP| M. DEPORTES 3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127861
+#EXTINF:-1 group-title="SANSAT",|SP| M. DEPORTES 4
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127862
+#EXTINF:-1 group-title="SANSAT",|SP| M. DEPORTES 5
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127863
+#EXTINF:-1 group-title="SANSAT",|SP| M. DEPORTES 6
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127864
+#EXTINF:-1 group-title="SANSAT",|SP| M. DEPORTES 7
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127865
+#EXTINF:-1 group-title="SANSAT",|SP| M. LCAMPEON 1 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127866
+#EXTINF:-1 group-title="SANSAT",|SP| M. LCAMPEON 2 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127867
+#EXTINF:-1 group-title="SANSAT",|SP| M. LCAMPEON 3 
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127868
+#EXTINF:-1 group-title="SANSAT",|SP| M. LCAMPEON 4
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127869
+#EXTINF:-1 group-title="SANSAT",|SP| M. LCAMPEON 5
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127870
+#EXTINF:-1 group-title="SANSAT",|SP| M. LCAMPEON 6
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127871
+#EXTINF:-1 group-title="SANSAT",|SP| M. LCAMPEON 7
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127872
+#EXTINF:-1 group-title="SANSAT",|SP| M. LCAMPEON 8
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127873
+#EXTINF:-1 group-title="SANSAT",|SP| M.LCAMPEONES 9
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/169499
+#EXTINF:-1 group-title="SANSAT",|SP| M.LCAMPEONES 10
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/169500
+#EXTINF:-1 group-title="SANSAT",|SP| M.LCAMPEONES 11
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/169501
+#EXTINF:-1 group-title="SANSAT",|SP| M.LCAMPEONES 12
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/169502
+#EXTINF:-1 group-title="SANSAT",-----| DEPORTES ESPAÑOL (SOLO PARTIDO) 4K |-----
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127875
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127876
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127877
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127878
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127879
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 4
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127880
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 6
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127881
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 7
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127882
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 8
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127883
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 9
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127884
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. LALIGA 10
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127885
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. DEPORTES1
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127886
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. DEPORTES2
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127887
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. DEPORTES3
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127888
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. DEPORTES4
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127889
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. DEPORTES 5
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127890
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. DEPORTES 6
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127891
+#EXTINF:-1 group-title="SANSAT",|SP-4K| M. DEPORTES 7
+http://sansat.net:88/02026353444957/CiZlBCQsVtTxZV8/127892
+
+
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES FHD
+http://818123891930246282.ofds0328.xyz:80/play/lora/123456789/246282.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES HD
+http://818123891930165358.ofds0328.xyz:80/play/lora/123456789/165358.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES FHD HEVC
+http://818123891930262412.ofds0328.xyz:80/play/lora/123456789/262412.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 2 FHD
+http://818123891930165365.ofds0328.xyz:80/play/lora/123456789/165365.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 2 HD
+http://818123891930282469.ofds0328.xyz:80/play/lora/123456789/282469.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 3 HD
+http://818123891930282470.ofds0328.xyz:80/play/lora/123456789/282470.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 3 HD (OP1)
+http://818123891930282471.ofds0328.xyz:80/play/lora/123456789/282471.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 4 HD
+http://818123891930282472.ofds0328.xyz:80/play/lora/123456789/282472.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 4 HD (OP1)
+http://818123891930282473.ofds0328.xyz:80/play/lora/123456789/282473.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 5 HD
+http://818123891930282460.ofds0328.xyz:80/play/lora/123456789/282460.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 5 HD (OP1)
+http://818123891930282461.ofds0328.xyz:80/play/lora/123456789/282461.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 6 HD
+http://818123891930282462.ofds0328.xyz:80/play/lora/123456789/282462.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 6 HD (OP1)
+http://818123891930282463.ofds0328.xyz:80/play/lora/123456789/282463.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 7 HD
+http://818123891930282464.ofds0328.xyz:80/play/lora/123456789/282464.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 7 HD (OP1)
+http://818123891930282465.ofds0328.xyz:80/play/lora/123456789/282465.ts
+#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 8 HD
+http://818123891930282466.ofds0328.xyz:80/play/lora/123456789/282466.ts
+
 #EXTINF:-1 group-title="M+ AGO",M+ LALIGA FHD
 http://818123891930165385.ofds0328.xyz:80/play/lora/123456789/165385.ts
 #EXTINF:-1 group-title="M+ AGO",M+ LALIGA HD
@@ -237,38 +1151,7 @@ http://818123891930321068.ofds0328.xyz:80/play/lora/123456789/321068.ts
 http://818123891930321069.ofds0328.xyz:80/play/lora/123456789/321069.ts
 #EXTINF:-1 group-title="M+ AGO",#VAMOS HD
 http://818123891930321072.ofds0328.xyz:80/play/lora/123456789/321072.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES FHD
-http://818123891930246282.ofds0328.xyz:80/play/lora/123456789/246282.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES HD
-http://818123891930165358.ofds0328.xyz:80/play/lora/123456789/165358.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES FHD HEVC
-http://818123891930262412.ofds0328.xyz:80/play/lora/123456789/262412.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 2 FHD
-http://818123891930165365.ofds0328.xyz:80/play/lora/123456789/165365.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 2 HD
-http://818123891930282469.ofds0328.xyz:80/play/lora/123456789/282469.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 3 HD
-http://818123891930282470.ofds0328.xyz:80/play/lora/123456789/282470.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 3 HD (OP1)
-http://818123891930282471.ofds0328.xyz:80/play/lora/123456789/282471.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 4 HD
-http://818123891930282472.ofds0328.xyz:80/play/lora/123456789/282472.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 4 HD (OP1)
-http://818123891930282473.ofds0328.xyz:80/play/lora/123456789/282473.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 5 HD
-http://818123891930282460.ofds0328.xyz:80/play/lora/123456789/282460.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 5 HD (OP1)
-http://818123891930282461.ofds0328.xyz:80/play/lora/123456789/282461.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 6 HD
-http://818123891930282462.ofds0328.xyz:80/play/lora/123456789/282462.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 6 HD (OP1)
-http://818123891930282463.ofds0328.xyz:80/play/lora/123456789/282463.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 7 HD
-http://818123891930282464.ofds0328.xyz:80/play/lora/123456789/282464.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 7 HD (OP1)
-http://818123891930282465.ofds0328.xyz:80/play/lora/123456789/282465.ts
-#EXTINF:-1 group-title="M+ AGO",LIGA DE CAMPEONES 8 HD
-http://818123891930282466.ofds0328.xyz:80/play/lora/123456789/282466.ts
+
 #EXTINF:-1 group-title="M+ AGO",DAZN FORMULA 1 FHD
 http://818123891930165418.ofds0328.xyz:80/play/lora/123456789/165418.ts
 #EXTINF:-1 group-title="M+ AGO",DAZN FORMULA 1 HD
@@ -562,28 +1445,6 @@ http://818123891930321348.ofds0328.xyz:80/play/lora/123456789/321348.ts
 #EXTINF:-1 group-title="M+ AGO",M+ SERIESMANIA FHD
 http://818123891930321350.ofds0328.xyz:80/play/lora/123456789/321350.ts
 
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA FHD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165385.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA HD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165392.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA SD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165393.ts
-#EXTINF:-1 tvg-id="0" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: LA LIGA FHD (H 265)
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/262413.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA HD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320781.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA FHD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320782.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES:DAZN LALIGA SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES:DAZN LALIGA SD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320792.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 HD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320779.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 FHD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320780.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="(A) DEPORTES",ES: LALIGA TV BAR FHD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/268042.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="(A) DEPORTES",ES: LALIGA TV BAR HD
-http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165407.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="(A) DEPORTES",ES: LIGA DE CAMPEONES FHD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/246282.ts
@@ -623,6 +1484,30 @@ http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/282465.ts
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/282466.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 9 HD" tvg-logo="" group-title="(A) DEPORTES",ES: LIGA DE CAMPEONES 9 HD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/631350.ts
+
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA FHD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165385.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA HD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165392.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: M+ LALIGA SD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165393.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="(A) DEPORTES",ES: LA LIGA FHD (H 265)
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/262413.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA HD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320781.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA FHD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320782.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES:DAZN LALIGA SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="(A) DEPORTES",ES:DAZN LALIGA SD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320792.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 HD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320779.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="(A) DEPORTES",ES: DAZN LALIGA 2 FHD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/320780.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="(A) DEPORTES",ES: LALIGA TV BAR FHD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/268042.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="(A) DEPORTES",ES: LALIGA TV BAR HD
+http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/165407.ts
+
 
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="(A) DEPORTES",ES: #VAMOS HD
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/321072.ts
@@ -1043,608 +1928,6 @@ http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/663338.ts
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/663339.ts
 #EXTINF:-1 tvg-id="" tvg-name="UEFA EVENTO 7" tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="(A) DEPORTES",UEFA EVENTO 7
 http://nicestar.nicsew.xyz:80/play/dreu230707/dreu239895/663340.ts
-
-
-
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M+ LaLiga ES" tvg-logo="https://picon-13398.kxcdn.com/movistarlaligaes.jpg" group-title="(B) M+",M+ LaLiga
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28334
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M+ LaLiga HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarlaligaes.jpg" group-title="(B) M+",M+ LaLiga HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28329
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="M+ LaLiga 2 HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarlaligaes.jpg" group-title="(B) M+",M+ LaLiga 2 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28331
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="M+ LaLiga 3 ES" tvg-logo="https://picon-13398.kxcdn.com/movistarlaligaes.jpg" group-title="(B) M+",M+ LaLiga 3
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28328
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="M+ LaLiga 3 HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarlaligaes.jpg" group-title="(B) M+",M+ LaLiga 3 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28332
-#EXTINF:-1 tvg-id="MLaLiga4.es" tvg-name="M+ LaLiga 4 ES" tvg-logo="https://picon-13398.kxcdn.com/movistarlaligaes.jpg" group-title="(B) M+",M+ LaLiga 4
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28333
-#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="LaLiga TV ES" tvg-logo="https://picon-13398.kxcdn.com/laligatv.jpg" group-title="(B) M+",Dazn LaLiga
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5457
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga ES" tvg-logo="https://picon-13398.kxcdn.com/daznlaligaes.jpg" group-title="(B) M+",Dazn LaLiga
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/118842
-#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M+ Liga de Campeones ES" tvg-logo="https://picon-13398.kxcdn.com/movistarligadecampeoneses.jpg" group-title="(B) M+",M+ Liga de Campeones
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28654
-#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M+ Liga de Campeones FHD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarligadecampeoneses.jpg" group-title="(B) M+",M+ Liga de Campeones FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/23282
-#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="M+ Liga de Campeones 2 ES" tvg-logo="https://picon-13398.kxcdn.com/movistarligadecampeoneses.jpg" group-title="(B) M+",M+ Liga de Campeones 2
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28658
-#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="M+ Liga de Campeones 2 FHD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarligadecampeoneses.jpg" group-title="(B) M+",M+ Liga de Campeones 2 FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28657
-#EXTINF:-1 tvg-id="LigadeCampeones3.es" tvg-name="M+ Liga de Campeones 3 ES" tvg-logo="https://picon-13398.kxcdn.com/movistarligadecampeoneses.jpg" group-title="(B) M+",M+ Liga de Campeones 3
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28659
-#EXTINF:-1 tvg-id="LigadeCampeones4.es" tvg-name="M+ Liga de Campeones 4 ES" tvg-logo="https://picon-13398.kxcdn.com/movistarligadecampeoneses.jpg" group-title="(B) M+",M+ Liga de Campeones 4
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28660
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 HD ES" tvg-logo="https://picon-13398.kxcdn.com/foxsports1hd.jpg" group-title="(B) M+",FOX Sports 1 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28597
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 FHD ES" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="(B) M+",FOX Sports 2 FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28598
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 FHD ES" tvg-logo="https://picon-13398.kxcdn.com/foxsports3.jpg" group-title="(B) M+",FOX Sports 3 FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28599
-#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="M+ Deportes 1 ES" tvg-logo="https://picon-13398.kxcdn.com/movistardeportes1.jpg" group-title="(B) M+",M+ Deportes
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5465
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistardeportes1.jpg" group-title="(B) M+",M+ Deportes HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12723
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes 2 HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistardeportes2.jpg" group-title="(B) M+",M+ Deportes 2 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12700
-#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 3 HD ES" tvg-logo="https://picon-13398.kxcdn.com/mplusdeportes3es.jpg" group-title="(B) M+",M+ Deportes 3 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/121668
-#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 4 ES" tvg-logo="https://picon-13398.kxcdn.com/mplusdeportes4es.jpg" group-title="(B) M+",M+ Deportes 4
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129782
-#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 5 ES" tvg-logo="https://picon-13398.kxcdn.com/mplusdeportes5es.jpg" group-title="(B) M+",M+ Deportes 5
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129783
-#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 6 ES" tvg-logo="https://picon-13398.kxcdn.com/mplusdeportes6es.jpg" group-title="(B) M+",M+ Deportes 6
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129784
-#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 7 ES" tvg-logo="https://picon-13398.kxcdn.com/mplusdeporteses.jpg" group-title="(B) M+",M+ Deportes 7
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129785
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="Dazn F1 ES" tvg-logo="https://picon-13398.kxcdn.com/daznf1es.jpg" group-title="(B) M+",Dazn F1
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5445
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="Dazn F1 HD ES" tvg-logo="https://picon-13398.kxcdn.com/daznf1es.jpg" group-title="(B) M+",Dazn F1 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12701
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1 FHD ES" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="(B) M+",DAZN 1 FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28893
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="DAZN 2 FHD ES" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="(B) M+",DAZN 2 FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/72648
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 ES" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="(B) M+",DAZN 3
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/114457
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 ES" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="(B) M+",DAZN 4
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/87129
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ES" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="(B) M+",DAZN 5
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/87130
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 ES" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="(B) M+",DAZN 6
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/87131
-#EXTINF:-1 tvg-id="LaLigaSmartBank1.es" tvg-name="LaLiga SmartBank HD ES" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="(B) M+",LaLiga SmartBank HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/87128
-#EXTINF:-1 tvg-id="LaLigaSmartBank2.es" tvg-name=" LaLiga SmartBank 1 HD ES" tvg-logo="https://picon-13398.kxcdn.com/laligasmartbankes.svg" group-title="(B) M+", LaLiga SmartBank 1 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/108901
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks TV FHD ES" tvg-logo="https://picon-13398.kxcdn.com/dreamworkstv.jpg" group-title="(B) M+",DreamWorks TV FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/87124
-#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport 3 Cat ES" tvg-logo="https://picon-13398.kxcdn.com/esports3es.jpg" group-title="(B) M+",Esport 3 Cat
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28600
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="M+ Golf ES" tvg-logo="https://picon-13398.kxcdn.com/movistargolf.jpg" group-title="(B) M+",M+ Golf
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5458
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="M+ Golf HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistargolf.jpg" group-title="(B) M+",M+ Golf HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12720
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="Canal 24 Horas ES" tvg-logo="https://picon-13398.kxcdn.com/canal24horas.jpg" group-title="(B) M+",Canal 24 Horas
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9410
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="TVE La 1 HD ES" tvg-logo="https://picon-13398.kxcdn.com/tvela1hd.jpg" group-title="(B) M+",TVE La 1 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12704
-#EXTINF:-1 tvg-id="TV3Catalunya.es" tvg-name="TV3 Catalunya ES" tvg-logo="https://picon-13398.kxcdn.com/tv3cates.jpg" group-title="(B) M+",TV3 Catalunya
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9436
-#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa ES" tvg-logo="https://picon-13398.kxcdn.com/tveinternacional.jpg" group-title="(B) M+",TVE Internacional Europa
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/20212
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3 HD ES" tvg-logo="https://picon-13398.kxcdn.com/antena3hd.jpg" group-title="(B) M+",Antena 3 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12732
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro HD ES" tvg-logo="https://picon-13398.kxcdn.com/cuatrohd.jpg" group-title="(B) M+",Cuatro HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12709
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco HD ES" tvg-logo="https://picon-13398.kxcdn.com/telecincohd.jpg" group-title="(B) M+",Telecinco HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12694
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta HD ES" tvg-logo="https://picon-13398.kxcdn.com/lasextahd.jpg" group-title="(B) M+",La Sexta HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12703
-#EXTINF:-1 tvg-id="Cero.es" tvg-name="Cero HD ES" tvg-logo="https://picon-13398.kxcdn.com/0hd.jpg" group-title="(B) M+",M+ Originales HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12734
-#EXTINF:-1 tvg-id="" tvg-name="M+ Indie HD ES" tvg-logo="https://picon-13398.kxcdn.com/mplusindiees.jpg" group-title="(B) M+",M+ Indie HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129789
-#EXTINF:-1 tvg-id="" tvg-name="M+ Música HD ES" tvg-logo="https://picon-13398.kxcdn.com/mplusmusicaes.jpg" group-title="(B) M+",M+ Música HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129780
-#EXTINF:-1 tvg-id="" tvg-name="M+ Documentales HD ES" tvg-logo="https://picon-13398.kxcdn.com/mplusdocumentaleses.jpg" group-title="(B) M+",M+ Documentales HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129779
-#EXTINF:-1 tvg-id="" tvg-name="M+ Clásicos HD ES" tvg-logo="https://picon-13398.kxcdn.com/mplusclasicoses.jpg" group-title="(B) M+",M+ Clásicos HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129778
-#EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="Paramount Channel ES" tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="(B) M+",Paramount Channel
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9446
-#EXTINF:-1 tvg-id="SundanceTV.es" tvg-name="Sundance TV ES" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="(B) M+",Sundance TV
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/20431
-#EXTINF:-1 tvg-id="SyFy.es" tvg-name="Syfy HD ES" tvg-logo="https://picon-13398.kxcdn.com/syfyhd.jpg" group-title="(B) M+",Syfy HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12696
-#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM HD ES" tvg-logo="https://picon-13398.kxcdn.com/tcmhd.jpg" group-title="(B) M+",TCM HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12695
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="M+ Acción HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistaraccion.jpg" group-title="(B) M+",M+ Acción HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12727
-#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="M+ Cine Ñ ES" tvg-logo="https://picon-13398.kxcdn.com/movistarcineespagnol.jpg" group-title="(B) M+",M+ Cine Ñ
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5411
-#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="M+ Comedia HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarcomedia.jpg" group-title="(B) M+",M+ Comedia HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12726
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="M+ Drama HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistardramaes.jpg" group-title="(B) M+",M+ Drama HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/24736
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="M+ Estrenos HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarestrenos.jpg" group-title="(B) M+",M+ CINE HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12722
-#EXTINF:-1 tvg-id="MyMusic.al" tvg-name="M+ Fest HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarfestes.jpg" group-title="(B) M+",M+ Fest HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12721
-#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="M+ Series 2 HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarseries2es.jpg" group-title="(B) M+",M+ Suspense HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/13664
-#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="M+ Series ES" tvg-logo="https://picon-13398.kxcdn.com/movistarseries.jpg" group-title="(B) M+",M+ Series
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9414
-#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" tvg-name="M+ Series HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarseries.jpg" group-title="(B) M+",M+ Series HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12714
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="M+ Estrenos 2 HD ES" tvg-logo="https://picon-13398.kxcdn.com/movistarestrenos2es.jpg" group-title="(B) M+",M+ Plus+ HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12712
-#EXTINF:-1 tvg-id="" tvg-name="La Resistencia ES" tvg-logo="https://picon-13398.kxcdn.com/laresistenciaes.jpg" group-title="(B) M+",La Resistencia
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/115279
-#EXTINF:-1 tvg-id="Somos.es" tvg-name="Somos FHD ES" tvg-logo="https://picon-13398.kxcdn.com/somostves.jpg" group-title="(B) M+",Somos FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/53150
-#EXTINF:-1 tvg-id="Fox.es" tvg-name="FOX HD ES" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="(B) M+",FOX HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/13661
-#EXTINF:-1 tvg-id="FoxNews.es" tvg-name="FOX News ES" tvg-logo="https://picon-13398.kxcdn.com/foxnews.jpg" group-title="(B) M+",FOX News
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9443
-#EXTINF:-1 tvg-id="TNT.es" tvg-name="TNT HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/New_Warner_TV_Logo.jpg" group-title="(B) M+",WARNER TV HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12693
-#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC HD ES" tvg-logo="https://picon-13398.kxcdn.com/amchd.jpg" group-title="(B) M+",AMC HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12733
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN HD ES" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="(B) M+",AXN HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12731
-#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN White HD ES" tvg-logo="https://picon-13398.kxcdn.com/axnwhitehd.jpg" group-title="(B) M+",AXN White HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12730
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="Calle 13 HD ES" tvg-logo="https://picon-13398.kxcdn.com/calle13hd.jpg" group-title="(B) M+",Calle 13 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12728
-#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="Canal Hollywood HD ES" tvg-logo="https://picon-13398.kxcdn.com/canalhollywoodhd.jpg" group-title="(B) M+",Canal Hollywood HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12705
-#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="Comedy Central HD ES" tvg-logo="https://picon-13398.kxcdn.com/comedycentralhd.jpg" group-title="(B) M+",Comedy Central HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12711
-#EXTINF:-1 tvg-id="Dark.es" tvg-name="Dark ES" tvg-logo="https://picon-13398.kxcdn.com/darkes.jpg" group-title="(B) M+",Dark
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129781
-#EXTINF:-1 tvg-id="BeMad.es" tvg-name="Be Mad FHD ES" tvg-logo="https://picon-13398.kxcdn.com/bemades.jpg" group-title="(B) M+",Be Mad FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/22973
-#EXTINF:-1 tvg-id="FactoriaFiccion.es" tvg-name="Factoria de Ficción ES" tvg-logo="https://picon-13398.kxcdn.com/factoriadeficciones.jpg" group-title="(B) M+",Factoria de Ficción
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/129786
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity ES" tvg-logo="https://picon-13398.kxcdn.com/divinity.jpg" group-title="(B) M+",Divinity
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9442
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova ES" tvg-logo="https://picon-13398.kxcdn.com/nova.jpg" group-title="(B) M+",Nova
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9422
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox ES" tvg-logo="https://picon-13398.kxcdn.com/neox.jpg" group-title="(B) M+",Neox
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9421
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy ES" tvg-logo="https://picon-13398.kxcdn.com/energy.jpg" group-title="(B) M+",Energy
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9440
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega ES" tvg-logo="https://picon-13398.kxcdn.com/megahdes.jpg" group-title="(B) M+",Mega
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/16262
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="Aragón TV ES" tvg-logo="https://picon-13398.kxcdn.com/aragontv.jpg" group-title="(B) M+",Aragón TV
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9409
-#EXTINF:-1 tvg-id="Blaze.es" tvg-name="Blaze España ES" tvg-logo="https://picon-13398.kxcdn.com/blazetvuk.jpg" group-title="(B) M+",Blaze España
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/21523
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="Canal Cocina HD ES" tvg-logo="https://picon-13398.kxcdn.com/canalcocina.jpg" group-title="(B) M+",Canal Cocina HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5456
-#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="Decasa ES" tvg-logo="https://picon-13398.kxcdn.com/canaldecasa.jpg" group-title="(B) M+",Decasa
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5460
-#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucia ES" tvg-logo="https://picon-13398.kxcdn.com/canalsurandalucia.jpg" group-title="(B) M+",Canal Sur Andalucia
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5467
-#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="Caza y Pesca HD ES" tvg-logo="https://picon-13398.kxcdn.com/cazaypesca.jpg" group-title="(B) M+",Caza y Pesca HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/13659
-#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="Cosmopolitan TV HD ES" tvg-logo="https://picon-13398.kxcdn.com/cosmohd.jpg" group-title="(B) M+",Cosmopolitan TV HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12710
-#EXTINF:-1 tvg-id="CrimenInvestigacion.es" tvg-name="Crimen + Investigación ES" tvg-logo="https://picon-13398.kxcdn.com/crimenplusinves.jpg" group-title="(B) M+",AMC Crime
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9433
-#EXTINF:-1 tvg-id="Gol.es" tvg-name="Gol ES" tvg-logo="https://picon-13398.kxcdn.com/gol.jpg" group-title="(B) M+",Gol
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9416
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="Iberalia TV ES" tvg-logo="https://picon-13398.kxcdn.com/iberalia.jpg" group-title="(B) M+",Iberalia TV
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9408
-#EXTINF:-1 tvg-id="MTV.es" tvg-name="MTV ES" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="(B) M+",MTV
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9448
-#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="Mezzo Live HD ES" tvg-logo="https://picon-13398.kxcdn.com/mezzolivehd.jpg" group-title="(B) M+",Mezzo Live HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12702
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet ES" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="(B) M+",Animal Planet
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/11606
-#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="Discovery Channel ES" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="(B) M+",Discovery Channel
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5448
-#EXTINF:-1 tvg-id="Historia.es" tvg-name="Historia ES" tvg-logo="https://picon-13398.kxcdn.com/historia.jpg" group-title="(B) M+",Historia
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9425
-#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic HD ES" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="(B) M+",National Geographic HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9441
-#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="National Geographic Wild HD ES" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="(B) M+",National Geographic Wild HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12698
-#EXTINF:-1 tvg-id="Dmax.es" tvg-name="DMAX ES" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="(B) M+",DMAX
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/28435
-#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="Baby TV ES" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="(B) M+",Baby TV
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9427
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="Clan TVE ES" tvg-logo="https://picon-13398.kxcdn.com/clantve.jpg" group-title="(B) M+",Clan TVE
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9428
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing ES" tvg-logo="https://picon-13398.kxcdn.com/boing.jpg" group-title="(B) M+",Boing
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9429
-#EXTINF:-1 tvg-id="NickJr.es" tvg-name="Nick Jr. ES" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="(B) M+",Nick Jr.
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/14247
-#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="Disney Junior ES" tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="(B) M+",Disney Junior
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9431
-#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="Canal Panda ES" tvg-logo="https://picon-13398.kxcdn.com/canalpanda.jpg" group-title="(B) M+",Canal Panda
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9418
-#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="Disney Channel HD ES" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="(B) M+",Disney Channel HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12708
-#EXTINF:-1 tvg-id="DisneyXD.es" tvg-name="Disney XD ES" tvg-logo="https://picon-13398.kxcdn.com/disneyxd.jpg" group-title="(B) M+",Disney XD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9430
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon HD ES" tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="(B) M+",Nickelodeon HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12697
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="Odisea ES" tvg-logo="https://picon-13398.kxcdn.com/odisseia.jpg" group-title="(B) M+",Odisea
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9417
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV ES" tvg-logo="https://picon-13398.kxcdn.com/realmadridtv.jpg" group-title="(B) M+",Real Madrid TV
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5420
-#EXTINF:-1 tvg-id="Alquiler.es" tvg-name="M+ Alquiler 1 HD ES" tvg-logo="https://picon-13398.kxcdn.com/taquilla.jpg" group-title="(B) M+",M+ Alquiler 1 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/15615
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="M+ Alquiler 2 HD ES" tvg-logo="https://picon-13398.kxcdn.com/taquilla.jpg" group-title="(B) M+",M+ Alquiler 2 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/15616
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="M+ Alquiler 3 HD ES" tvg-logo="https://picon-13398.kxcdn.com/taquilla.jpg" group-title="(B) M+",M+ Alquiler 3 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/15617
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="M+ Alquiler 4 HD ES" tvg-logo="https://picon-13398.kxcdn.com/taquilla.jpg" group-title="(B) M+",M+ Alquiler 4 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/15618
-#EXTINF:-1 tvg-id="Alquiler5.es" tvg-name="M+ Alquiler 5 HD ES" tvg-logo="https://picon-13398.kxcdn.com/taquilla.jpg" group-title="(B) M+",M+ Alquiler 5 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/15619
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="M+ Alquiler 6 HD ES" tvg-logo="https://picon-13398.kxcdn.com/taquilla.jpg" group-title="(B) M+",M+ Alquiler 6 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/15620
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="Vamos ES" tvg-logo="https://picon-13398.kxcdn.com/vamoses.jpg" group-title="(B) M+",Vamos
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9419
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="Vamos FHD ES" tvg-logo="https://picon-13398.kxcdn.com/vamoses.jpg" group-title="(B) M+",Vamos FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12724
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte ES" tvg-logo="https://picon-13398.kxcdn.com/teledeporte.jpg" group-title="(B) M+",Teledeporte
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5414
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte FHD ES" tvg-logo="https://picon-13398.kxcdn.com/teledeporte.jpg" group-title="(B) M+",Teledeporte FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/23441
-#EXTINF:-1 tvg-id="TeleMadrid.es" tvg-name="TeleMadrid FHD ES" tvg-logo="https://picon-13398.kxcdn.com/telemadrides.jpg" group-title="(B) M+",TeleMadrid FHD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/26532
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="Toros TV ES" tvg-logo="https://picon-13398.kxcdn.com/torostv.jpg" group-title="(B) M+",Toros TV HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/5437
-#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="Galicia TV Europa ES" tvg-logo="https://picon-13398.kxcdn.com/galiciatves.jpg" group-title="(B) M+",Galicia TV Europa
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/9473
-#EXTINF:-1 tvg-id="CNN.es" tvg-name="CNN en Español ES" tvg-logo="https://picon-13398.kxcdn.com/cnn.jpg" group-title="(B) M+",CNN en Español
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/22977
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="Eurosport 1 HD ES" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="(B) M+",Eurosport 1 HD
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/12707
-#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="Eurosport 2 ES" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg" group-title="(B) M+",Eurosport 2
-http://clientportal.link:80/zqqc8SCl2lwY197/pd2FsM644/16844
-
-
-
-
-
-#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA 1 Solo Eventos" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LALIGA 1 Solo Eventos
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/674
-#EXTINF:-1 tvg-name="ES: MOVISTAR  LA LIGA" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  LA LIGA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/667
-#EXTINF:-1 tvg-name="ES: MOVISTAR LA LIGA 2" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LA LIGA 2
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/675
-#EXTINF:-1 tvg-name="ES: MOVISTAR  LA LIGA 2 FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  LA LIGA 2 FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/676
-#EXTINF:-1 tvg-name="ES: LIGATV BAR FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: LIGATV BAR FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/698
-#EXTINF:-1 tvg-name="ES: DAZN MOVISTAR 1" group-title="★•●★ ESPANHA ★•●★ ",ES: DAZN MOVISTAR 1
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/712
-#EXTINF:-1 tvg-name="ES: DAZN MOVISTAR HD 1" group-title="★•●★ ESPANHA ★•●★ ",ES: DAZN MOVISTAR HD 1
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/713
-#EXTINF:-1 tvg-name="ES: DAZN MOVISTAR 2" group-title="★•●★ ESPANHA ★•●★ ",ES: DAZN MOVISTAR 2
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/715
-#EXTINF:-1 tvg-name="ES: DAZN MOVISTAR HD 2" group-title="★•●★ ESPANHA ★•●★ ",ES: DAZN MOVISTAR HD 2
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/716
-#EXTINF:-1 tvg-name="ES: DAZN MOVISTAR 3 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: DAZN MOVISTAR 3 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/718
-
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA CAMPEONES" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA CAMPEONES
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/681
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA CAMPEONES HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA CAMPEONES HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/682
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA CAMPEONES FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA CAMPEONES FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/683
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA CAMPEONES 1 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA CAMPEONES 1 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/686
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 1 SD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA DE CAMPEONES 1 SD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/687
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA DE CAMPEONES HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA DE CAMPEONES HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/688
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA CAMPEONES FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA CAMPEONES FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/689
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA CAMPEONES FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA CAMPEONES FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/690
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 2 SD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA DE CAMPEONES 2 SD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/691
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 2 FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA DE CAMPEONES 2 FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/692
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 3" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA DE CAMPEONES 3
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/693
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 4" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA DE CAMPEONES 4
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/694
-#EXTINF:-1 tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 5" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR LIGA DE CAMPEONES 5
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/695
-
-#EXTINF:-1 tvg-name="ES: ▰▰ ESPANHA ▰▰" group-title="★•●★ ESPANHA ★•●★ ",ES: ▰▰ ESPANHA ▰▰
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/1037
-#EXTINF:-1 tvg-name="ES: LA 1" group-title="★•●★ ESPANHA ★•●★ ",ES: LA 1
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/515
-#EXTINF:-1 tvg-name="ES: LA 1 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: LA 1 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/516
-#EXTINF:-1 tvg-name="ES:  Canal Sur Andalucía HD (720P)" group-title="★•●★ ESPANHA ★•●★ ",ES:  Canal Sur Andalucía HD (720P)
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/2329
-#EXTINF:-1 tvg-name="ES:  TELEMADRID Int. HD" group-title="★•●★ ESPANHA ★•●★ ",ES:  TELEMADRID Int. HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/2330
-#EXTINF:-1 tvg-name="ES: TVE INTERNACIONAL" group-title="★•●★ ESPANHA ★•●★ ",ES: TVE INTERNACIONAL
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/518
-#EXTINF:-1 tvg-name="ES: LA 2 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: LA 2 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/519
-#EXTINF:-1 tvg-name="ES: ANTENA 3" group-title="★•●★ ESPANHA ★•●★ ",ES: ANTENA 3
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/520
-#EXTINF:-1 tvg-name="ES: ANTENA 3 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: ANTENA 3 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/521
-#EXTINF:-1 tvg-name="ES: CUATRO" group-title="★•●★ ESPANHA ★•●★ ",ES: CUATRO
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/523
-#EXTINF:-1 tvg-name="ES: CUATRO HD" group-title="★•●★ ESPANHA ★•●★ ",ES: CUATRO HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/524
-#EXTINF:-1 tvg-name="ES: TELECINCO" group-title="★•●★ ESPANHA ★•●★ ",ES: TELECINCO
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/526
-#EXTINF:-1 tvg-name="ES: TELECINCO HD" group-title="★•●★ ESPANHA ★•●★ ",ES: TELECINCO HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/527
-#EXTINF:-1 tvg-name="ES: LA SEXTA" group-title="★•●★ ESPANHA ★•●★ ",ES: LA SEXTA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/529
-#EXTINF:-1 tvg-name="ES: LA SEXTA HD" group-title="★•●★ ESPANHA ★•●★ ",ES: LA SEXTA HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/530
-#EXTINF:-1 tvg-name="ES: TV GALICIA HD" group-title="★•●★ ESPANHA ★•●★ ",ES: TV GALICIA HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/533
-#EXTINF:-1 tvg-name="ES: TV GALICIA" group-title="★•●★ ESPANHA ★•●★ ",ES: TV GALICIA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/534
-#EXTINF:-1 tvg-name="ES: ARAGON TV HD" group-title="★•●★ ESPANHA ★•●★ ",ES: ARAGON TV HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/535
-#EXTINF:-1 tvg-name="ES: A3SERIES" group-title="★•●★ ESPANHA ★•●★ ",ES: A3SERIES
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/537
-#EXTINF:-1 tvg-name="ES: A3SERIES HD" group-title="★•●★ ESPANHA ★•●★ ",ES: A3SERIES HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/538
-#EXTINF:-1 tvg-name="ES: NEOX" group-title="★•●★ ESPANHA ★•●★ ",ES: NEOX
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/541
-#EXTINF:-1 tvg-name="ES: NOVA" group-title="★•●★ ESPANHA ★•●★ ",ES: NOVA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/543
-#EXTINF:-1 tvg-name="ES: NOVA FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: NOVA FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/544
-#EXTINF:-1 tvg-name="ES: BEMAD TV" group-title="★•●★ ESPANHA ★•●★ ",ES: BEMAD TV
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/545
-#EXTINF:-1 tvg-name="ES: BEMAD TV HD" group-title="★•●★ ESPANHA ★•●★ ",ES: BEMAD TV HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/546
-#EXTINF:-1 tvg-name="ES: MEGA" group-title="★•●★ ESPANHA ★•●★ ",ES: MEGA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/548
-#EXTINF:-1 tvg-name="ES: MEGA HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MEGA HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/549
-#EXTINF:-1 tvg-name="ES: ENERGY" group-title="★•●★ ESPANHA ★•●★ ",ES: ENERGY
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/551
-#EXTINF:-1 tvg-name="ES: DKISS" group-title="★•●★ ESPANHA ★•●★ ",ES: DKISS
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/552
-#EXTINF:-1 tvg-name="ES: DIVINITY" group-title="★•●★ ESPANHA ★•●★ ",ES: DIVINITY
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/553
-#EXTINF:-1 tvg-name="ES: TRECE" group-title="★•●★ ESPANHA ★•●★ ",ES: TRECE
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/554
-#EXTINF:-1 tvg-name="ES: TEN" group-title="★•●★ ESPANHA ★•●★ ",ES: TEN
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/555
-#EXTINF:-1 tvg-name="ES: 24H" group-title="★•●★ ESPANHA ★•●★ ",ES: 24H
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/556
-#EXTINF:-1 tvg-name="ES: BE MAD HD" group-title="★•●★ ESPANHA ★•●★ ",ES: BE MAD HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/557
-#EXTINF:-1 tvg-name="ES: FDF" group-title="★•●★ ESPANHA ★•●★ ",ES: FDF
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/558
-#EXTINF:-1 tvg-name="ES: ▰▰ MOVIESTAR ▰▰" group-title="★•●★ ESPANHA ★•●★ ",ES: ▰▰ MOVIESTAR ▰▰
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/559
-#EXTINF:-1 tvg-name="ES: GOL PLAY" group-title="★•●★ ESPANHA ★•●★ ",ES: GOL PLAY
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/2328
-#EXTINF:-1 tvg-name="ES: MOVISTAR VAMOS" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR VAMOS
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/649
-#EXTINF:-1 tvg-name="ES: MOVISTAR VAMOS HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR VAMOS HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/650
-#EXTINF:-1 tvg-name="ES: MOVISTAR  VAMOS FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  VAMOS FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/651
-#EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTES" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DEPORTES
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/652
-#EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTES HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DEPORTES HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/653
-#EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTES FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DEPORTES FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/654
-#EXTINF:-1 tvg-name="ES: MOVISTAR  DEPORTES 1" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  DEPORTES 1
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/655
-#EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTES 1 FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DEPORTES 1 FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/656
-#EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTES 2" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DEPORTES 2
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/658
-#EXTINF:-1 tvg-name="ES: M+ LALIGA 3 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: M+ LALIGA 3 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/659
-#EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTES 4" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DEPORTES 4
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/660
-#EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTES 5" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DEPORTES 5
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/661
-#EXTINF:-1 tvg-name="ES: 0" group-title="★•●★ ESPANHA ★•●★ ",ES: 0
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/560
-#EXTINF:-1 tvg-name="ES:  0 HD" group-title="★•●★ ESPANHA ★•●★ ",ES:  0 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/561
-#EXTINF:-1 tvg-name="ES: ▰▰ CINE ▰▰" group-title="★•●★ ESPANHA ★•●★ ",ES: ▰▰ CINE ▰▰
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/563
-#EXTINF:-1 tvg-name="ES: MOVISTAR  ESTRENOS" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  ESTRENOS
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/564
-#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR ESTRENOS HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/565
-#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS 2 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR ESTRENOS 2 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/567
-#EXTINF:-1 tvg-name="ES: MOVISTAR FEST FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR FEST FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/569
-#EXTINF:-1 tvg-name="ES: MOVISTAR ACCION" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR ACCION
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/570
-#EXTINF:-1 tvg-name="ES: MOVISTAR ACCION HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR ACCION HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/571
-#EXTINF:-1 tvg-name="ES: MOVISTAR COMEDIA HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR COMEDIA HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/575
-#EXTINF:-1 tvg-name="ES: COMEDY CENTRAL" group-title="★•●★ ESPANHA ★•●★ ",ES: COMEDY CENTRAL
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/577
-#EXTINF:-1 tvg-name="ES: COMEDY CENTRAL HD" group-title="★•●★ ESPANHA ★•●★ ",ES: COMEDY CENTRAL HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/578
-#EXTINF:-1 tvg-name="ES: MOVISTAR  CINE ESPANOL" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  CINE ESPANOL
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/580
-#EXTINF:-1 tvg-name="ES: MOVISTAR DISNEY +" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DISNEY +
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/582
-#EXTINF:-1 tvg-name="ES: DISNEY" group-title="★•●★ ESPANHA ★•●★ ",ES: DISNEY
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/583
-#EXTINF:-1 tvg-name="ES: DISNEY HD" group-title="★•●★ ESPANHA ★•●★ ",ES: DISNEY HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/584
-#EXTINF:-1 tvg-name="ES: DISNEY FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: DISNEY FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/585
-#EXTINF:-1 tvg-name="ES: MOVISTAR DRAMA" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DRAMA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/586
-#EXTINF:-1 tvg-name="ES: MOVISTAR DRAMA HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR DRAMA HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/587
-#EXTINF:-1 tvg-name="ES: COSMO" group-title="★•●★ ESPANHA ★•●★ ",ES: COSMO
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/589
-#EXTINF:-1 tvg-name="ES: COSMOS HD" group-title="★•●★ ESPANHA ★•●★ ",ES: COSMOS HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/590
-#EXTINF:-1 tvg-name="ES: SYFY" group-title="★•●★ ESPANHA ★•●★ ",ES: SYFY
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/593
-#EXTINF:-1 tvg-name="ES: SYFY HD" group-title="★•●★ ESPANHA ★•●★ ",ES: SYFY HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/594
-#EXTINF:-1 tvg-name="ES: AMC" group-title="★•●★ ESPANHA ★•●★ ",ES: AMC
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/595
-#EXTINF:-1 tvg-name="ES: AMC FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: AMC FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/596
-#EXTINF:-1 tvg-name="ES: DARK" group-title="★•●★ ESPANHA ★•●★ ",ES: DARK
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/597
-#EXTINF:-1 tvg-name="ES: SOMOS" group-title="★•●★ ESPANHA ★•●★ ",ES: SOMOS
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/598
-#EXTINF:-1 tvg-name="ES: XTRM HD" group-title="★•●★ ESPANHA ★•●★ ",ES: XTRM HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/599
-#EXTINF:-1 tvg-name="ES: XTRM FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: XTRM FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/600
-#EXTINF:-1 tvg-name="ES: SUNDANCE TV" group-title="★•●★ ESPANHA ★•●★ ",ES: SUNDANCE TV
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/601
-#EXTINF:-1 tvg-name="ES: SUNDANCE HD" group-title="★•●★ ESPANHA ★•●★ ",ES: SUNDANCE HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/602
-#EXTINF:-1 tvg-name="ES: SUNDANCE FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: SUNDANCE FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/603
-#EXTINF:-1 tvg-name="ES: ▰▰ ALQUILER ▰▰" group-title="★•●★ ESPANHA ★•●★ ",ES: ▰▰ ALQUILER ▰▰
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/604
-#EXTINF:-1 tvg-name="ES: ALQUILER 1" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 1
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/605
-#EXTINF:-1 tvg-name="ES: ALQUILER 2" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 2
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/606
-#EXTINF:-1 tvg-name="ES: ALQUILER 3" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 3
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/607
-#EXTINF:-1 tvg-name="ES: ALQUILER 4" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 4
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/608
-#EXTINF:-1 tvg-name="ES: ALQUILER 5" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 5
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/609
-#EXTINF:-1 tvg-name="ES: ALQUILER 6" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 6
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/610
-#EXTINF:-1 tvg-name="ES: ALQUILER 7" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 7
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/611
-#EXTINF:-1 tvg-name="ES: ALQUILER 8" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 8
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/612
-#EXTINF:-1 tvg-name="ES: ALQUILER 9" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 9
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/613
-#EXTINF:-1 tvg-name="ES: ALQUILER 10" group-title="★•●★ ESPANHA ★•●★ ",ES: ALQUILER 10
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/614
-#EXTINF:-1 tvg-name="ES: ▰▰ SERIES Y ENTRETENIMIENTO ▰▰" group-title="★•●★ ESPANHA ★•●★ ",ES: ▰▰ SERIES Y ENTRETENIMIENTO ▰▰
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/617
-#EXTINF:-1 tvg-name="ES: MOVISTAR  SERIESMANIA" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  SERIESMANIA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/618
-#EXTINF:-1 tvg-name="ES: MOVISTAR SERIESMANIA HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR SERIESMANIA HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/619
-#EXTINF:-1 tvg-name="ES: MOVISTAR  SERIESMANIA FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  SERIESMANIA FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/620
-#EXTINF:-1 tvg-name="ES: MOVISTAR SERIES HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR SERIES HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/622
-#EXTINF:-1 tvg-name="ES: MOVISTAR  SERIES FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  SERIES FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/623
-#EXTINF:-1 tvg-name="ES: AXN White" group-title="★•●★ ESPANHA ★•●★ ",ES: AXN White
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/624
-#EXTINF:-1 tvg-name="ES: AXN WHITE HD" group-title="★•●★ ESPANHA ★•●★ ",ES: AXN WHITE HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/625
-#EXTINF:-1 tvg-name="ES: AXN WHITE FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: AXN WHITE FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/626
-#EXTINF:-1 tvg-name="ES: AXN" group-title="★•●★ ESPANHA ★•●★ ",ES: AXN
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/627
-#EXTINF:-1 tvg-name="ES: AXN HD" group-title="★•●★ ESPANHA ★•●★ ",ES: AXN HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/628
-#EXTINF:-1 tvg-name="ES: AXN FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: AXN FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/629
-#EXTINF:-1 tvg-name="ES: CALLE 13" group-title="★•●★ ESPANHA ★•●★ ",ES: CALLE 13
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/630
-#EXTINF:-1 tvg-name="ES: CALLE 13 FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: CALLE 13 FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/632
-#EXTINF:-1 tvg-name="ES: TNT" group-title="★•●★ ESPANHA ★•●★ ",ES: TNT
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/633
-#EXTINF:-1 tvg-name="ES: TNT HD" group-title="★•●★ ESPANHA ★•●★ ",ES: TNT HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/634
-#EXTINF:-1 tvg-name="ES: TNT FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: TNT FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/635
-#EXTINF:-1 tvg-name="ES: TCM" group-title="★•●★ ESPANHA ★•●★ ",ES: TCM
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/636
-#EXTINF:-1 tvg-name="ES: TCM HD" group-title="★•●★ ESPANHA ★•●★ ",ES: TCM HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/637
-#EXTINF:-1 tvg-name="ES: TCM FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: TCM FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/638
-#EXTINF:-1 tvg-name="ES: FOX" group-title="★•●★ ESPANHA ★•●★ ",ES: FOX
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/639
-#EXTINF:-1 tvg-name="ES: FOX HD" group-title="★•●★ ESPANHA ★•●★ ",ES: FOX HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/640
-#EXTINF:-1 tvg-name="ES: FOX FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: FOX FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/641
-#EXTINF:-1 tvg-name="ES: FOX LIFE" group-title="★•●★ ESPANHA ★•●★ ",ES: FOX LIFE
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/642
-#EXTINF:-1 tvg-name="ES: FOX LIFE HD" group-title="★•●★ ESPANHA ★•●★ ",ES: FOX LIFE HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/643
-#EXTINF:-1 tvg-name="ES: HOLLYWOOD" group-title="★•●★ ESPANHA ★•●★ ",ES: HOLLYWOOD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/645
-#EXTINF:-1 tvg-name="ES: HOLLYWOOD HD" group-title="★•●★ ESPANHA ★•●★ ",ES: HOLLYWOOD HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/646
-#EXTINF:-1 tvg-name="ES: HOLLYWOOD FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: HOLLYWOOD FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/647
-#EXTINF:-1 tvg-name="ES: ▰▰ DEPORTES ▰▰" group-title="★•●★ ESPANHA ★•●★ ",ES: ▰▰ DEPORTES ▰▰
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/648
-#EXTINF:-1 tvg-name="ES: EUROSPORT" group-title="★•●★ ESPANHA ★•●★ ",ES: EUROSPORT
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/662
-#EXTINF:-1 tvg-name="ES: EUROSPORT HD" group-title="★•●★ ESPANHA ★•●★ ",ES: EUROSPORT HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/663
-#EXTINF:-1 tvg-name="ES: EUROSPORT FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: EUROSPORT FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/664
-#EXTINF:-1 tvg-name="ES: EUROSPORT 2" group-title="★•●★ ESPANHA ★•●★ ",ES: EUROSPORT 2
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/665
-#EXTINF:-1 tvg-name="ES: EUROSPORT 2 FHD" group-title="★•●★ ESPANHA ★•●★ ",ES: EUROSPORT 2 FHD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/666
-#EXTINF:-1 tvg-name="ES: MOVISTAR  LA LIGA 3" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  LA LIGA 3
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/677
-#EXTINF:-1 tvg-name="ES: MOVISTAR  LA LIGA 4" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  LA LIGA 4
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/678
-#EXTINF:-1 tvg-name="ES: MOVISTAR  LA LIGA 5" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  LA LIGA 5
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/679
-#EXTINF:-1 tvg-name="ES: LA LIGA SMARTBANK HD" group-title="★•●★ ESPANHA ★•●★ ",ES: LA LIGA SMARTBANK HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/697
-#EXTINF:-1 tvg-name="ES: GOL TV" group-title="★•●★ ESPANHA ★•●★ ",ES: GOL TV
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/699
-#EXTINF:-1 tvg-name="ES: GOL TV HD" group-title="★•●★ ESPANHA ★•●★ ",ES: GOL TV HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/700
-#EXTINF:-1 tvg-name="ES: TELEDEPORTES" group-title="★•●★ ESPANHA ★•●★ ",ES: TELEDEPORTES
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/702
-#EXTINF:-1 tvg-name="ES: BARCA TV" group-title="★•●★ ESPANHA ★•●★ ",ES: BARCA TV
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/703
-#EXTINF:-1 tvg-name="ES: REAL MADRID TV" group-title="★•●★ ESPANHA ★•●★ ",ES: REAL MADRID TV
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/705
-#EXTINF:-1 tvg-name="ES: MOVISTAR  F1" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  F1
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/706
-#EXTINF:-1 tvg-name="ES: MOVISTAR F1 HD" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR F1 HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/707
-#EXTINF:-1 tvg-name="ES: MOVISTAR  GOLF" group-title="★•●★ ESPANHA ★•●★ ",ES: MOVISTAR  GOLF
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/709
-
-#EXTINF:-1 tvg-name="ES: CANAL COCINA" group-title="★•●★ ESPANHA ★•●★ ",ES: CANAL COCINA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/722
-#EXTINF:-1 tvg-name="ES: CANAL COCINA HD" group-title="★•●★ ESPANHA ★•●★ ",ES: CANAL COCINA HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/723
-#EXTINF:-1 tvg-name="ES: CANAL DECASA" group-title="★•●★ ESPANHA ★•●★ ",ES: CANAL DECASA
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/725
-#EXTINF:-1 tvg-name="ES: CANAL DECASA HD" group-title="★•●★ ESPANHA ★•●★ ",ES: CANAL DECASA HD
-http://iptvportuga.com:25461/Ritalopes/XufhKkDGvmGj/726
-
 
 
 
