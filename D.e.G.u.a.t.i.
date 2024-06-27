@@ -1,7 +1,7 @@
 {
     "name": "D.e.G.u.a.t.i.",
     "author": "TodoEstaConectado",
-    "url": "https://raw.githubusercontent.com/Nuhuntr/storm/main/D.e.G.u.a.t.i.",
+    "url": "https://goo.gl/94kHYT",
 	"groups": 
 	[
 		{
@@ -15,238 +15,130 @@
 				"stations": 
 					[
 						{
-						"name": "Dazn La Liga (FHD)",
+						"name": "DAZN 1 (ACE-FHD)",
+						"image": "https://www.socialcreator.com/srv/imgs/html/154415/photo_2021-10-14_12-33-18.jpg",
+						"url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639",
+						"isHost": "true"
+						},						
+						{
+						"name": "DAZN 1 (ACE-SD)",
+						"image": "https://www.socialcreator.com/srv/imgs/html/154415/photo_2021-10-14_12-33-18.jpg",
+						"url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f",
+						"isHost": "true"
+						},						
+						{
+						"name": "DAZN 2 (ACE-FHD)",
+						"image": "https://www.socialcreator.com/srv/imgs/html/154415/25%20DAZN%202.png",
+						"url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+						"isHost": "true"
+						},
+						{
+						"name": "DAZN 2 (ACE-HD)",
+						"image": "https://www.socialcreator.com/srv/imgs/html/154415/25%20DAZN%202.png",
+						"url": "acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf",
+						"isHost": "true"
+						},
+						{
+						"name": "DAZN 3 (ACE-FHD)",
+						"image": "https://www.socialcreator.com/srv/imgs/html/154415/26%20DAZN%203.png",
+						"url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97",
+						"isHost": "true"
+						},
+						{
+						"name": "DAZN 4 (ACE-FHD)",
+						"image": "https://www.socialcreator.com/srv/imgs/html/154415/26%20DAZN%203.png",
+						"url": "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd",
+						"isHost": "true"
+						},
+						{
+						"name": "LA 1 (ACE-FHD)",
+						"image": "",
+						"url" : "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+						"isHost" : "true"
+						},
+						{
+						"name": "LIGA HYIPERMOTION (ACE-HD)",
+						"image": "",
+						"url" : "acestream://424c89c7c0f251051269b578f40d13d192cf2c2d",
+						"isHost" : "true"
+						},
+						{
+						"name": "M+ LALIGA (ACE-FHD)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
+						"url" : "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+						"isHost" : "true"
+						},
+						{
+						"name": "M+ LaLiga Tv [Multiaudio] (ACE-FHD)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
+						"url" : "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
+						"isHost" : "true"
+						},
+						{
+						"name": "M+ LaLiga Tv (ACE-HD)",
+						pimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
+						"url" : "acestream://f031f5728b32f6089dda28edebe990cf198108d8",
+						"isHost" : "true"
+						},
+						{
+						"name": "DAZN LALALIGA (ACE-FHD)",
 						"image": "https://bahiadeportes.com/img/daznlaliga.png",
-						"url" : "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061",
-						"isHost" : "true"
-						},
-						{
-						"name": "Dazn La Liga (FHD)",
-						pimage": "https://bahiadeportes.com/img/daznlaliga.png",
-						"url" : "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff",
-						"isHost" : "true"
-						},
-						{
-						"name": "Dazn La Liga (HD)",
-						pimage": "https://bahiadeportes.com/img/daznlaliga.png",
-						"url" : "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6",
-						"isHost" : "true"
-						},
-						{
-						"name": "M+LaLiga TV (multiaudio FHD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
-						"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862",
+						"url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
 						"isHost": "true"
 						},
 						{
-						"name": "M+LaLiga TV (multiaudio FHD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
-						"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb",
-						"isHost": "true"
+						"name": "DAZN LALIGA 2 (ACE-FHD)",
+						"image": "https://bahiadeportes.com/img/daznlaliga.png",
+						"url" : "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+						"isHost" : "true"
 						},
 						{
-						"name": "M+LaLiga TV (FHD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/320px-Movistar_LaLiga.svg.png",
-						"url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664",
-						"isHost": "true"
-						},
-						{
-						"name": "M+LaLiga TV 2 (HD)",
+						"name": "M+LaLiga TV 2 (ACE-HD)",
 						"image": "https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_2.png",
 						"url": "acestream://4229d640fecf3c0897674241bcf851b67f4310e3",
 						"isHost": "true"
 						},
 						{
-						"name": "M+Liga Smartbank (FHD)",
+						"name": "M. Liga de Campeones [1080][Multiaudio] (ACE-FHD)",
 						"image": "",
-						"url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247",
+						"url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c",
 						"isHost": "true"
-						},
+						},	
 						{
-						"name": "M+Liga Smartbank (FHD)",
+						"name": "M. Liga de Campeones [Multiaudio] (ACE-FHD)",
 						"image": "",
-						"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c",
+						"url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
 						"isHost": "true"
-						},						
+						},							
 						{
-						"name": "#Vamos (FHD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/13%20VAAMOS.jpg",
-						"url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775",
+						"name": "M. Liga de Campeones (ACE-HD)",
+						"image": "",
+						"url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c",
 						"isHost": "true"
-						},
+						},								
 						{
-						"name": "#Vamos (HD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/13%20VAAMOS.jpg",
-						"url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f",
-						"isHost": "true"
-						},	
-						{
-						"name": "Canal Barça (HD)",
-						"image": "https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",
-						"url": "acestream://a7968ae40764bf3d4498c72328fcbaecbe0a3450",
-						"isHost": "true"
-						},
-						{
-						"name": "Liga de Campeones (multiaudio FHD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-						"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b",
-						"isHost": "true"
-						},
-						{
-						"name": "Liga de Campeones (FHD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-						"url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc",
-						"isHost": "true"
-						},
-						{
-						"name": "Liga de Campeones (HD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-						"url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47",
-						"isHost": "true"
-						},
-						{
-						"name": "Liga de Campeones 2 (FHD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-						"url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6",
-						"isHost": "true"
-						},
-						{
-						"name": "Liga de Campeones 2 (FHD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-						"url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7",
-						"isHost": "true"
-						},
-						{
-						"name": "Liga de Campeones 2 (HD)",
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-						"url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c",
-						"isHost": "true"
-						},
-						{
-						"name": "DAZN 1 (FHD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/photo_2021-10-14_12-33-18.jpg",
-						"url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660",
-						"isHost": "true"
-						},
-						{
-						"name": "DAZN 2 (FHD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/25%20DAZN%202.png",
-						"url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e",
-						"isHost": "true"
-						},
-						{
-						"name": "DAZN 2 (HD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/25%20DAZN%202.png",
-						"url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85",
-						"isHost": "true"
-						},
-						{
-						"name": "DAZN 3 (FHD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/26%20DAZN%203.png",
-						"url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a",
-						"isHost": "true"
-						},
-						{
-						"name": "DAZN 4 (FHD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/26%20DAZN%203.png",
-						"url": "acestream://149a38e333de920753f1388c43247283bdb05f5b",
-						"isHost": "true"
-						},
-						{
-						"name": "Deportes (FHD)",
+						"name": "Deportes (1080p)",
 						"image": "https://www.socialcreator.com/srv/imgs/html/154415/14%20M%20DEPORTES(2).png",
-						"url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0",
-						"isHost": "true"
-						},
-						{
-						"name": "Deportes (HD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/14%20M%20DEPORTES(2).png",
-						"url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
-						"isHost": "true"
-						},
-						{
-						"name": "Deportes 2 (FHD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/14%20M%20DEPORTES(2).png",
-						"url": "acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5",
-						"isHost": "true"
-						},	
-						{
-						"name": "Eurosport 1 (FHD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/38%20EUROEPORT%201(1).JPG",
-						"url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2",
-						"isHost": "true"
-						},	
-						{
-						"name": "Eurosport 2 (FHD)",
-						"image": "https://www.socialcreator.com/srv/imgs/html/154415/42%20EUROSPORTS%202(1).jpg",
-						"url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
+						"url": "acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486",
 						"isHost": "true"
 						},		
 						{
-						"name": "M+ GOLF (FHD)",
-						"image": "",
-						"url": "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
-						"isHost": "true"
-						},
-						{
-						"name": "BEIN SPORT XTRA Ñ (HD)",
+						"name": "BEIN SPORT XTRA Ñ (720p)",
 						"image": "https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",
 						"url": "acestream://b5c017e94b72013902c02f6d145c77f753bc3e12",
 						"isHost": "true"
-						},	
+						},
 						{
-						"name": "ESPN 3 (HD)",
-						"image": "",
-						"url": "acestream://b97f5975dbd067655432512d4693b417bc85a714",
-						"isHost": "true"
-						},			
-						{
-						"name": "SPORT TV1 (PT FHD)",
+						"name": "SPORT TV1 (port.1080p)",
 						"image": "https://www.socialcreator.com/srv/imgs/html/154415/65%20SPORT%20TV1.png",
 						"url": "acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175",
 						"isHost": "true"
 						},
 						{
-						"name": "SPORT TV2 (PT HD)",
+						"name": "SPORT TV2 720p (port.720p)",
 						"image": "https://www.socialcreator.com/srv/imgs/html/154415/66%20SPORT%20TV2.png",
 						"url": "acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6",
 						"isHost": "true"
-						},
-						{
-						"name": "SPORT TV2 (PT HD)",
-						"image": "",
-						"url": "acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541",
-						"isHost": "true"
-						},
-						{
-						"name": "ELEVEN SPORTS 3 (BE HD)",
-						"image": "",
-						"url": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
-						"isHost": "true"
-						},
-						{
-						"name": "ELEVEN SPORTS 1 (BE FHD)",
-						"image": "",
-						"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
-						"isHost": "true"				
-						},
-						{
-						"name": " DİGİ SPORT 1 (RU SD)",
-						"image": "",
-						"url": "acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159",
-						"isHost": "true"				
-						},
-						{
-						"name": " DİGİ SPORT 3 (RU SD)",
-						"image": "",
-						"url": "acestream://b9dc6fdeaca5a5f4275db80d68536e023ce4ea06",
-						"isHost": "true"				
-						},
-						{
-						"name": "ELEVEN 1 (BE FHD)",
-						"image": "",
-						"url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-						"isHost": "true"				
 						},
 						{
 						"name": "BT SPORT 1 (ing)",
@@ -259,6 +151,119 @@
 						"image": "https://www.pngkey.com/png/full/967-9676257_bt-sport-2-logo.png",
 						"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
 						"isHost": "true"
+						},	
+						{
+						"name": "Eurosport 1 (1080p)",
+						"image": "https://www.socialcreator.com/srv/imgs/html/154415/38%20EUROEPORT%201(1).JPG",
+						"url": "acestream://40da37534656efcc6179c1b7693335d5e8212e43",
+						"isHost": "true"
+						},	
+						{
+						"name": "Eurosport 2 (1080p)",
+						"image": "https://www.socialcreator.com/srv/imgs/html/154415/42%20EUROSPORTS%202(1).jpg",
+						"url": "acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b",
+						"isHost": "true"
+						},
+						{
+						"name": "Liga de Campeones (multiaudio 1080p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
+						"url": "acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76",
+						"isHost": "true"
+						},
+						{
+						"name": "Liga de Campeones (1080p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
+						"url": "acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b",
+						"isHost": "true"
+						},
+						{
+						"name": "Liga de Campeones (720p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
+						"url": "acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d",
+						"isHost": "true"
+						},
+						{
+						"name": "Liga de Campeones 2 (720p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
+						"url": "acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28",
+						"isHost": "true"
+						},
+						{
+						"name": "Liga de Campeones 2 (720p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
+						"url": "acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3",
+						"isHost": "true"
+						},
+						{
+						"name": "Liga de Campeones 3 (1080p)",
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
+						"url": "acestream://f2b785193cfa99c581287be39e2fb5a73827957b",
+						"isHost": "true"
+						}
+					]
+				},
+				{
+				"name": "OTROS LINKS",
+				"image": "https://i.pinimg.com/736x/65/70/29/65702976f922a7df0f8bc48221b2384b.jpg",
+				"stations": 
+					[
+						{
+						"name": "ONDA 15 TV",
+						"image": "https://diretele.com/wp-content/uploads/2020/09/Onda-15-TV-en-directo-gratis-%E2%80%A2-Diretele-La-TV-de-Espana-Gratis.png",
+						"url": "hhttps://cloudvideo.servers10.com:8081/8034/tracks-v1a1/mono.m3u8",
+						"isHost": "true"
+						}
+					]
+				}
+			]
+		},		
+		{
+		"name":"PELIS",
+		"image":"https://s03.s3c.es/imag/_v0/630x339/f/5/f/cine.jpg",
+		"groups":
+			[
+				{
+				"name":"ESTRENOS",      "image":"https://1.bp.blogspot.com/-d6hnR9tBd8A/XuCU7sDBLfI/AAAAAAAABD8/rERsq-OeXXU30nyTv5pHvCl9YihkBWCLQCK4BGAsYHg/s1280/maxresdefault.jpg",
+				"stations":
+					[
+						{
+						"name": "Las colinas tienen ojos",
+                        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_e15f83559f0881509423e0a775b40ee1.jpg",
+						"url":"https://gamovideo.net/hmsoopjk7j76",
+						"userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Black Phone",
+                        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_235d84caaa25101aefc127d783e9c393.jpg",
+						"url":"https://gamovideo.net/xn86olruznga",
+						"userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+						"isHost":"true",
+						"online":"true"
+						} 
+					]
+				},
+				{
+       			"name":"OTRAS PELIS",
+				"image":"https://cdn2.mediotiempo.com/uploads/media/2019/01/01/varias-cintas-son-esperadas-para.jpg",
+				"stations":
+					[
+						{
+						"name": "La invitación",
+                        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_dfbc9a01e08b1334750fa0637f3210d4.jpg",
+						"url":"https://gamovideo.net/yzyslxmlw1pa",
+						"userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+						"isHost":"true",
+						"online":"true"
+						},
+						{
+						"name": "Predator: La presa",
+                        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_928a33bb830939d78c1956e68448990e.jpg",
+						"url": "https://gamovideo.net/qkps33llnb35",
+						"userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+						"isHost":"true",
+						"online":"true" 
 						}
 					]
 				}         
@@ -266,4 +271,3 @@
         }		
 	]
 }
-
