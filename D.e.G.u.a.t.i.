@@ -210,7 +210,7 @@
 						{
 						"name": "ONDA 15 TV",
 						"image": "https://diretele.com/wp-content/uploads/2020/09/Onda-15-TV-en-directo-gratis-%E2%80%A2-Diretele-La-TV-de-Espana-Gratis.png",
-						"url": "hhttps://cloudvideo.servers10.com:8081/8034/tracks-v1a1/mono.m3u8",
+						"url": "https://cloudvideo.servers10.com:8081/8034/tracks-v1a1/mono.m3u8",
 						"referer":"",
 						"desktop": "true",
 						"isHost": ""
