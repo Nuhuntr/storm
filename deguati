@@ -3469,8 +3469,10 @@ https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/720.m
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español 2(FHD)
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/telesur.png" group-title="Noticias",Telesur (FHD)
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/telesur-logo.png" group-title="Noticias",Telesur (FHD)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/yz/282004/png/venezolana-de-tv-logo.png" group-title="Noticias",Venezolana de TV (HD)
+https://live-c.cf.dmcdn.net/sec2(2sZcQgDPNOkjJb32BgjG3pT5pYOdk5AF9CobFR-J6bZkExfLa3qnDb3wUdaQc8m4hmweMYtMFz81lABL_XZoAj3ydpKcviarsenAFDG9dZQ)/dm/3/x930kre/s/live-720.m3u8#cell=lcfc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="Noticias",HispanTV (HD)
 https://live1.presstv.ir/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="Noticias",HispanTV (SD)
